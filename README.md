@@ -1,3 +1,34 @@
+# salvation-army-games
+This is our team repository for the salvation army games website.
+
+## Commands to run after pulling this repository:
+
+npm install
+
+npm i firebase
+
+npm i bootstrap
+
+npm i react-bootstrap
+
+npm i react-router-dom
+
+npm start
+
+## Git commands to push changes to your specific branch:
+
+git remote add origin https://github.com/cteeples/salvation-army-games.git
+
+git add .
+
+git commit -m "your-message" 
+
+git push origin localBranchName:remoteBranchName
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
