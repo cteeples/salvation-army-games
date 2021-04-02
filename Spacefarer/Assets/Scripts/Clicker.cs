@@ -1,9 +1,15 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.UI;
+
 
 public class Clicker : MonoBehaviour
 {
+
+    public string LevelElement;
+    public Text ScoreText;
+    public int Score;
 
     void Update()
     {
@@ -18,6 +24,18 @@ public class Clicker : MonoBehaviour
                 Kill_Interface click = hit.collider.GetComponent<Kill_Interface>();
                 if(click != null) click.onClickAction();
                 Debug.Log("hit collider " + hit.collider.tag);
+
+                if(hit.collider.tag == LevelElement)
+                {
+                    Score += 200;
+                }
+
+                else
+                {
+                    Score -= 100;
+                }
+
+                ScoreText.text = "Score: " + Score.ToString();
             }
         }
     }
