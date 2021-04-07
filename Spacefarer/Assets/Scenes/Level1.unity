@@ -145,11 +145,13 @@ MonoBehaviour:
   - {fileID: 5362058140575120093, guid: 927c1bf55df2efd4bbc770debbf90cbe, type: 3}
   - {fileID: 5362058140575120093, guid: 927c1bf55df2efd4bbc770debbf90cbe, type: 3}
   - {fileID: 4997682876500645697, guid: 3cee6b41e808bfc4d9f5ba0fa4d97032, type: 3}
+  gameEndObjects: []
   spawnPoint:
   - {fileID: 1861117699}
   - {fileID: 1682555674}
   - {fileID: 1677151309}
-  maxEnemies: 10
+  maxEnemies: 3
+  GameIsOver: 0
   startTimeBTSpawns: 1
 --- !u!4 &152654517
 Transform:

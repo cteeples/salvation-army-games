@@ -28,11 +28,13 @@ public class Clicker : MonoBehaviour
                 if(hit.collider.tag == LevelElement)
                 {
                     Score += 200;
+                    PlayerPrefs.SetInt("PlayerScore", Score);
                 }
 
                 else
                 {
                     Score -= 100;
+                    PlayerPrefs.SetInt("PlayerScore", Score);
                 }
 
                 ScoreText.text = "Score: " + Score.ToString();

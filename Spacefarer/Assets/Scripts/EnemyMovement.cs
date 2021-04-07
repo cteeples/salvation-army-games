@@ -46,7 +46,7 @@ public class EnemyMovement : MonoBehaviour
         if(((faceRight) && (localScale.x < 0)) || ((!faceRight) && (localScale.x > 0)))
             localScale.x *= -1;
         
-        transform.localScale = localScale;
+        //transform.localScale = localScale;
     }
 
     void MoveRight()
