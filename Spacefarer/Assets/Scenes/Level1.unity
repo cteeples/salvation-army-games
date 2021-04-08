@@ -145,12 +145,13 @@ MonoBehaviour:
   - {fileID: 5362058140575120093, guid: 927c1bf55df2efd4bbc770debbf90cbe, type: 3}
   - {fileID: 5362058140575120093, guid: 927c1bf55df2efd4bbc770debbf90cbe, type: 3}
   - {fileID: 4997682876500645697, guid: 3cee6b41e808bfc4d9f5ba0fa4d97032, type: 3}
+  - {fileID: 6904465586562582410, guid: 75fa40291407cb34aa01a6a2b13cc7a8, type: 3}
   gameEndObjects: []
   spawnPoint:
   - {fileID: 1861117699}
   - {fileID: 1682555674}
   - {fileID: 1677151309}
-  maxEnemies: 3
+  maxEnemies: 10
   GameIsOver: 0
   startTimeBTSpawns: 1
 --- !u!4 &152654517
@@ -312,7 +313,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2950ac55bc834724fb51556917c76dd3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  LevelElement: Enemy
+  LevelElement: Noble Gas
   ScoreText: {fileID: 600667092}
   Score: 0
 --- !u!20 &519420031

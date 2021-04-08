@@ -32,7 +32,7 @@ public class EnemySpawner : MonoBehaviour
             randE = Random.Range(0, enemies.Length);
             randS = Random.Range(0, spawnPoint.Length);
             newEnemy = Instantiate(enemies[randE], spawnPoint[randS].transform.position, Quaternion.identity);
-            Destroy(newEnemy.gameObject, 8.0f);
+            Destroy(newEnemy.gameObject, 10.0f);
             startEnemyNum++;
             timeBTspawns = startTimeBTSpawns;
     
@@ -60,7 +60,7 @@ public class EnemySpawner : MonoBehaviour
 
     IEnumerator Countdown()
     {
-        yield return new WaitForSeconds(6f);
+        yield return new WaitForSeconds(8f);
         SceneManager.LoadScene("GameOver");
     }
 
