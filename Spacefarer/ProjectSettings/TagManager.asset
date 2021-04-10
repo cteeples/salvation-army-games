@@ -12,6 +12,11 @@ TagManager:
   - Nonmetal
   - Alkali Metal
   - Alkaline Earth Metal
+  - Metalloid
+  - Other Metal
+  - Transition Metal
+  - Lanthanide
+  - Actinide
   layers:
   - Default
   - TransparentFX
