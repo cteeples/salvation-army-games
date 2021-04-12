@@ -61,8 +61,8 @@
      <Compile Include="Assets\Scripts\FollowCursor.cs" />
      <Compile Include="Assets\Scripts\Kill_Interface.cs" />
      <Compile Include="Assets\Scripts\MainMenuScript.cs" />
-     <Compile Include="Assets\Scripts\MovePattern.cs" />
      <Compile Include="Assets\Scripts\QuitGame.cs" />
+     <Compile Include="Assets\Scripts\QuitToLevelSelect.cs" />
      <Compile Include="Assets\Scripts\ScoreSceneScript.cs" />
      <Compile Include="Assets\Scripts\UI_MGMT.cs" />
      <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\Benchmark01.cs" />
