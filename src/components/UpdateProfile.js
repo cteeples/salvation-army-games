@@ -12,7 +12,7 @@ export default function UpdateProfile() {
     const [loading, setLoading] = useState(false)
     const history = useHistory()
 
-    async function handleSubmit(e) {
+    function handleSubmit(e) {
         e.preventDefault()
 
         if (passwordRef.current.value !== passwordConfirmRef.current.value) {
@@ -47,6 +47,7 @@ export default function UpdateProfile() {
             <Card>
                 <Card.Body>
                     <h2 className="text-center mb-4">Update Profile</h2>
+                    {/* {loading && <h2>loading</h2>} */}
                     {error && <Alert variant="danger">{error}</Alert>}
                     <Form onSubmit={handleSubmit}>
                         <Form.Group id="email">
