@@ -13,6 +13,18 @@ npm i react-bootstrap
 
 npm i react-router-dom
 
+npm i font-awesome
+
+npm i @fortawesome/react-fontawesome
+
+npm i --save @fortawesome/fontawesome-svg-core
+
+npm install --save @fortawesome/free-solid-svg-icons
+
+npm install --save @fortawesome/react-fontawesome
+
+npm install --save react @trendmicro/react-sidenav
+
 npm start
 
 ## Git commands to push changes to your specific branch:
