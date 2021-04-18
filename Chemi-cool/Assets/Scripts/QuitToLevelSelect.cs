@@ -5,13 +5,7 @@ using UnityEngine.SceneManagement;
 
 public class QuitToLevelSelect : MonoBehaviour
 {
-    // Start is called before the first frame update
-    void Start()
-    {
-        
-    }
-
-    // Update is called once per frame
+    // Grab input to see if quit button was pressed & return to level selection
     void Update()
     {
         if(Input.GetKeyDown(KeyCode.Q)){

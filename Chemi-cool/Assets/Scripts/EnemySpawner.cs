@@ -5,18 +5,25 @@ using UnityEngine;
 
 public class EnemySpawner : MonoBehaviour
 {
+    /*  From the pool of enemies "enemies", generate a new instance of an element
+        For each enemy "newEnemy" we mark for death at no cost to player as the screen would clutter
+        A spawnpoint is selected randomly so the player must move around to attack
+        Each level has a set number of max elements that can spawn
+    */
     public GameObject[] enemies;
-    public GameObject[] gameEndObjects;
     private GameObject newEnemy;
     public Transform[] spawnPoint;
     public int maxEnemies;
     private int startEnemyNum;
 
+    // when this is true the game over scene will be called
     public bool GameIsOver = false;
 
+    // random vars for Elements and Spawnpoints
     private int randE;
     private int randS;
 
+    // determines spawn intervals
     public float startTimeBTSpawns;
     private float timeBTspawns;
 
@@ -29,6 +36,7 @@ public class EnemySpawner : MonoBehaviour
     {
         if (timeBTspawns <= 0 && startEnemyNum < maxEnemies )
         {
+
             randE = Random.Range(0, enemies.Length);
             randS = Random.Range(0, spawnPoint.Length);
             newEnemy = Instantiate(enemies[randE], spawnPoint[randS].transform.position, Quaternion.identity);
@@ -58,6 +66,7 @@ public class EnemySpawner : MonoBehaviour
             
     }
 
+    // wait a bit to ensure player has enough time to kill last enemy if needed
     IEnumerator Countdown()
     {
         yield return new WaitForSeconds(8f);

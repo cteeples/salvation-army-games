@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
+// follow cursor and act as crosshairs
 public class FollowCursor : MonoBehaviour
 {
     public void Start()

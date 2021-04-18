@@ -4,6 +4,8 @@ using UnityEngine;
 
 public class EnemyMovement : MonoBehaviour
 {
+
+    //adjustable fields to tweak movement
     [SerializeField]
     float speed = 5f;
 
@@ -27,6 +29,7 @@ public class EnemyMovement : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
+        // see which direction element is going
         CheckFace ();
 
         if(faceRight)
@@ -35,8 +38,10 @@ public class EnemyMovement : MonoBehaviour
             MoveLeft();
     }
 
+    // Checks direction in Update()
     void CheckFace()
     {
+        // We use screen dimensions to determine if we are out of the camera on either side
         if(pos.x < -13.5f)
             faceRight = true;
         
@@ -45,10 +50,10 @@ public class EnemyMovement : MonoBehaviour
 
         if(((faceRight) && (localScale.x < 0)) || ((!faceRight) && (localScale.x > 0)))
             localScale.x *= -1;
-        
-        //transform.localScale = localScale;
     }
 
+    // Movement is sinusoidal and chosen based on which direction element is facing
+    // Future implementation: more randomized patterns, but must be compatible with screen dimensions
     void MoveRight()
     {
         pos += transform.right * Time.deltaTime * speed;
