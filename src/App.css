@@ -29,11 +29,13 @@
 }
 
 .side-nav {
-  position: absolute;
-  top: 20px;
-  color: black;
+  position: fixed;
+  background: #e44745;
 }
 
+.card:hover {
+  cursor: pointer;
+}
 .nav {
   left: 2%;
   background: rgb(255,255,255);
@@ -43,6 +45,11 @@
 .main {
   /* background: rgb(242,242,242);
   background: linear-gradient(90deg, rgba(242,242,242,1) 59%, rgba(255,255,255,1) 94%, rgba(255,255,255,1) 97%); */
+  margin-left: 50px;
+}
+
+.home {
+  overflow: hidden;
 }
 
 @keyframes App-logo-spin {

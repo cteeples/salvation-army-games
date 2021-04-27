@@ -25,6 +25,8 @@ npm install --save @fortawesome/react-fontawesome
 
 npm install --save react @trendmicro/react-sidenav
 
+npm install semantic-ui-react semantic-ui-css
+
 npm start
 
 ## Git commands to push changes to your specific branch:

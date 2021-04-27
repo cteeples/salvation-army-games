@@ -1,9 +1,11 @@
 import React, {useRef, useState} from 'react'
-import {Form, Button, Card, Alert} from 'react-bootstrap'
+import {Form, Button, Card, Alert, Container} from 'react-bootstrap'
 import { useAuth } from '../contexts/AuthContext'
 import { Link, useHistory } from "react-router-dom"
 
 export default function Signup() {
+    const firstNameRef = useRef()
+    const lastNameRef = useRef()
     const emailRef = useRef()
     const passwordRef = useRef()
     const passwordConfirmRef = useRef()
@@ -18,11 +20,16 @@ export default function Signup() {
         if (passwordRef.current.value !== passwordConfirmRef.current.value) {
             return setError('Passwords do not match')
         }
-        
+
+        if (passwordRef.current.value.length < 6) {
+            return setError('Password is less than 6 characters')
+        }
+
         try {
             setError('')
             setLoading(true)
-            await signup(emailRef.current.value, passwordRef.current.value)
+            await signup(firstNameRef.current.value, lastNameRef.current.value, emailRef.current.value, passwordRef.current.value)
+            history.push("/dashboard")
         } catch {
             setError('Failed to create an account')
         }
@@ -31,12 +38,20 @@ export default function Signup() {
     }
 
     return (
-        <>
-            <Card>
+        <Container className="d-flex align-items-center justify-content-center">
+            <Card style={{ minWidth: "400px"}}>
                 <Card.Body>
                     <h2 className="text-center mb-4">Sign Up</h2>
                     {error && <Alert variant="danger">{error}</Alert>}
                     <Form onSubmit={handleSubmit}>
+                        <Form.Group id="firstName">
+                            <Form.Label>First Name</Form.Label>
+                            <Form.Control ref={firstNameRef} required />
+                        </Form.Group>
+                        <Form.Group id="lastName">
+                            <Form.Label>Last Name</Form.Label>
+                            <Form.Control ref={lastNameRef} required />
+                        </Form.Group>
                         <Form.Group id="email">
                             <Form.Label>Email</Form.Label>
                             <Form.Control type="email" ref={emailRef} required />
@@ -49,13 +64,13 @@ export default function Signup() {
                             <Form.Label>Password Confirmation</Form.Label>
                             <Form.Control type="password" ref={passwordConfirmRef} required />
                         </Form.Group>
-                        <Button diabled={loading} type="submit" className="w-100">Sign Up</Button>
+                        <Button disabled={loading} type="submit" className="w-100">Sign Up</Button>
                     </Form>
                 </Card.Body>
                 <div className="w-100 text-center mt-2">
                     Already have an acount? <Link to="/login">Log In</Link>
                 </div>
             </Card>
-        </>
+        </Container>
     )
 }
