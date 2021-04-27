@@ -1,5 +1,9 @@
 import React, {useContext, useState, useEffect} from 'react'
 import {auth} from "../firebase"
+import app from "../firebase"
+
+const userRef = app.firestore().collection('users');
+const commentRef = app.firestore().collection('comments');
 
 const AuthContext = React.createContext()
 
@@ -9,10 +13,22 @@ export function useAuth() {
 
 export function AuthProvider({ children }) {
     const  [currentUser, setCurrentUser] = useState()
+    const [userInfo, setUserInfo] = useState()
     const [loading, setLoading] = useState(true)
 
-    function signup(email, password) {
-        return auth.createUserWithEmailAndPassword(email, password)
+    function signup(firstName, lastName, email, password) {
+        auth.createUserWithEmailAndPassword(email, password).then(cred => {
+            const userItem = {
+                firstName: firstName,
+                lastName: lastName,
+            };
+
+            return userRef.doc(cred.user.uid)
+            .set(userItem)
+            .catch((err) => {
+                console.error(err);
+              });
+        })
     }
 
     function login(email, password) {
@@ -35,6 +51,31 @@ export function AuthProvider({ children }) {
         return currentUser.updatePassword(password)
     }
 
+    function getUserInfo() {
+        var items = []
+
+        userRef.doc(currentUser.uid).get().then(doc => {
+            // doc.forEach(doc => {
+            //     items.append(doc.data())
+            // })
+            // return doc.data()
+            items.push(doc.data())
+        })
+        return items
+    }
+
+    function getComments() {
+        var items = []
+
+        commentRef.orderBy('date').onSnapshot(snap => {
+            snap.forEach(item => {
+                items.push(item.data())
+            })
+        })
+
+        return items
+    }
+
     useEffect(() => {
         const unsubscribe = auth.onAuthStateChanged(user => {
             setCurrentUser(user)
@@ -50,6 +91,8 @@ export function AuthProvider({ children }) {
         signup, 
         logout,
         resetPassword,
+        getComments,
+        getUserInfo,
         updateEmail,
         updatePassword
     }
