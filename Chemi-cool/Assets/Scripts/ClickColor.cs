@@ -12,6 +12,7 @@ public class ClickColor : MonoBehaviour
         if(Input.GetMouseButtonDown(0))
         {
             StartCoroutine(FlashAim());
+            FindObjectOfType<AudioMNGR>().Play("Blast");
         }
     }
 

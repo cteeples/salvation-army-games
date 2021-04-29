@@ -34,6 +34,7 @@ public class Clicker : MonoBehaviour
                 {
                     Score += 200;
                     PlayerPrefs.SetInt("PlayerScore", Score);
+                    FindObjectOfType<AudioMNGR>().Play("Correct");
                 }
 
                 // if incorrect, deduct score
@@ -41,6 +42,7 @@ public class Clicker : MonoBehaviour
                 {
                     Score -= 100;
                     PlayerPrefs.SetInt("PlayerScore", Score);
+                    FindObjectOfType<AudioMNGR>().Play("Wrong");
                 }
 
                 // update score text

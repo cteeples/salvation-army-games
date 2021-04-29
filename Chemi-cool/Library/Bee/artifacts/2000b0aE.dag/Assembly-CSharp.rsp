@@ -25,6 +25,7 @@
 -define:UNITY_2020_3_OR_NEWER
 -define:UNITY_2021_1_OR_NEWER
 -define:UNITY_INCLUDE_TESTS
+-define:UNITY_ANALYTICS
 -define:USE_SEARCH_ENGINE_API
 -define:USE_QUICK_SEARCH_MODULE
 -define:SCENE_TEMPLATE_MODULE
@@ -90,6 +91,7 @@
 -define:ENABLE_TILEMAP
 -define:ENABLE_TIMELINE
 -define:ENABLE_LEGACY_INPUT_MANAGER
+-define:UNITY_POST_PROCESSING_STACK_V2
 -define:CSHARP_7_OR_LATER
 -define:CSHARP_7_3_OR_NEWER
 -r:"C:/Program Files/Unity/Hub/Editor/2021.1.3f1/Editor/Data/Managed/UnityEngine/UnityEditor.CoreModule.dll"
@@ -292,6 +294,8 @@
 -r:"Library/Bee/artifacts/2000b0aE.dag/Unity.2D.Sprite.Editor.ref.dll"
 -r:"Library/Bee/artifacts/2000b0aE.dag/Unity.2D.Tilemap.Editor.ref.dll"
 -r:"Library/Bee/artifacts/2000b0aE.dag/Unity.Analytics.DataPrivacy.ref.dll"
+-r:"Library/Bee/artifacts/2000b0aE.dag/Unity.Postprocessing.Editor.ref.dll"
+-r:"Library/Bee/artifacts/2000b0aE.dag/Unity.Postprocessing.Runtime.ref.dll"
 -r:"Library/Bee/artifacts/2000b0aE.dag/Unity.Rider.Editor.ref.dll"
 -r:"Library/Bee/artifacts/2000b0aE.dag/Unity.TextMeshPro.Editor.ref.dll"
 -r:"Library/Bee/artifacts/2000b0aE.dag/Unity.TextMeshPro.ref.dll"
@@ -314,6 +318,12 @@
 -r:"Library/Bee/artifacts/2000b0aE.dag/UnityEngine.SpatialTracking.ref.dll"
 -r:"Library/Bee/artifacts/2000b0aE.dag/UnityEngine.UI.ref.dll"
 -r:"Library/Bee/artifacts/2000b0aE.dag/UnityEngine.XR.LegacyInputHelpers.ref.dll"
+"Assets/SCI-FI UI Pack Pro/Common/Scripts/CircleSlider.cs"
+"Assets/SCI-FI UI Pack Pro/Common/Scripts/JustRotate.cs"
+"Assets/SCI-FI UI Pack Pro/Common/Scripts/PressedBtn.cs"
+"Assets/SCI-FI UI Pack Pro/Common/Scripts/SliderRunTo1.cs"
+"Assets/SCI-FI UI Pack Pro/Common/Scripts/SliderValuePass.cs"
+"Assets/Scripts/AudioMNGR.cs"
 "Assets/Scripts/ClickColor.cs"
 "Assets/Scripts/Clicker.cs"
 "Assets/Scripts/DestroyEnemy.cs"
@@ -322,9 +332,11 @@
 "Assets/Scripts/FollowCursor.cs"
 "Assets/Scripts/Kill_Interface.cs"
 "Assets/Scripts/MainMenuScript.cs"
+"Assets/Scripts/Menu_press_audio.cs"
 "Assets/Scripts/QuitGame.cs"
 "Assets/Scripts/QuitToLevelSelect.cs"
 "Assets/Scripts/ScoreSceneScript.cs"
+"Assets/Scripts/Sound.cs"
 "Assets/Scripts/UI_MGMT.cs"
 "Assets/TextMesh Pro/Examples & Extras/Scripts/Benchmark01.cs"
 "Assets/TextMesh Pro/Examples & Extras/Scripts/Benchmark01_UGUI.cs"
