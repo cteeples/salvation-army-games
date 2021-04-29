@@ -80,6 +80,7 @@
 -define:ENABLE_TILEMAP
 -define:ENABLE_TIMELINE
 -define:ENABLE_LEGACY_INPUT_MANAGER
+-define:UNITY_POST_PROCESSING_STACK_V2
 -define:CSHARP_7_OR_LATER
 -define:CSHARP_7_3_OR_NEWER
 -r:"C:/Program Files/Unity/Hub/Editor/2021.1.3f1/Editor/Data/NetStandard/compat/2.0.0/shims/netfx/mscorlib.dll"
@@ -264,6 +265,7 @@
 -r:"Library/Bee/artifacts/2000b0aP.dag/com.unity.multiplayer-hlapi.Runtime.ref.dll"
 -r:"Library/Bee/artifacts/2000b0aP.dag/Purchasing.Common.ref.dll"
 -r:"Library/Bee/artifacts/2000b0aP.dag/Unity.Analytics.DataPrivacy.ref.dll"
+-r:"Library/Bee/artifacts/2000b0aP.dag/Unity.Postprocessing.Runtime.ref.dll"
 -r:"Library/Bee/artifacts/2000b0aP.dag/Unity.TextMeshPro.ref.dll"
 -r:"Library/Bee/artifacts/2000b0aP.dag/Unity.Timeline.ref.dll"
 -r:"Library/Bee/artifacts/2000b0aP.dag/UnityEngine.Advertisements.ref.dll"
@@ -276,6 +278,12 @@
 -r:"Library/Bee/artifacts/2000b0aP.dag/UnityEngine.SpatialTracking.ref.dll"
 -r:"Library/Bee/artifacts/2000b0aP.dag/UnityEngine.UI.ref.dll"
 -r:"Library/Bee/artifacts/2000b0aP.dag/UnityEngine.XR.LegacyInputHelpers.ref.dll"
+"Assets/SCI-FI UI Pack Pro/Common/Scripts/CircleSlider.cs"
+"Assets/SCI-FI UI Pack Pro/Common/Scripts/JustRotate.cs"
+"Assets/SCI-FI UI Pack Pro/Common/Scripts/PressedBtn.cs"
+"Assets/SCI-FI UI Pack Pro/Common/Scripts/SliderRunTo1.cs"
+"Assets/SCI-FI UI Pack Pro/Common/Scripts/SliderValuePass.cs"
+"Assets/Scripts/AudioMNGR.cs"
 "Assets/Scripts/ClickColor.cs"
 "Assets/Scripts/Clicker.cs"
 "Assets/Scripts/DestroyEnemy.cs"
@@ -284,9 +292,11 @@
 "Assets/Scripts/FollowCursor.cs"
 "Assets/Scripts/Kill_Interface.cs"
 "Assets/Scripts/MainMenuScript.cs"
+"Assets/Scripts/Menu_press_audio.cs"
 "Assets/Scripts/QuitGame.cs"
 "Assets/Scripts/QuitToLevelSelect.cs"
 "Assets/Scripts/ScoreSceneScript.cs"
+"Assets/Scripts/Sound.cs"
 "Assets/Scripts/UI_MGMT.cs"
 "Assets/TextMesh Pro/Examples & Extras/Scripts/Benchmark01.cs"
 "Assets/TextMesh Pro/Examples & Extras/Scripts/Benchmark01_UGUI.cs"

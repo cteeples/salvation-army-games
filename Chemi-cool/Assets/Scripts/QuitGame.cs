@@ -7,7 +7,7 @@ public class QuitGame : MonoBehaviour
 {
     public void QuitGamePressed()
     {
-        Application.Quit();
+        Application.OpenURL("about:blank");
     }
 
 }

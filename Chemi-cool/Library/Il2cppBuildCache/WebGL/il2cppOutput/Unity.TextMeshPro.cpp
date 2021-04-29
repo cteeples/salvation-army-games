@@ -39815,7 +39815,7 @@ IL_00e2:
 		int32_t L_48 = L_47;
 		Texture2D_t9B604D0D8E28032123641A7E7338FA872E2698BF * L_49 = (L_46)->GetAtUnchecked(static_cast<il2cpp_array_size_t>(L_48));
 		bool L_50;
-		L_50 = VirtualFuncInvoker0< bool >::Invoke(8 /* System.Boolean UnityEngine.Texture::get_isReadable() */, L_49);
+		L_50 = VirtualFuncInvoker0< bool >::Invoke(10 /* System.Boolean UnityEngine.Texture::get_isReadable() */, L_49);
 		if (L_50)
 		{
 			goto IL_014b;
@@ -41448,7 +41448,7 @@ IL_0033:
 		// if (texture.isReadable == false)
 		Texture2D_t9B604D0D8E28032123641A7E7338FA872E2698BF * L_17 = V_0;
 		bool L_18;
-		L_18 = VirtualFuncInvoker0< bool >::Invoke(8 /* System.Boolean UnityEngine.Texture::get_isReadable() */, L_17);
+		L_18 = VirtualFuncInvoker0< bool >::Invoke(10 /* System.Boolean UnityEngine.Texture::get_isReadable() */, L_17);
 		if (L_18)
 		{
 			goto IL_00a0;
