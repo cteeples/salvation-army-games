@@ -33,6 +33,8 @@ npm install moment
 
 npm i react-moment
 
+npm install react-unity-webgl
+
 npm start
 
 ## Git commands to push changes to your specific branch:
