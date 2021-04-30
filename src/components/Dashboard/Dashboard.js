@@ -11,23 +11,22 @@ import Game2 from "./Home/Game2"
 import Game3 from "./Home/Game3"
 import { useAuth } from '../../contexts/AuthContext'
 
-
 export default function Dashboard() {
 
-  const {currentUser} = useAuth();
+  const {currentUser, userInfo} = useAuth();
 
     return (
         <>
-        <Navbar className="ml-5 nav" style={{ maxWidth: "94%" }}>
-            <Navbar.Brand  href="#home">S4naptic</Navbar.Brand>
+        <Navbar  sticky="top" className="ml-5 nav" style={{ maxWidth: "94%" }}>
+            <Navbar.Brand  href="#home">Syn4ptic</Navbar.Brand>
             <Navbar.Toggle />
             <Navbar.Collapse className="justify-content-end">
             <Navbar.Text className="">
-                Signed in as: <a href="#login">Mark Otto</a>
+                Signed in as: <a href="#login">{userInfo && userInfo.firstName} {userInfo && userInfo.lastName}</a>
             </Navbar.Text>
             </Navbar.Collapse>
         </Navbar>
-        <MySideNav/>  
+        <MySideNav className="side-nav"/>  
         <Layout>  
           <Switch>
             <Route exact path="/dashboard" component={Home}/>

@@ -1,10 +1,13 @@
 import React from 'react';
 import {Container} from 'react-bootstrap';
+import ChatSideNav from './ChatSideNav'
+import ChatBody from './ChatBody'
 
 export default function Chat() {
     return(
-    <Container className="ml-5">
-        chat
-    </Container>
+    <div>
+        <ChatSideNav/>
+        <ChatBody/>
+    </div>
     ) 
 }
