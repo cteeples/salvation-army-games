@@ -38,7 +38,6 @@
       "Inputs": [
         "C:/Users/Haley/Documents/GitHub/salvation-army-games/Chemi-cool/Temp/StagingArea/Data/Managed",
         "C:/Users/Haley/Documents/GitHub/salvation-army-games/Chemi-cool/Temp/StagingArea/Data/Managed/Assembly-CSharp.dll",
-        "C:/Users/Haley/Documents/GitHub/salvation-army-games/Chemi-cool/Temp/StagingArea/Data/Managed/com.unity.multiplayer-hlapi.Runtime.dll",
         "C:/Users/Haley/Documents/GitHub/salvation-army-games/Chemi-cool/Temp/StagingArea/Data/Managed/Mono.Security.dll",
         "C:/Users/Haley/Documents/GitHub/salvation-army-games/Chemi-cool/Temp/StagingArea/Data/Managed/mscorlib.dll",
         "C:/Users/Haley/Documents/GitHub/salvation-army-games/Chemi-cool/Temp/StagingArea/Data/Managed/System.Configuration.dll",
@@ -55,7 +54,6 @@
         "C:/Users/Haley/Documents/GitHub/salvation-army-games/Chemi-cool/Temp/StagingArea/Data/Managed/UnityEngine.IMGUIModule.dll",
         "C:/Users/Haley/Documents/GitHub/salvation-army-games/Chemi-cool/Temp/StagingArea/Data/Managed/UnityEngine.InputLegacyModule.dll",
         "C:/Users/Haley/Documents/GitHub/salvation-army-games/Chemi-cool/Temp/StagingArea/Data/Managed/UnityEngine.InputModule.dll",
-        "C:/Users/Haley/Documents/GitHub/salvation-army-games/Chemi-cool/Temp/StagingArea/Data/Managed/UnityEngine.JSONSerializeModule.dll",
         "C:/Users/Haley/Documents/GitHub/salvation-army-games/Chemi-cool/Temp/StagingArea/Data/Managed/UnityEngine.ParticleSystemModule.dll",
         "C:/Users/Haley/Documents/GitHub/salvation-army-games/Chemi-cool/Temp/StagingArea/Data/Managed/UnityEngine.Physics2DModule.dll",
         "C:/Users/Haley/Documents/GitHub/salvation-army-games/Chemi-cool/Temp/StagingArea/Data/Managed/UnityEngine.PhysicsModule.dll",
@@ -69,7 +67,6 @@
         "C:/Users/Haley/Documents/GitHub/salvation-army-games/Chemi-cool/Temp/StagingArea/Data/Managed/UnityEngine.UIElementsModule.dll",
         "C:/Users/Haley/Documents/GitHub/salvation-army-games/Chemi-cool/Temp/StagingArea/Data/Managed/UnityEngine.UIElementsNativeModule.dll",
         "C:/Users/Haley/Documents/GitHub/salvation-army-games/Chemi-cool/Temp/StagingArea/Data/Managed/UnityEngine.UIModule.dll",
-        "C:/Users/Haley/Documents/GitHub/salvation-army-games/Chemi-cool/Temp/StagingArea/Data/Managed/UnityEngine.UNETModule.dll",
         "C:/Users/Haley/Documents/GitHub/salvation-army-games/Chemi-cool/Temp/StagingArea/Data/Managed/UnityEngine.UnityAnalyticsModule.dll",
         "C:/Users/Haley/Documents/GitHub/salvation-army-games/Chemi-cool/Temp/StagingArea/Data/Managed/UnityEngine.UnityWebRequestModule.dll",
         "C:/Users/Haley/Documents/GitHub/salvation-army-games/Chemi-cool/Temp/StagingArea/Data/Managed/UnityEngine.VRModule.dll",

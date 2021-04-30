@@ -12979,6 +12979,12 @@ public:
 	Vector3_t65B972D6A585A0A5B63153CF1177A90D3C90D65E  ___pos_8;
 	// UnityEngine.Vector3 EnemyMovement::localScale
 	Vector3_t65B972D6A585A0A5B63153CF1177A90D3C90D65E  ___localScale_9;
+	// System.Single EnemyMovement::randF
+	float ___randF_10;
+	// System.Single EnemyMovement::randM
+	float ___randM_11;
+	// System.Single EnemyMovement::randS
+	float ___randS_12;
 
 public:
 	inline static int32_t get_offset_of_speed_4() { return static_cast<int32_t>(offsetof(EnemyMovement_t1BCFAC1EEDD5C63C392D258F39BCDECE875BB2A0, ___speed_4)); }
@@ -13027,6 +13033,30 @@ public:
 	inline void set_localScale_9(Vector3_t65B972D6A585A0A5B63153CF1177A90D3C90D65E  value)
 	{
 		___localScale_9 = value;
+	}
+
+	inline static int32_t get_offset_of_randF_10() { return static_cast<int32_t>(offsetof(EnemyMovement_t1BCFAC1EEDD5C63C392D258F39BCDECE875BB2A0, ___randF_10)); }
+	inline float get_randF_10() const { return ___randF_10; }
+	inline float* get_address_of_randF_10() { return &___randF_10; }
+	inline void set_randF_10(float value)
+	{
+		___randF_10 = value;
+	}
+
+	inline static int32_t get_offset_of_randM_11() { return static_cast<int32_t>(offsetof(EnemyMovement_t1BCFAC1EEDD5C63C392D258F39BCDECE875BB2A0, ___randM_11)); }
+	inline float get_randM_11() const { return ___randM_11; }
+	inline float* get_address_of_randM_11() { return &___randM_11; }
+	inline void set_randM_11(float value)
+	{
+		___randM_11 = value;
+	}
+
+	inline static int32_t get_offset_of_randS_12() { return static_cast<int32_t>(offsetof(EnemyMovement_t1BCFAC1EEDD5C63C392D258F39BCDECE875BB2A0, ___randS_12)); }
+	inline float get_randS_12() const { return ___randS_12; }
+	inline float* get_address_of_randS_12() { return &___randS_12; }
+	inline void set_randS_12(float value)
+	{
+		___randS_12 = value;
 	}
 };
 
@@ -24751,6 +24781,18 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void EnemyMovement_Start_mB666BB660A59344BCAE
 		Vector3_t65B972D6A585A0A5B63153CF1177A90D3C90D65E  L_3;
 		L_3 = Transform_get_localScale_mD9DF6CA81108C2A6002B5EA2BE25A6CD2723D046(L_2, /*hidden argument*/NULL);
 		__this->set_localScale_9(L_3);
+		// randF = Random.Range(0.5f, 3f);
+		float L_4;
+		L_4 = Random_Range_mC15372D42A9ABDCAC3DE82E114D60A40C9C311D2((0.5f), (3.0f), /*hidden argument*/NULL);
+		__this->set_randF_10(L_4);
+		// randM = Random.Range(0.5f, 3f);
+		float L_5;
+		L_5 = Random_Range_mC15372D42A9ABDCAC3DE82E114D60A40C9C311D2((0.5f), (3.0f), /*hidden argument*/NULL);
+		__this->set_randM_11(L_5);
+		// randS = Random.Range(5f, 7f);
+		float L_6;
+		L_6 = Random_Range_mC15372D42A9ABDCAC3DE82E114D60A40C9C311D2((5.0f), (7.0f), /*hidden argument*/NULL);
+		__this->set_randS_12(L_6);
 		// }
 		return;
 	}
@@ -24870,7 +24912,7 @@ IL_007c:
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void EnemyMovement_MoveRight_mF067C3894A4B2CEA43BF68FB8264A8D7E65C9059 (EnemyMovement_t1BCFAC1EEDD5C63C392D258F39BCDECE875BB2A0 * __this, const RuntimeMethod* method)
 {
 	{
-		// pos += transform.right * Time.deltaTime * speed;
+		// pos += transform.right * Time.deltaTime * (speed * randS);
 		Vector3_t65B972D6A585A0A5B63153CF1177A90D3C90D65E  L_0 = __this->get_pos_8();
 		Transform_tA8193BB29D4D2C7EC04918F3ED1816345186C3F1 * L_1;
 		L_1 = Component_get_transform_mE8496EBC45BEB1BADB5F314960F1DF1C952FA11F(__this, /*hidden argument*/NULL);
@@ -24881,32 +24923,35 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void EnemyMovement_MoveRight_mF067C3894A4B2CE
 		Vector3_t65B972D6A585A0A5B63153CF1177A90D3C90D65E  L_4;
 		L_4 = Vector3_op_Multiply_m9EA3D18290418D7B410C7D11C4788C13BFD2C30A_inline(L_2, L_3, /*hidden argument*/NULL);
 		float L_5 = __this->get_speed_4();
-		Vector3_t65B972D6A585A0A5B63153CF1177A90D3C90D65E  L_6;
-		L_6 = Vector3_op_Multiply_m9EA3D18290418D7B410C7D11C4788C13BFD2C30A_inline(L_4, L_5, /*hidden argument*/NULL);
+		float L_6 = __this->get_randS_12();
 		Vector3_t65B972D6A585A0A5B63153CF1177A90D3C90D65E  L_7;
-		L_7 = Vector3_op_Addition_mEE4F672B923CCB184C39AABCA33443DB218E50E0_inline(L_0, L_6, /*hidden argument*/NULL);
-		__this->set_pos_8(L_7);
-		// transform.position = pos + transform.up * Mathf.Sin(Time.time * freq) * mag;
-		Transform_tA8193BB29D4D2C7EC04918F3ED1816345186C3F1 * L_8;
-		L_8 = Component_get_transform_mE8496EBC45BEB1BADB5F314960F1DF1C952FA11F(__this, /*hidden argument*/NULL);
-		Vector3_t65B972D6A585A0A5B63153CF1177A90D3C90D65E  L_9 = __this->get_pos_8();
-		Transform_tA8193BB29D4D2C7EC04918F3ED1816345186C3F1 * L_10;
-		L_10 = Component_get_transform_mE8496EBC45BEB1BADB5F314960F1DF1C952FA11F(__this, /*hidden argument*/NULL);
-		Vector3_t65B972D6A585A0A5B63153CF1177A90D3C90D65E  L_11;
-		L_11 = Transform_get_up_mAB753D250A30C78924D5D22B0821F1D254525C31(L_10, /*hidden argument*/NULL);
-		float L_12;
-		L_12 = Time_get_time_m1A186074B1FCD448AB13A4B9D715AB9ED0B40844(/*hidden argument*/NULL);
-		float L_13 = __this->get_freq_5();
-		float L_14;
-		L_14 = sinf(((float)il2cpp_codegen_multiply((float)L_12, (float)L_13)));
-		Vector3_t65B972D6A585A0A5B63153CF1177A90D3C90D65E  L_15;
-		L_15 = Vector3_op_Multiply_m9EA3D18290418D7B410C7D11C4788C13BFD2C30A_inline(L_11, L_14, /*hidden argument*/NULL);
-		float L_16 = __this->get_mag_6();
+		L_7 = Vector3_op_Multiply_m9EA3D18290418D7B410C7D11C4788C13BFD2C30A_inline(L_4, ((float)il2cpp_codegen_multiply((float)L_5, (float)L_6)), /*hidden argument*/NULL);
+		Vector3_t65B972D6A585A0A5B63153CF1177A90D3C90D65E  L_8;
+		L_8 = Vector3_op_Addition_mEE4F672B923CCB184C39AABCA33443DB218E50E0_inline(L_0, L_7, /*hidden argument*/NULL);
+		__this->set_pos_8(L_8);
+		// transform.position = pos + transform.up * Mathf.Sin(Time.time * (freq * randF)) * (mag * randM);
+		Transform_tA8193BB29D4D2C7EC04918F3ED1816345186C3F1 * L_9;
+		L_9 = Component_get_transform_mE8496EBC45BEB1BADB5F314960F1DF1C952FA11F(__this, /*hidden argument*/NULL);
+		Vector3_t65B972D6A585A0A5B63153CF1177A90D3C90D65E  L_10 = __this->get_pos_8();
+		Transform_tA8193BB29D4D2C7EC04918F3ED1816345186C3F1 * L_11;
+		L_11 = Component_get_transform_mE8496EBC45BEB1BADB5F314960F1DF1C952FA11F(__this, /*hidden argument*/NULL);
+		Vector3_t65B972D6A585A0A5B63153CF1177A90D3C90D65E  L_12;
+		L_12 = Transform_get_up_mAB753D250A30C78924D5D22B0821F1D254525C31(L_11, /*hidden argument*/NULL);
+		float L_13;
+		L_13 = Time_get_time_m1A186074B1FCD448AB13A4B9D715AB9ED0B40844(/*hidden argument*/NULL);
+		float L_14 = __this->get_freq_5();
+		float L_15 = __this->get_randF_10();
+		float L_16;
+		L_16 = sinf(((float)il2cpp_codegen_multiply((float)L_13, (float)((float)il2cpp_codegen_multiply((float)L_14, (float)L_15)))));
 		Vector3_t65B972D6A585A0A5B63153CF1177A90D3C90D65E  L_17;
-		L_17 = Vector3_op_Multiply_m9EA3D18290418D7B410C7D11C4788C13BFD2C30A_inline(L_15, L_16, /*hidden argument*/NULL);
-		Vector3_t65B972D6A585A0A5B63153CF1177A90D3C90D65E  L_18;
-		L_18 = Vector3_op_Addition_mEE4F672B923CCB184C39AABCA33443DB218E50E0_inline(L_9, L_17, /*hidden argument*/NULL);
-		Transform_set_position_mB169E52D57EEAC1E3F22C5395968714E4F00AC91(L_8, L_18, /*hidden argument*/NULL);
+		L_17 = Vector3_op_Multiply_m9EA3D18290418D7B410C7D11C4788C13BFD2C30A_inline(L_12, L_16, /*hidden argument*/NULL);
+		float L_18 = __this->get_mag_6();
+		float L_19 = __this->get_randM_11();
+		Vector3_t65B972D6A585A0A5B63153CF1177A90D3C90D65E  L_20;
+		L_20 = Vector3_op_Multiply_m9EA3D18290418D7B410C7D11C4788C13BFD2C30A_inline(L_17, ((float)il2cpp_codegen_multiply((float)L_18, (float)L_19)), /*hidden argument*/NULL);
+		Vector3_t65B972D6A585A0A5B63153CF1177A90D3C90D65E  L_21;
+		L_21 = Vector3_op_Addition_mEE4F672B923CCB184C39AABCA33443DB218E50E0_inline(L_10, L_20, /*hidden argument*/NULL);
+		Transform_set_position_mB169E52D57EEAC1E3F22C5395968714E4F00AC91(L_9, L_21, /*hidden argument*/NULL);
 		// }
 		return;
 	}
@@ -24915,7 +24960,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void EnemyMovement_MoveRight_mF067C3894A4B2CE
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void EnemyMovement_MoveLeft_m172704DA039ACCEFCA6716AB777C75919538382A (EnemyMovement_t1BCFAC1EEDD5C63C392D258F39BCDECE875BB2A0 * __this, const RuntimeMethod* method)
 {
 	{
-		// pos -= transform.right * Time.deltaTime * speed;
+		// pos -= transform.right * Time.deltaTime * (speed * randS);
 		Vector3_t65B972D6A585A0A5B63153CF1177A90D3C90D65E  L_0 = __this->get_pos_8();
 		Transform_tA8193BB29D4D2C7EC04918F3ED1816345186C3F1 * L_1;
 		L_1 = Component_get_transform_mE8496EBC45BEB1BADB5F314960F1DF1C952FA11F(__this, /*hidden argument*/NULL);
@@ -24926,32 +24971,35 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void EnemyMovement_MoveLeft_m172704DA039ACCEF
 		Vector3_t65B972D6A585A0A5B63153CF1177A90D3C90D65E  L_4;
 		L_4 = Vector3_op_Multiply_m9EA3D18290418D7B410C7D11C4788C13BFD2C30A_inline(L_2, L_3, /*hidden argument*/NULL);
 		float L_5 = __this->get_speed_4();
-		Vector3_t65B972D6A585A0A5B63153CF1177A90D3C90D65E  L_6;
-		L_6 = Vector3_op_Multiply_m9EA3D18290418D7B410C7D11C4788C13BFD2C30A_inline(L_4, L_5, /*hidden argument*/NULL);
+		float L_6 = __this->get_randS_12();
 		Vector3_t65B972D6A585A0A5B63153CF1177A90D3C90D65E  L_7;
-		L_7 = Vector3_op_Subtraction_m2725C96965D5C0B1F9715797E51762B13A5FED58_inline(L_0, L_6, /*hidden argument*/NULL);
-		__this->set_pos_8(L_7);
-		// transform.position = pos + transform.up * Mathf.Sin(Time.time * freq) * mag;
-		Transform_tA8193BB29D4D2C7EC04918F3ED1816345186C3F1 * L_8;
-		L_8 = Component_get_transform_mE8496EBC45BEB1BADB5F314960F1DF1C952FA11F(__this, /*hidden argument*/NULL);
-		Vector3_t65B972D6A585A0A5B63153CF1177A90D3C90D65E  L_9 = __this->get_pos_8();
-		Transform_tA8193BB29D4D2C7EC04918F3ED1816345186C3F1 * L_10;
-		L_10 = Component_get_transform_mE8496EBC45BEB1BADB5F314960F1DF1C952FA11F(__this, /*hidden argument*/NULL);
-		Vector3_t65B972D6A585A0A5B63153CF1177A90D3C90D65E  L_11;
-		L_11 = Transform_get_up_mAB753D250A30C78924D5D22B0821F1D254525C31(L_10, /*hidden argument*/NULL);
-		float L_12;
-		L_12 = Time_get_time_m1A186074B1FCD448AB13A4B9D715AB9ED0B40844(/*hidden argument*/NULL);
-		float L_13 = __this->get_freq_5();
-		float L_14;
-		L_14 = sinf(((float)il2cpp_codegen_multiply((float)L_12, (float)L_13)));
-		Vector3_t65B972D6A585A0A5B63153CF1177A90D3C90D65E  L_15;
-		L_15 = Vector3_op_Multiply_m9EA3D18290418D7B410C7D11C4788C13BFD2C30A_inline(L_11, L_14, /*hidden argument*/NULL);
-		float L_16 = __this->get_mag_6();
+		L_7 = Vector3_op_Multiply_m9EA3D18290418D7B410C7D11C4788C13BFD2C30A_inline(L_4, ((float)il2cpp_codegen_multiply((float)L_5, (float)L_6)), /*hidden argument*/NULL);
+		Vector3_t65B972D6A585A0A5B63153CF1177A90D3C90D65E  L_8;
+		L_8 = Vector3_op_Subtraction_m2725C96965D5C0B1F9715797E51762B13A5FED58_inline(L_0, L_7, /*hidden argument*/NULL);
+		__this->set_pos_8(L_8);
+		// transform.position = pos + transform.up * Mathf.Sin(Time.time * (freq * randF)) * (mag * randM);
+		Transform_tA8193BB29D4D2C7EC04918F3ED1816345186C3F1 * L_9;
+		L_9 = Component_get_transform_mE8496EBC45BEB1BADB5F314960F1DF1C952FA11F(__this, /*hidden argument*/NULL);
+		Vector3_t65B972D6A585A0A5B63153CF1177A90D3C90D65E  L_10 = __this->get_pos_8();
+		Transform_tA8193BB29D4D2C7EC04918F3ED1816345186C3F1 * L_11;
+		L_11 = Component_get_transform_mE8496EBC45BEB1BADB5F314960F1DF1C952FA11F(__this, /*hidden argument*/NULL);
+		Vector3_t65B972D6A585A0A5B63153CF1177A90D3C90D65E  L_12;
+		L_12 = Transform_get_up_mAB753D250A30C78924D5D22B0821F1D254525C31(L_11, /*hidden argument*/NULL);
+		float L_13;
+		L_13 = Time_get_time_m1A186074B1FCD448AB13A4B9D715AB9ED0B40844(/*hidden argument*/NULL);
+		float L_14 = __this->get_freq_5();
+		float L_15 = __this->get_randF_10();
+		float L_16;
+		L_16 = sinf(((float)il2cpp_codegen_multiply((float)L_13, (float)((float)il2cpp_codegen_multiply((float)L_14, (float)L_15)))));
 		Vector3_t65B972D6A585A0A5B63153CF1177A90D3C90D65E  L_17;
-		L_17 = Vector3_op_Multiply_m9EA3D18290418D7B410C7D11C4788C13BFD2C30A_inline(L_15, L_16, /*hidden argument*/NULL);
-		Vector3_t65B972D6A585A0A5B63153CF1177A90D3C90D65E  L_18;
-		L_18 = Vector3_op_Addition_mEE4F672B923CCB184C39AABCA33443DB218E50E0_inline(L_9, L_17, /*hidden argument*/NULL);
-		Transform_set_position_mB169E52D57EEAC1E3F22C5395968714E4F00AC91(L_8, L_18, /*hidden argument*/NULL);
+		L_17 = Vector3_op_Multiply_m9EA3D18290418D7B410C7D11C4788C13BFD2C30A_inline(L_12, L_16, /*hidden argument*/NULL);
+		float L_18 = __this->get_mag_6();
+		float L_19 = __this->get_randM_11();
+		Vector3_t65B972D6A585A0A5B63153CF1177A90D3C90D65E  L_20;
+		L_20 = Vector3_op_Multiply_m9EA3D18290418D7B410C7D11C4788C13BFD2C30A_inline(L_17, ((float)il2cpp_codegen_multiply((float)L_18, (float)L_19)), /*hidden argument*/NULL);
+		Vector3_t65B972D6A585A0A5B63153CF1177A90D3C90D65E  L_21;
+		L_21 = Vector3_op_Addition_mEE4F672B923CCB184C39AABCA33443DB218E50E0_inline(L_10, L_20, /*hidden argument*/NULL);
+		Transform_set_position_mB169E52D57EEAC1E3F22C5395968714E4F00AC91(L_9, L_21, /*hidden argument*/NULL);
 		// }
 		return;
 	}
@@ -24960,12 +25008,12 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void EnemyMovement_MoveLeft_m172704DA039ACCEF
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void EnemyMovement__ctor_mFD697CA9B04655253B087314FE67A3B388E55EFF (EnemyMovement_t1BCFAC1EEDD5C63C392D258F39BCDECE875BB2A0 * __this, const RuntimeMethod* method)
 {
 	{
-		// float speed = 5f;
-		__this->set_speed_4((5.0f));
-		// float freq = 15f;
-		__this->set_freq_5((15.0f));
-		// float mag = 0.5f;
-		__this->set_mag_6((0.5f));
+		// float speed = 1f;
+		__this->set_speed_4((1.0f));
+		// float freq = 1f;
+		__this->set_freq_5((1.0f));
+		// float mag = 1f;
+		__this->set_mag_6((1.0f));
 		// bool faceRight = true;
 		__this->set_faceRight_7((bool)1);
 		MonoBehaviour__ctor_mC0995D847F6A95B1A553652636C38A2AA8B13BED(__this, /*hidden argument*/NULL);
@@ -25047,11 +25095,11 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void EnemySpawner_Update_mE9B85A2C67A3E6E48AD
 		GameObject_tC000A2E1A7CF1E10FD7BA08863287C072207C319 * L_18;
 		L_18 = Object_Instantiate_TisGameObject_tC000A2E1A7CF1E10FD7BA08863287C072207C319_mF6943C67D79929CEF346FD96932E84EFCA9819B9(L_10, L_16, L_17, /*hidden argument*/Object_Instantiate_TisGameObject_tC000A2E1A7CF1E10FD7BA08863287C072207C319_mF6943C67D79929CEF346FD96932E84EFCA9819B9_RuntimeMethod_var);
 		__this->set_newEnemy_5(L_18);
-		// Destroy(newEnemy.gameObject, 10.0f);
+		// Destroy(newEnemy.gameObject, 12.0f);
 		GameObject_tC000A2E1A7CF1E10FD7BA08863287C072207C319 * L_19 = __this->get_newEnemy_5();
 		GameObject_tC000A2E1A7CF1E10FD7BA08863287C072207C319 * L_20;
 		L_20 = GameObject_get_gameObject_mD5FFECF7C3AC5039E847DF7A8842478539B701D6(L_19, /*hidden argument*/NULL);
-		Object_Destroy_mAAAA103F4911E9FA18634BF9605C28559F5E2AC7(L_20, (10.0f), /*hidden argument*/NULL);
+		Object_Destroy_mAAAA103F4911E9FA18634BF9605C28559F5E2AC7(L_20, (12.0f), /*hidden argument*/NULL);
 		// startEnemyNum++;
 		int32_t L_21 = __this->get_startEnemyNum_8();
 		__this->set_startEnemyNum_8(((int32_t)il2cpp_codegen_add((int32_t)L_21, (int32_t)1)));
