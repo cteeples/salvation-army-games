@@ -633,6 +633,51 @@ PrefabInstance:
       propertyPath: m_Text
       value: Chemi-Cool
       objectReference: {fileID: 0}
+    - target: {fileID: 3865072273058095255, guid: 6915ffe23040f924da0a59982f61c9ba,
+        type: 3}
+      propertyPath: m_Text
+      value: Periodic Table
+      objectReference: {fileID: 0}
+    - target: {fileID: 3865072273058095255, guid: 6915ffe23040f924da0a59982f61c9ba,
+        type: 3}
+      propertyPath: m_FontData.m_BestFit
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3865072273058095255, guid: 6915ffe23040f924da0a59982f61c9ba,
+        type: 3}
+      propertyPath: m_FontData.m_MinSize
+      value: 12
+      objectReference: {fileID: 0}
+    - target: {fileID: 3865072273058095255, guid: 6915ffe23040f924da0a59982f61c9ba,
+        type: 3}
+      propertyPath: m_FontData.m_Alignment
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 3865072273058095255, guid: 6915ffe23040f924da0a59982f61c9ba,
+        type: 3}
+      propertyPath: m_FontData.m_AlignByGeometry
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3865072273058095255, guid: 6915ffe23040f924da0a59982f61c9ba,
+        type: 3}
+      propertyPath: m_FontData.m_VerticalOverflow
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3865072273058095255, guid: 6915ffe23040f924da0a59982f61c9ba,
+        type: 3}
+      propertyPath: m_FontData.m_HorizontalOverflow
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975504783224605175, guid: 6915ffe23040f924da0a59982f61c9ba,
+        type: 3}
+      propertyPath: m_SizeDelta.x
+      value: -106
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975504783224605175, guid: 6915ffe23040f924da0a59982f61c9ba,
+        type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: -63
+      objectReference: {fileID: 0}
     - target: {fileID: 8746643636877519705, guid: 6915ffe23040f924da0a59982f61c9ba,
         type: 3}
       propertyPath: m_Pivot.x
@@ -738,6 +783,16 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 8746739261595061881, guid: 6915ffe23040f924da0a59982f61c9ba,
+        type: 3}
+      propertyPath: m_SizeDelta.x
+      value: -36
+      objectReference: {fileID: 0}
+    - target: {fileID: 8746739261595061881, guid: 6915ffe23040f924da0a59982f61c9ba,
+        type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: -98
+      objectReference: {fileID: 0}
     - target: {fileID: 8747986802238352079, guid: 6915ffe23040f924da0a59982f61c9ba,
         type: 3}
       propertyPath: m_Camera
@@ -748,10 +803,60 @@ PrefabInstance:
       propertyPath: m_RenderMode
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 8825173493774805611, guid: 6915ffe23040f924da0a59982f61c9ba,
+        type: 3}
+      propertyPath: m_Name
+      value: Btn_Table
+      objectReference: {fileID: 0}
     - target: {fileID: 8825475577963883189, guid: 6915ffe23040f924da0a59982f61c9ba,
         type: 3}
       propertyPath: m_Name
       value: 2MainMenu_V2
+      objectReference: {fileID: 0}
+    - target: {fileID: 8826060833194478991, guid: 6915ffe23040f924da0a59982f61c9ba,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8928301513135036527, guid: 6915ffe23040f924da0a59982f61c9ba,
+        type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8928301513135036527, guid: 6915ffe23040f924da0a59982f61c9ba,
+        type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Mode
+      value: 5
+      objectReference: {fileID: 0}
+    - target: {fileID: 8928301513135036527, guid: 6915ffe23040f924da0a59982f61c9ba,
+        type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target
+      value: 
+      objectReference: {fileID: 1301463068}
+    - target: {fileID: 8928301513135036527, guid: 6915ffe23040f924da0a59982f61c9ba,
+        type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_CallState
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 8928301513135036527, guid: 6915ffe23040f924da0a59982f61c9ba,
+        type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
+      value: LoadScene
+      objectReference: {fileID: 0}
+    - target: {fileID: 8928301513135036527, guid: 6915ffe23040f924da0a59982f61c9ba,
+        type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_TargetAssemblyTypeName
+      value: UI_MGMT, Assembly-CSharp
+      objectReference: {fileID: 0}
+    - target: {fileID: 8928301513135036527, guid: 6915ffe23040f924da0a59982f61c9ba,
+        type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_StringArgument
+      value: PeriodicTable
+      objectReference: {fileID: 0}
+    - target: {fileID: 8928301513135036527, guid: 6915ffe23040f924da0a59982f61c9ba,
+        type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_ObjectArgumentAssemblyTypeName
+      value: UnityEngine.Object, UnityEngine
       objectReference: {fileID: 0}
     - target: {fileID: 8928343496522361171, guid: 6915ffe23040f924da0a59982f61c9ba,
         type: 3}

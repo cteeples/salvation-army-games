@@ -1019,8 +1019,8 @@ MonoBehaviour:
     for a limited time, so every second counts.
 
 
-    Press Q to quit back to the
-    level select menu!'
+    While in-game, press Q to quit
+    back to the level select menu!'
 --- !u!222 &1855466453
 CanvasRenderer:
   m_ObjectHideFlags: 0
