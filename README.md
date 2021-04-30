@@ -27,6 +27,12 @@ npm install --save react @trendmicro/react-sidenav
 
 npm install semantic-ui-react semantic-ui-css
 
+npm i styled-components
+
+npm install moment 
+
+npm i react-moment
+
 npm start
 
 ## Git commands to push changes to your specific branch:

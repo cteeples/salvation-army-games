@@ -4,7 +4,11 @@ import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import { faHome, faUser, faComment } from '@fortawesome/free-solid-svg-icons'
 // Be sure to include styles at some point, probably during your bootstraping
 import '@trendmicro/react-sidenav/dist/react-sidenav.css';
+import styled from 'styled-components'
 
+const AsideNav = styled(SideNav)`
+  position: fixed;
+`;
 
 export default function MySideNav() {
     const history = useHistory()
@@ -27,6 +31,7 @@ export default function MySideNav() {
 
     return (
         <>
+        <AsideNav>
             <SideNav className="side-nav"
                 onSelect={(selected) => {
                     // Add your code here
@@ -64,6 +69,7 @@ export default function MySideNav() {
                 </NavItem>
             </SideNav.Nav>
         </SideNav>
+        </AsideNav>
         </>
     )
 }

@@ -79,14 +79,23 @@ export function AuthProvider({ children }) {
     useEffect(() => {
         const unsubscribe = auth.onAuthStateChanged(user => {
             setCurrentUser(user)
-            setLoading(false)
+            setLoading(false)       
         })
 
         return unsubscribe
     }, [])
 
+    useEffect(() => {
+        if (currentUser) {
+            app.firestore().collection('users').doc(currentUser.uid).get().then(snapshot => {
+                setUserInfo(snapshot.data())
+            })
+        }
+    }, [currentUser])
+
     const value = {
         currentUser,
+        userInfo,
         login,
         signup, 
         logout,

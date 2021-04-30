@@ -21,9 +21,9 @@ export default function Home() {
     }
     return(
         <div className="ml-5 home ">
-        <Row className=" align-items-center " style={{ minHeight: "90vh"}}>
+        <Row className=" align-items-center " style={{ minHeight: "95vh"}}>
             <Col>
-            <Card classNme="card" onClick={handleGame1}>
+            <Card className="card" onClick={handleGame1}>
                 <Image src='https://react.semantic-ui.com/images/avatar/large/daniel.jpg' wrapped ui={false} />
                 <Card.Content>
                 <Card.Header>Game 1</Card.Header>
@@ -41,7 +41,7 @@ export default function Home() {
             </Card>
             </Col>
             <Col>
-            <Card classNme="card" onClick={handleGame2}>
+            <Card className="card" onClick={handleGame2}>
                 <Image src='https://react.semantic-ui.com/images/avatar/large/daniel.jpg' wrapped ui={false} />
                 <Card.Content>
                 <Card.Header>Game 2</Card.Header>
@@ -59,7 +59,7 @@ export default function Home() {
             </Card>
             </Col>
             <Col>
-            <Card classNme="card" onClick={handleGame3}>
+            <Card className="card" onClick={handleGame3}>
                 <Image src='https://react.semantic-ui.com/images/avatar/large/daniel.jpg' wrapped ui={false} />
                 <Card.Content>
                 <Card.Header>Game 3</Card.Header>
@@ -77,7 +77,7 @@ export default function Home() {
             </Card>
             </Col>
         </Row>
-        <CommentList/>
+       <CommentList/>
         </div>
     ) 
 }
