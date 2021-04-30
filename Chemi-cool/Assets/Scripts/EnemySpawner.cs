@@ -40,7 +40,7 @@ public class EnemySpawner : MonoBehaviour
             randE = Random.Range(0, enemies.Length);
             randS = Random.Range(0, spawnPoint.Length);
             newEnemy = Instantiate(enemies[randE], spawnPoint[randS].transform.position, Quaternion.identity);
-            Destroy(newEnemy.gameObject, 10.0f);
+            Destroy(newEnemy.gameObject, 12.0f);
             startEnemyNum++;
             timeBTspawns = startTimeBTSpawns;
     

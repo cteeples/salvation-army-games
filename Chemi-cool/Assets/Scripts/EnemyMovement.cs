@@ -4,26 +4,32 @@ using UnityEngine;
 
 public class EnemyMovement : MonoBehaviour
 {
+ 
+    float speed = 1f;
 
-    //adjustable fields to tweak movement
-    [SerializeField]
-    float speed = 5f;
+    float freq = 1f;
 
-    [SerializeField]
-    float freq = 15f;
-
-    [SerializeField]
-    float mag = 0.5f;
+    float mag = 1f;
     bool faceRight = true;
 
+    
+
     Vector3 pos, localScale;
+
+    private float randF;
+    private float randM;
+    private float randS;
+
+    
 
     // Start is called before the first frame update
     void Start()
     {
         pos = transform.position;
         localScale = transform.localScale;
-        
+        randF = Random.Range(0.5f, 3f);
+        randM = Random.Range(0.5f, 3f);
+        randS = Random.Range(5f, 7f);
     }
 
     // Update is called once per frame
@@ -56,14 +62,15 @@ public class EnemyMovement : MonoBehaviour
     // Future implementation: more randomized patterns, but must be compatible with screen dimensions
     void MoveRight()
     {
-        pos += transform.right * Time.deltaTime * speed;
-        transform.position = pos + transform.up * Mathf.Sin(Time.time * freq) * mag;
+
+        pos += transform.right * Time.deltaTime * (speed * randS);
+        transform.position = pos + transform.up * Mathf.Sin(Time.time * (freq * randF)) * (mag * randM);
     }
     
     void MoveLeft()
     {
-        pos -= transform.right * Time.deltaTime * speed;
-        transform.position = pos + transform.up * Mathf.Sin(Time.time * freq) * mag;
+        pos -= transform.right * Time.deltaTime * (speed * randS);
+        transform.position = pos + transform.up * Mathf.Sin(Time.time * (freq * randF)) * (mag * randM);
     }
 }
 
