@@ -8,7 +8,7 @@ export default function Game1() {
   <Container className="ml-5">
  <Unity unityContext={unityContext} 
   matchWebGLToCanvasSize={false}
-  style={{ width: "1600px", height: "1000px" }}
+  style={{ height: "90vh" }}
   />
  </Container>
 

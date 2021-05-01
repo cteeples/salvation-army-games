@@ -10,6 +10,7 @@ import Game1 from "./Home/Game1"
 import Game2 from "./Home/Game2"
 import Game3 from "./Home/Game3"
 import { useAuth } from '../../contexts/AuthContext'
+import UpdateProfile from '../UpdateProfile'
 
 export default function Dashboard() {
 
@@ -30,6 +31,7 @@ export default function Dashboard() {
         <Layout>  
           <Switch>
             <Route exact path="/dashboard" component={Home}/>
+            <Route path="/dashboard/update-profile" component={UpdateProfile}/>
             <Route exact path="/dashboard/game-1" component={Game1}/>
             <Route exact path="/dashboard/game-2" component={Game2}/>
             <Route exact path="/dashboard/game-3" component={Game3}/>

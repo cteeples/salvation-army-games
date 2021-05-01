@@ -9,13 +9,15 @@ import { Checkbox } from 'semantic-ui-react'
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import { faPlus, faMinus } from '@fortawesome/free-solid-svg-icons'
 
-const ref = app.firestore().collection('chats').doc('508cOyZfLHARe7hw9pxQ').collection('messages').orderBy('date').limit(25);
-const userRef = app.firestore().collection('users');
+
+const ref = app.firestore().collection('chats').doc('508cOyZfLHARe7hw9pxQ').collection('messages').orderBy('date').limitToLast(25);
+const userRef = app.firestore().collection('users').orderBy("firstName");
 
 export default function ChatBody() {
 
     const [messages, setMessages] = useState([])
     const [users, setUsers] = useState([])
+    const [addUserList, setAddUserList] = useState([])
     const [formValue, setFormValue] = useState('');
     const { currentUser, userInfo} = useAuth()
     const dummy = useRef();
@@ -45,7 +47,6 @@ export default function ChatBody() {
             console.error(err);
         });
         setFormValue('');
-        dummy.current.scrollIntoView({ behavior: 'smooth' });
     }
 
     useEffect(() => {
@@ -56,6 +57,10 @@ export default function ChatBody() {
           setUsers(snapshot.docs.map(doc => doc.data()))
         ))
     }, [])
+
+    useEffect(() => {
+      dummy.current.scrollIntoView({ behavior: 'smooth' });
+    }, [messages])
     
     return(
     <>
@@ -65,26 +70,21 @@ export default function ChatBody() {
         backdrop="static"
         keyboard={false}
       >
-        <Modal.Header closeButton style={{overflow: "auto"}}>
+      <Modal.Header closeButton>
           <Modal.Title>Add User(s)</Modal.Title>
         </Modal.Header>
-        <Modal.Body>
-        <Form>
+        <Modal.Body style={{overflowY: "scroll"}}>
+        <Form >
           <Form.Group controlId="formBasicCheckbox">
-            <Checkbox label='I agree to the Terms and Conditions' />
-          </Form.Group>
-          <Button variant="primary" type="submit">
-            Submit
-          </Button>
+          {users.map(user => <Row><Checkbox label={`${user.firstName} ${user.lastName}`}/></Row>)}
+        </Form.Group>
         </Form>
         </Modal.Body>
         <Modal.Footer>
-          <Button variant="secondary" onClick={handleClose}>
-            Close
-          </Button>
-          <Button variant="primary">Understood</Button>
+          <Button variant="primary">Add Users</Button>
         </Modal.Footer>
     </Modal>
+
     <div  className="chat-body app ">
     <Row style={{height: "0px"}} className="d-flex align-items-center">
       <Button onClick={handleShow} variant="success" style={{ width: "3%", marginLeft: "110px", marginTop: "10px"}}><FontAwesomeIcon icon={faPlus} /></Button>
