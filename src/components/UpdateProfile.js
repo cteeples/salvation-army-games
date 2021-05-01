@@ -33,7 +33,7 @@ export default function UpdateProfile() {
         Promise.all(promises).then(() =>{
             //go back to the home page after all promises have
             //been fulfilled
-            history.push('/')
+            history.push('/dashboard/user-info')
         }).catch(() => {
             setError('Failed to update account')
         }).finally(() => {
@@ -44,7 +44,8 @@ export default function UpdateProfile() {
 
     return (
         <>
-            <Card>
+        <div>
+            <Card style={{height: "85vh", minWidth: "80vh"}} className = "ml-5 d-flex align-items-center justify-content-center">
                 <Card.Body>
                     <h2 className="text-center mb-4">Update Profile</h2>
                     {/* {loading && <h2>loading</h2>} */}
@@ -66,9 +67,10 @@ export default function UpdateProfile() {
                     </Form>
                 </Card.Body>
                 <div className="w-100 text-center mt-2">
-                    Already have an acount? <Link to="/">Cancel</Link>
+                    Already have an acount? <Link to="/dashboard/user-info">Cancel</Link>
                 </div>
             </Card>
+        </div>
         </>
     )
 }

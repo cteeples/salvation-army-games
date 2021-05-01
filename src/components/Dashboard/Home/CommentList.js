@@ -8,7 +8,7 @@ import { useAuth } from '../../../contexts/AuthContext'
 import app from "../../../firebase"
 import moment from 'moment'
 
-const ref = app.firestore().collection('comments').orderBy('date').limit(15);
+const ref = app.firestore().collection('comments').orderBy('date').limitToLast(10);
 const newDocRef = app.firestore().collection('comments').doc();
 const userRef = app.firestore().collection('users');
 
