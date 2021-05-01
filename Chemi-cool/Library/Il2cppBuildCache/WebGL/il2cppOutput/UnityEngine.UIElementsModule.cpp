@@ -1217,7 +1217,7 @@ IL2CPP_EXTERN_C_END
 #endif
 
 // <Module>
-struct  U3CModuleU3E_t7FE5B90570DF90F0A62B3DA60BB952D22B3BD271 
+struct U3CModuleU3E_t7FE5B90570DF90F0A62B3DA60BB952D22B3BD271 
 {
 public:
 
@@ -1229,7 +1229,7 @@ public:
 
 
 // System.Collections.Generic.EqualityComparer`1<UnityEngine.Texture2D>
-struct  EqualityComparer_1_t473790FAFA5D59304DDDA6EBEC90609CEEADF5E1  : public RuntimeObject
+struct EqualityComparer_1_t473790FAFA5D59304DDDA6EBEC90609CEEADF5E1  : public RuntimeObject
 {
 public:
 
@@ -1255,7 +1255,7 @@ public:
 
 
 // System.Collections.Generic.EqualityComparer`1<UnityEngine.Vector2>
-struct  EqualityComparer_1_t6779B568DF74AAD57393C6D2A62B852EC780CC09  : public RuntimeObject
+struct EqualityComparer_1_t6779B568DF74AAD57393C6D2A62B852EC780CC09  : public RuntimeObject
 {
 public:
 
@@ -1281,7 +1281,7 @@ public:
 
 
 // UnityEngine.UIElements.UIR.LinkedPoolItem`1<UnityEngine.UIElements.UIR.MeshHandle>
-struct  LinkedPoolItem_1_tA045C3054D704547F777F9EE782948DE268DFFF2  : public RuntimeObject
+struct LinkedPoolItem_1_tA045C3054D704547F777F9EE782948DE268DFFF2  : public RuntimeObject
 {
 public:
 	// T UnityEngine.UIElements.UIR.LinkedPoolItem`1::poolNext
@@ -1300,7 +1300,7 @@ public:
 
 
 // System.Collections.Generic.List`1<UnityEngine.UIElements.EventCallbackFunctorBase>
-struct  List_1_t7EA918B884451D5CD8A70AD8838AC2410BEAE49C  : public RuntimeObject
+struct List_1_t7EA918B884451D5CD8A70AD8838AC2410BEAE49C  : public RuntimeObject
 {
 public:
 	// T[] System.Collections.Generic.List`1::_items
@@ -1367,7 +1367,7 @@ public:
 
 
 // System.Collections.Generic.List`1<UnityEngine.UIElements.IEventDispatchingStrategy>
-struct  List_1_t46D11B840428131A29887E3A6CED3FAD055E2DB3  : public RuntimeObject
+struct List_1_t46D11B840428131A29887E3A6CED3FAD055E2DB3  : public RuntimeObject
 {
 public:
 	// T[] System.Collections.Generic.List`1::_items
@@ -1434,7 +1434,7 @@ public:
 
 
 // System.Collections.Generic.List`1<UnityEngine.UIElements.IEventHandler>
-struct  List_1_t4ACD1DD41E60CC6A1D6F597706710F112BB37C92  : public RuntimeObject
+struct List_1_t4ACD1DD41E60CC6A1D6F597706710F112BB37C92  : public RuntimeObject
 {
 public:
 	// T[] System.Collections.Generic.List`1::_items
@@ -1501,7 +1501,7 @@ public:
 
 
 // System.Collections.Generic.List`1<UnityEngine.UIElements.IRuntimePanelComponent>
-struct  List_1_t1D5B9015174E54B1B1EAA80C6DCECAB090B0B993  : public RuntimeObject
+struct List_1_t1D5B9015174E54B1B1EAA80C6DCECAB090B0B993  : public RuntimeObject
 {
 public:
 	// T[] System.Collections.Generic.List`1::_items
@@ -1568,7 +1568,7 @@ public:
 
 
 // System.Collections.Generic.List`1<System.Object>
-struct  List_1_t3F94120C77410A62EAE48421CF166B83AB95A2F5  : public RuntimeObject
+struct List_1_t3F94120C77410A62EAE48421CF166B83AB95A2F5  : public RuntimeObject
 {
 public:
 	// T[] System.Collections.Generic.List`1::_items
@@ -1635,7 +1635,7 @@ public:
 
 
 // System.Collections.Generic.List`1<System.String>
-struct  List_1_t6C9F81EDBF0F4A31A9B0DA372D2EF34BDA3A1AF3  : public RuntimeObject
+struct List_1_t6C9F81EDBF0F4A31A9B0DA372D2EF34BDA3A1AF3  : public RuntimeObject
 {
 public:
 	// T[] System.Collections.Generic.List`1::_items
@@ -1702,7 +1702,7 @@ public:
 
 
 // System.Collections.Generic.List`1<UnityEngine.UIElements.VisualElement>
-struct  List_1_t7D2F7D0925345DA03B22D4DCAE09D7A6D49FCE72  : public RuntimeObject
+struct List_1_t7D2F7D0925345DA03B22D4DCAE09D7A6D49FCE72  : public RuntimeObject
 {
 public:
 	// T[] System.Collections.Generic.List`1::_items
@@ -1769,7 +1769,7 @@ public:
 
 
 // System.Collections.Generic.List`1<UnityEngine.UIElements.ClickDetector/ButtonClickStatus>
-struct  List_1_t8622F62D3BA2E473C2B3BD7599476775519F0F73  : public RuntimeObject
+struct List_1_t8622F62D3BA2E473C2B3BD7599476775519F0F73  : public RuntimeObject
 {
 public:
 	// T[] System.Collections.Generic.List`1::_items
@@ -1836,7 +1836,7 @@ public:
 
 
 // System.Collections.Generic.List`1<UnityEngine.UIElements.FocusController/FocusedElement>
-struct  List_1_tCD74EF8BC539549FF2F92038F46DC476D31C2308  : public RuntimeObject
+struct List_1_tCD74EF8BC539549FF2F92038F46DC476D31C2308  : public RuntimeObject
 {
 public:
 	// T[] System.Collections.Generic.List`1::_items
@@ -1903,7 +1903,7 @@ public:
 
 
 // UnityEngine.UIElements.ObjectPool`1<System.Collections.Generic.Queue`1<UnityEngine.UIElements.EventDispatcher/EventRecord>>
-struct  ObjectPool_1_tE45856C7D1855A442F3A01C8B7302EB145F14ECF  : public RuntimeObject
+struct ObjectPool_1_tE45856C7D1855A442F3A01C8B7302EB145F14ECF  : public RuntimeObject
 {
 public:
 	// System.Collections.Generic.Stack`1<T> UnityEngine.UIElements.ObjectPool`1::m_Stack
@@ -1932,7 +1932,7 @@ public:
 
 
 // UnityEngine.UIElements.ObjectPool`1<UnityEngine.UIElements.PropagationPaths>
-struct  ObjectPool_1_t70777FFC758195FAC43E12551C542928EDAAB6DD  : public RuntimeObject
+struct ObjectPool_1_t70777FFC758195FAC43E12551C542928EDAAB6DD  : public RuntimeObject
 {
 public:
 	// System.Collections.Generic.Stack`1<T> UnityEngine.UIElements.ObjectPool`1::m_Stack
@@ -1961,7 +1961,7 @@ public:
 
 
 // System.Collections.Generic.Queue`1<UnityEngine.UIElements.EventDispatcher/EventRecord>
-struct  Queue_1_t8D9C595B0DA807AA102B0FE0E115903EEB73140A  : public RuntimeObject
+struct Queue_1_t8D9C595B0DA807AA102B0FE0E115903EEB73140A  : public RuntimeObject
 {
 public:
 	// T[] System.Collections.Generic.Queue`1::_array
@@ -2031,7 +2031,7 @@ public:
 
 
 // System.Collections.Generic.Stack`1<UnityEngine.UIElements.EventCallbackList>
-struct  Stack_1_tA6A1B04CA25BF5C6B9393D782D51A72A743EE7D2  : public RuntimeObject
+struct Stack_1_tA6A1B04CA25BF5C6B9393D782D51A72A743EE7D2  : public RuntimeObject
 {
 public:
 	// T[] System.Collections.Generic.Stack`1::_array
@@ -2081,7 +2081,7 @@ public:
 
 
 // System.Collections.Generic.Stack`1<System.Int32>
-struct  Stack_1_tC6C298385D16F10F391B84280D21FE059A45CC55  : public RuntimeObject
+struct Stack_1_tC6C298385D16F10F391B84280D21FE059A45CC55  : public RuntimeObject
 {
 public:
 	// T[] System.Collections.Generic.Stack`1::_array
@@ -2131,7 +2131,7 @@ public:
 
 
 // System.Collections.Generic.Stack`1<System.Object>
-struct  Stack_1_t92AC5F573A3C00899B24B775A71B4327D588E981  : public RuntimeObject
+struct Stack_1_t92AC5F573A3C00899B24B775A71B4327D588E981  : public RuntimeObject
 {
 public:
 	// T[] System.Collections.Generic.Stack`1::_array
@@ -2185,7 +2185,7 @@ struct Il2CppArrayBounds;
 
 
 // UnityEngine.UIElements.AtlasBase
-struct  AtlasBase_tDB4C470C02253BAD18D1BF83FADB620209E4A37D  : public RuntimeObject
+struct AtlasBase_tDB4C470C02253BAD18D1BF83FADB620209E4A37D  : public RuntimeObject
 {
 public:
 	// UnityEngine.UIElements.TextureRegistry UnityEngine.UIElements.AtlasBase::textureRegistry
@@ -2204,7 +2204,7 @@ public:
 
 
 // System.Attribute
-struct  Attribute_t037CA9D9F3B742C063DB364D2EEBBF9FC5772C71  : public RuntimeObject
+struct Attribute_t037CA9D9F3B742C063DB364D2EEBBF9FC5772C71  : public RuntimeObject
 {
 public:
 
@@ -2213,7 +2213,7 @@ public:
 
 
 // UnityEngine.UIElements.StyleSheets.BaseStyleMatcher
-struct  BaseStyleMatcher_tD449643D4AF1E3A8FD5BD10C869CE8AFD17672C3  : public RuntimeObject
+struct BaseStyleMatcher_tD449643D4AF1E3A8FD5BD10C869CE8AFD17672C3  : public RuntimeObject
 {
 public:
 	// System.Collections.Generic.Stack`1<System.Int32> UnityEngine.UIElements.StyleSheets.BaseStyleMatcher::m_MarkStack
@@ -2252,7 +2252,7 @@ public:
 
 
 // UnityEngine.UIElements.UIR.BestFitAllocator
-struct  BestFitAllocator_t801355D93A063CC90E0A7CA49E598F7F732BB398  : public RuntimeObject
+struct BestFitAllocator_t801355D93A063CC90E0A7CA49E598F7F732BB398  : public RuntimeObject
 {
 public:
 	// System.UInt32 UnityEngine.UIElements.UIR.BestFitAllocator::<totalSize>k__BackingField
@@ -2313,7 +2313,7 @@ public:
 
 
 // UnityEngine.UIElements.CallbackEventHandler
-struct  CallbackEventHandler_tCEC853B0E9776DED1D671F0B7451AFBB36439A6C  : public RuntimeObject
+struct CallbackEventHandler_tCEC853B0E9776DED1D671F0B7451AFBB36439A6C  : public RuntimeObject
 {
 public:
 	// UnityEngine.UIElements.EventCallbackRegistry UnityEngine.UIElements.CallbackEventHandler::m_CallbackRegistry
@@ -2332,7 +2332,7 @@ public:
 
 
 // UnityEngine.UIElements.ClickDetector
-struct  ClickDetector_tC3AB6CC891D0E83397A7254613B77C9DDC3029A4  : public RuntimeObject
+struct ClickDetector_tC3AB6CC891D0E83397A7254613B77C9DDC3029A4  : public RuntimeObject
 {
 public:
 	// System.Collections.Generic.List`1<UnityEngine.UIElements.ClickDetector/ButtonClickStatus> UnityEngine.UIElements.ClickDetector::m_ClickStatus
@@ -2367,7 +2367,7 @@ public:
 
 
 // UnityEngine.UIElements.CommandEventDispatchingStrategy
-struct  CommandEventDispatchingStrategy_t83E0CC3F928B392A723EF3AB4430BD18BA47E49B  : public RuntimeObject
+struct CommandEventDispatchingStrategy_t83E0CC3F928B392A723EF3AB4430BD18BA47E49B  : public RuntimeObject
 {
 public:
 
@@ -2376,7 +2376,7 @@ public:
 
 
 // UnityEngine.UIElements.ContextualMenuManager
-struct  ContextualMenuManager_t1B67CC8512D92D98FE15C246943960CB604C9796  : public RuntimeObject
+struct ContextualMenuManager_t1B67CC8512D92D98FE15C246943960CB604C9796  : public RuntimeObject
 {
 public:
 	// System.Boolean UnityEngine.UIElements.ContextualMenuManager::<displayMenuHandledOSX>k__BackingField
@@ -2394,7 +2394,7 @@ public:
 
 
 // System.Globalization.CultureInfo
-struct  CultureInfo_t1B787142231DB79ABDCE0659823F908A040E9A98  : public RuntimeObject
+struct CultureInfo_t1B787142231DB79ABDCE0659823F908A040E9A98  : public RuntimeObject
 {
 public:
 	// System.Boolean System.Globalization.CultureInfo::m_isReadOnly
@@ -2843,7 +2843,7 @@ struct CultureInfo_t1B787142231DB79ABDCE0659823F908A040E9A98_marshaled_com
 };
 
 // UnityEngine.UIElements.DefaultDispatchingStrategy
-struct  DefaultDispatchingStrategy_t64ED66117470CEF22726CD1BF7A268D6BC0D037B  : public RuntimeObject
+struct DefaultDispatchingStrategy_t64ED66117470CEF22726CD1BF7A268D6BC0D037B  : public RuntimeObject
 {
 public:
 
@@ -2852,7 +2852,7 @@ public:
 
 
 // UnityEngine.UIElements.ElementUnderPointer
-struct  ElementUnderPointer_t9338858C0C882FA25FBF492500439F0F8663FDDC  : public RuntimeObject
+struct ElementUnderPointer_t9338858C0C882FA25FBF492500439F0F8663FDDC  : public RuntimeObject
 {
 public:
 	// UnityEngine.UIElements.VisualElement[] UnityEngine.UIElements.ElementUnderPointer::m_PendingTopElementUnderPointer
@@ -2926,7 +2926,7 @@ public:
 
 
 // UnityEngine.UIElements.EventCallbackList
-struct  EventCallbackList_t01E2A1DBD9E0531B02043D64B07C6DF9EFCCCB71  : public RuntimeObject
+struct EventCallbackList_t01E2A1DBD9E0531B02043D64B07C6DF9EFCCCB71  : public RuntimeObject
 {
 public:
 	// System.Collections.Generic.List`1<UnityEngine.UIElements.EventCallbackFunctorBase> UnityEngine.UIElements.EventCallbackList::m_List
@@ -2965,7 +2965,7 @@ public:
 
 
 // UnityEngine.UIElements.EventCallbackListPool
-struct  EventCallbackListPool_t443D93A5AB8829A915922786048C7E574B386D96  : public RuntimeObject
+struct EventCallbackListPool_t443D93A5AB8829A915922786048C7E574B386D96  : public RuntimeObject
 {
 public:
 	// System.Collections.Generic.Stack`1<UnityEngine.UIElements.EventCallbackList> UnityEngine.UIElements.EventCallbackListPool::m_Stack
@@ -2984,7 +2984,7 @@ public:
 
 
 // UnityEngine.UIElements.EventCallbackRegistry
-struct  EventCallbackRegistry_t9CD5BA2EA7664E88FE3D89F7EC3A9CC478B36B34  : public RuntimeObject
+struct EventCallbackRegistry_t9CD5BA2EA7664E88FE3D89F7EC3A9CC478B36B34  : public RuntimeObject
 {
 public:
 	// UnityEngine.UIElements.EventCallbackList UnityEngine.UIElements.EventCallbackRegistry::m_Callbacks
@@ -3041,7 +3041,7 @@ public:
 
 
 // UnityEngine.UIElements.EventDebugger
-struct  EventDebugger_t79CBECEA6E1918EAB8251C125AD062CFCBF029A7  : public RuntimeObject
+struct EventDebugger_t79CBECEA6E1918EAB8251C125AD062CFCBF029A7  : public RuntimeObject
 {
 public:
 
@@ -3050,7 +3050,7 @@ public:
 
 
 // UnityEngine.UIElements.EventDispatchUtilities
-struct  EventDispatchUtilities_t27ED0321895041CD110BB1BA7327E4337CD319AB  : public RuntimeObject
+struct EventDispatchUtilities_t27ED0321895041CD110BB1BA7327E4337CD319AB  : public RuntimeObject
 {
 public:
 
@@ -3059,7 +3059,7 @@ public:
 
 
 // UnityEngine.UIElements.EventDispatcher
-struct  EventDispatcher_t96A750D2456ECAD9F478B4BBB9832D3D05948BC8  : public RuntimeObject
+struct EventDispatcher_t96A750D2456ECAD9F478B4BBB9832D3D05948BC8  : public RuntimeObject
 {
 public:
 	// UnityEngine.UIElements.ClickDetector UnityEngine.UIElements.EventDispatcher::m_ClickDetector
@@ -3170,7 +3170,7 @@ public:
 
 
 // UnityEngine.UIElements.FocusChangeDirection
-struct  FocusChangeDirection_t735EB259C7198DEC617BA20828C4F947F35C0118  : public RuntimeObject
+struct FocusChangeDirection_t735EB259C7198DEC617BA20828C4F947F35C0118  : public RuntimeObject
 {
 public:
 	// System.Int32 UnityEngine.UIElements.FocusChangeDirection::m_Value
@@ -3227,7 +3227,7 @@ public:
 
 
 // UnityEngine.UIElements.FocusController
-struct  FocusController_tC337430532E3E8FF9AD076CA4A5E3F49E437839B  : public RuntimeObject
+struct FocusController_tC337430532E3E8FF9AD076CA4A5E3F49E437839B  : public RuntimeObject
 {
 public:
 	// UnityEngine.UIElements.IFocusRing UnityEngine.UIElements.FocusController::<focusRing>k__BackingField
@@ -3278,7 +3278,7 @@ public:
 
 
 // UnityEngine.UIElements.UIR.GPUBufferAllocator
-struct  GPUBufferAllocator_t6D2D951DB2B703FA78A1A2CE59F47D5E003C1034  : public RuntimeObject
+struct GPUBufferAllocator_t6D2D951DB2B703FA78A1A2CE59F47D5E003C1034  : public RuntimeObject
 {
 public:
 	// UnityEngine.UIElements.UIR.BestFitAllocator UnityEngine.UIElements.UIR.GPUBufferAllocator::m_Low
@@ -3308,7 +3308,7 @@ public:
 
 
 // UnityEngine.UIElements.GlobalCallbackRegistry
-struct  GlobalCallbackRegistry_t9EB73892865DD1FF240C6E9824DAE2BD467B966C  : public RuntimeObject
+struct GlobalCallbackRegistry_t9EB73892865DD1FF240C6E9824DAE2BD467B966C  : public RuntimeObject
 {
 public:
 
@@ -3317,7 +3317,7 @@ public:
 
 
 // UnityEngine.UIElements.IMGUIEventDispatchingStrategy
-struct  IMGUIEventDispatchingStrategy_tA0F30AAE4AD0C0203A5628D13FBAAEF8C16D750C  : public RuntimeObject
+struct IMGUIEventDispatchingStrategy_tA0F30AAE4AD0C0203A5628D13FBAAEF8C16D750C  : public RuntimeObject
 {
 public:
 
@@ -3326,7 +3326,7 @@ public:
 
 
 // UnityEngine.UIElements.KeyboardEventDispatchingStrategy
-struct  KeyboardEventDispatchingStrategy_t330CD3C67892206D0C40DF9D137BC738358A9490  : public RuntimeObject
+struct KeyboardEventDispatchingStrategy_t330CD3C67892206D0C40DF9D137BC738358A9490  : public RuntimeObject
 {
 public:
 
@@ -3335,7 +3335,7 @@ public:
 
 
 // System.Reflection.MemberInfo
-struct  MemberInfo_t  : public RuntimeObject
+struct MemberInfo_t  : public RuntimeObject
 {
 public:
 
@@ -3344,7 +3344,7 @@ public:
 
 
 // UnityEngine.UIElements.MeshGenerationContext
-struct  MeshGenerationContext_tAEAC806C97F213D3E06EB68E028CDD99426DDAFC  : public RuntimeObject
+struct MeshGenerationContext_tAEAC806C97F213D3E06EB68E028CDD99426DDAFC  : public RuntimeObject
 {
 public:
 	// UnityEngine.UIElements.IStylePainter UnityEngine.UIElements.MeshGenerationContext::painter
@@ -3363,7 +3363,7 @@ public:
 
 
 // UnityEngine.UIElements.MouseCaptureController
-struct  MouseCaptureController_tB17179178DC02A2F269EC031393039B88E8DB619  : public RuntimeObject
+struct MouseCaptureController_tB17179178DC02A2F269EC031393039B88E8DB619  : public RuntimeObject
 {
 public:
 
@@ -3398,7 +3398,7 @@ public:
 
 
 // UnityEngine.UIElements.MouseCaptureDispatchingStrategy
-struct  MouseCaptureDispatchingStrategy_t77ACDE682169FE10B704CB3B701B9BCF050F9D1D  : public RuntimeObject
+struct MouseCaptureDispatchingStrategy_t77ACDE682169FE10B704CB3B701B9BCF050F9D1D  : public RuntimeObject
 {
 public:
 
@@ -3407,7 +3407,7 @@ public:
 
 
 // UnityEngine.UIElements.MouseEventDispatchingStrategy
-struct  MouseEventDispatchingStrategy_tA5E5C87D8CFB6513D554299014B5E9D16C799BD0  : public RuntimeObject
+struct MouseEventDispatchingStrategy_tA5E5C87D8CFB6513D554299014B5E9D16C799BD0  : public RuntimeObject
 {
 public:
 
@@ -3416,7 +3416,7 @@ public:
 
 
 // UnityEngine.UIElements.MouseEventsHelper
-struct  MouseEventsHelper_tE0671C7F9F859092F12E422C336F0D2B9795C676  : public RuntimeObject
+struct MouseEventsHelper_tE0671C7F9F859092F12E422C336F0D2B9795C676  : public RuntimeObject
 {
 public:
 
@@ -3425,7 +3425,7 @@ public:
 
 
 // UnityEngine.UIElements.UIR.Page
-struct  Page_t0EB186A021F1A37CDD86DA93E111FF9F411B8DB1  : public RuntimeObject
+struct Page_t0EB186A021F1A37CDD86DA93E111FF9F411B8DB1  : public RuntimeObject
 {
 public:
 	// System.Boolean UnityEngine.UIElements.UIR.Page::<disposed>k__BackingField
@@ -3486,7 +3486,7 @@ public:
 
 
 // UnityEngine.UIElements.PointerCaptureDispatchingStrategy
-struct  PointerCaptureDispatchingStrategy_t79596F4C11A518A145D26A40DB8894EFE2D6F1DE  : public RuntimeObject
+struct PointerCaptureDispatchingStrategy_t79596F4C11A518A145D26A40DB8894EFE2D6F1DE  : public RuntimeObject
 {
 public:
 
@@ -3495,7 +3495,7 @@ public:
 
 
 // UnityEngine.UIElements.PointerCaptureHelper
-struct  PointerCaptureHelper_t20382CAE7DBDA8879F4EBBC5D9AAF696D180A9EC  : public RuntimeObject
+struct PointerCaptureHelper_t20382CAE7DBDA8879F4EBBC5D9AAF696D180A9EC  : public RuntimeObject
 {
 public:
 
@@ -3504,7 +3504,7 @@ public:
 
 
 // UnityEngine.UIElements.PointerDeviceState
-struct  PointerDeviceState_t434CD34173AC88CCFC20D78AE2D6202648ABC8A7  : public RuntimeObject
+struct PointerDeviceState_t434CD34173AC88CCFC20D78AE2D6202648ABC8A7  : public RuntimeObject
 {
 public:
 
@@ -3552,7 +3552,7 @@ public:
 
 
 // UnityEngine.UIElements.PointerDispatchState
-struct  PointerDispatchState_tD5E80266BF1FBD03C0595FE828905C8846916186  : public RuntimeObject
+struct PointerDispatchState_tD5E80266BF1FBD03C0595FE828905C8846916186  : public RuntimeObject
 {
 public:
 	// UnityEngine.UIElements.IEventHandler[] UnityEngine.UIElements.PointerDispatchState::m_PendingPointerCapture
@@ -3593,7 +3593,7 @@ public:
 
 
 // UnityEngine.UIElements.PointerEventDispatchingStrategy
-struct  PointerEventDispatchingStrategy_t6B69AD97B915FF1E4FB50BB902195D1670FCC375  : public RuntimeObject
+struct PointerEventDispatchingStrategy_t6B69AD97B915FF1E4FB50BB902195D1670FCC375  : public RuntimeObject
 {
 public:
 
@@ -3602,7 +3602,7 @@ public:
 
 
 // UnityEngine.UIElements.PointerEventsHelper
-struct  PointerEventsHelper_t433758B2D0D48460EE5280A734159EA6978B4C12  : public RuntimeObject
+struct PointerEventsHelper_t433758B2D0D48460EE5280A734159EA6978B4C12  : public RuntimeObject
 {
 public:
 
@@ -3611,7 +3611,7 @@ public:
 
 
 // UnityEngine.UIElements.PointerId
-struct  PointerId_tD592A4AAE154EC87BF982E69DC283134006C24E1  : public RuntimeObject
+struct PointerId_tD592A4AAE154EC87BF982E69DC283134006C24E1  : public RuntimeObject
 {
 public:
 
@@ -3707,7 +3707,7 @@ public:
 
 
 // UnityEngine.UIElements.PointerType
-struct  PointerType_t319062C6ECAA6FD84C491FE35AAB846B161A36D3  : public RuntimeObject
+struct PointerType_t319062C6ECAA6FD84C491FE35AAB846B161A36D3  : public RuntimeObject
 {
 public:
 
@@ -3766,7 +3766,7 @@ public:
 
 
 // UnityEngine.UIElements.PropagationPaths
-struct  PropagationPaths_tB85C101114BB2AA54407B8F7768B403121914E99  : public RuntimeObject
+struct PropagationPaths_tB85C101114BB2AA54407B8F7768B403121914E99  : public RuntimeObject
 {
 public:
 	// System.Collections.Generic.List`1<UnityEngine.UIElements.VisualElement> UnityEngine.UIElements.PropagationPaths::trickleDownPath
@@ -3824,7 +3824,7 @@ public:
 
 
 // System.String
-struct  String_t  : public RuntimeObject
+struct String_t  : public RuntimeObject
 {
 public:
 	// System.Int32 System.String::m_stringLength
@@ -3869,7 +3869,7 @@ public:
 
 
 // UnityEngine.UIElements.StyleValueCollection
-struct  StyleValueCollection_t3197D7B80761BCBF51AB28C17867845850701799  : public RuntimeObject
+struct StyleValueCollection_t3197D7B80761BCBF51AB28C17867845850701799  : public RuntimeObject
 {
 public:
 	// System.Collections.Generic.List`1<UnityEngine.UIElements.StyleSheets.StyleValue> UnityEngine.UIElements.StyleValueCollection::m_Values
@@ -3888,7 +3888,7 @@ public:
 
 
 // UnityEngine.UIElements.TimerEventScheduler
-struct  TimerEventScheduler_tBFB88C1237A1F9B74C5A80668899D4FD984C3619  : public RuntimeObject
+struct TimerEventScheduler_tBFB88C1237A1F9B74C5A80668899D4FD984C3619  : public RuntimeObject
 {
 public:
 	// System.Collections.Generic.List`1<UnityEngine.UIElements.ScheduledItem> UnityEngine.UIElements.TimerEventScheduler::m_ScheduledItems
@@ -3959,7 +3959,7 @@ public:
 
 
 // System.ValueType
-struct  ValueType_tDBF999C1B75C48C68621878250DBF6CDBCF51E52  : public RuntimeObject
+struct ValueType_tDBF999C1B75C48C68621878250DBF6CDBCF51E52  : public RuntimeObject
 {
 public:
 
@@ -3976,7 +3976,7 @@ struct ValueType_tDBF999C1B75C48C68621878250DBF6CDBCF51E52_marshaled_com
 };
 
 // UnityEngine.UIElements.VisualTreeUpdater
-struct  VisualTreeUpdater_tD6408ED21607A11CCA2F26D09A50AED30B8C1A64  : public RuntimeObject
+struct VisualTreeUpdater_tD6408ED21607A11CCA2F26D09A50AED30B8C1A64  : public RuntimeObject
 {
 public:
 	// UnityEngine.UIElements.BaseVisualElementPanel UnityEngine.UIElements.VisualTreeUpdater::m_Panel
@@ -4006,7 +4006,7 @@ public:
 
 
 // UnityEngine.UIElements.BaseRuntimePanel/<>c
-struct  U3CU3Ec_t48F9B8CC8704CFA928B619185C48BC353F2B9420  : public RuntimeObject
+struct U3CU3Ec_t48F9B8CC8704CFA928B619185C48BC353F2B9420  : public RuntimeObject
 {
 public:
 
@@ -4032,7 +4032,7 @@ public:
 
 
 // UnityEngine.GUILayoutUtility/LayoutCache
-struct  LayoutCache_t4C0528EE626F95B53EFE2AB59B8D56CB70BBDFE8  : public RuntimeObject
+struct LayoutCache_t4C0528EE626F95B53EFE2AB59B8D56CB70BBDFE8  : public RuntimeObject
 {
 public:
 	// System.Int32 UnityEngine.GUILayoutUtility/LayoutCache::<id>k__BackingField
@@ -4083,7 +4083,7 @@ public:
 
 
 // System.Collections.Generic.List`1/Enumerator<UnityEngine.UIElements.EventCallbackFunctorBase>
-struct  Enumerator_tEEBFA21E38226D50604ADEDB14296688103C38A6 
+struct Enumerator_tEEBFA21E38226D50604ADEDB14296688103C38A6 
 {
 public:
 	// System.Collections.Generic.List`1<T> System.Collections.Generic.List`1/Enumerator::list
@@ -4133,7 +4133,7 @@ public:
 
 
 // System.Collections.Generic.List`1/Enumerator<UnityEngine.UIElements.IEventDispatchingStrategy>
-struct  Enumerator_t650EB84A7FA3AD7D77753A385547626BF43E0842 
+struct Enumerator_t650EB84A7FA3AD7D77753A385547626BF43E0842 
 {
 public:
 	// System.Collections.Generic.List`1<T> System.Collections.Generic.List`1/Enumerator::list
@@ -4183,7 +4183,7 @@ public:
 
 
 // System.Collections.Generic.List`1/Enumerator<UnityEngine.UIElements.IRuntimePanelComponent>
-struct  Enumerator_tEA1E462EF5C5CBDDE476BADC8F694934D985352E 
+struct Enumerator_tEA1E462EF5C5CBDDE476BADC8F694934D985352E 
 {
 public:
 	// System.Collections.Generic.List`1<T> System.Collections.Generic.List`1/Enumerator::list
@@ -4233,7 +4233,7 @@ public:
 
 
 // System.Collections.Generic.List`1/Enumerator<System.Object>
-struct  Enumerator_tB6009981BD4E3881E3EC83627255A24198F902D6 
+struct Enumerator_tB6009981BD4E3881E3EC83627255A24198F902D6 
 {
 public:
 	// System.Collections.Generic.List`1<T> System.Collections.Generic.List`1/Enumerator::list
@@ -4283,7 +4283,7 @@ public:
 
 
 // System.Collections.Generic.List`1/Enumerator<UnityEngine.UIElements.VisualElement>
-struct  Enumerator_t0D9EEF2BAFD14DCABA5663BD9A6BA3429EA7741D 
+struct Enumerator_t0D9EEF2BAFD14DCABA5663BD9A6BA3429EA7741D 
 {
 public:
 	// System.Collections.Generic.List`1<T> System.Collections.Generic.List`1/Enumerator::list
@@ -4333,7 +4333,7 @@ public:
 
 
 // System.Nullable`1<System.Boolean>
-struct  Nullable_1_t1D1CD146BFCBDC2E53E1F700889F8C5C21063EF3 
+struct Nullable_1_t1D1CD146BFCBDC2E53E1F700889F8C5C21063EF3 
 {
 public:
 	// T System.Nullable`1::value
@@ -4361,7 +4361,7 @@ public:
 
 
 // UnityEngine.UIElements.UIR.Alloc
-struct  Alloc_tE0F737C911AA97E63C14F6F9910E900B3BD13FCB 
+struct Alloc_tE0F737C911AA97E63C14F6F9910E900B3BD13FCB 
 {
 public:
 	// System.UInt32 UnityEngine.UIElements.UIR.Alloc::start
@@ -4426,7 +4426,7 @@ struct Alloc_tE0F737C911AA97E63C14F6F9910E900B3BD13FCB_marshaled_com
 };
 
 // UnityEngine.UIElements.Background
-struct  Background_t14D781972AD80DA2C6B3070F7A7EE46F063CDEAD 
+struct Background_t14D781972AD80DA2C6B3070F7A7EE46F063CDEAD 
 {
 public:
 	// UnityEngine.Texture2D UnityEngine.UIElements.Background::m_Texture
@@ -4494,7 +4494,7 @@ struct Background_t14D781972AD80DA2C6B3070F7A7EE46F063CDEAD_marshaled_com
 };
 
 // System.Boolean
-struct  Boolean_t07D1E3F34E4813023D64F584DFF7B34C9D922F37 
+struct Boolean_t07D1E3F34E4813023D64F584DFF7B34C9D922F37 
 {
 public:
 	// System.Boolean System.Boolean::m_value
@@ -4540,7 +4540,7 @@ public:
 
 
 // System.Byte
-struct  Byte_t0111FAB8B8685667EDDAF77683F0D8F86B659056 
+struct Byte_t0111FAB8B8685667EDDAF77683F0D8F86B659056 
 {
 public:
 	// System.Byte System.Byte::m_value
@@ -4558,7 +4558,7 @@ public:
 
 
 // System.Char
-struct  Char_tFF60D8E7E89A20BE2294A003734341BD1DF43E14 
+struct Char_tFF60D8E7E89A20BE2294A003734341BD1DF43E14 
 {
 public:
 	// System.Char System.Char::m_value
@@ -4593,7 +4593,7 @@ public:
 
 
 // UnityEngine.Color
-struct  Color_tF40DAF76C04FFECF3FE6024F85A294741C9CC659 
+struct Color_tF40DAF76C04FFECF3FE6024F85A294741C9CC659 
 {
 public:
 	// System.Single UnityEngine.Color::r
@@ -4641,7 +4641,7 @@ public:
 
 
 // Microsoft.CodeAnalysis.EmbeddedAttribute
-struct  EmbeddedAttribute_t8FAE3C464790289E5FE9D307ADB8C4D78CF3F730  : public Attribute_t037CA9D9F3B742C063DB364D2EEBBF9FC5772C71
+struct EmbeddedAttribute_t8FAE3C464790289E5FE9D307ADB8C4D78CF3F730  : public Attribute_t037CA9D9F3B742C063DB364D2EEBBF9FC5772C71
 {
 public:
 
@@ -4650,7 +4650,7 @@ public:
 
 
 // System.Enum
-struct  Enum_t23B90B40F60E677A8025267341651C94AE079CDA  : public ValueType_tDBF999C1B75C48C68621878250DBF6CDBCF51E52
+struct Enum_t23B90B40F60E677A8025267341651C94AE079CDA  : public ValueType_tDBF999C1B75C48C68621878250DBF6CDBCF51E52
 {
 public:
 
@@ -4684,7 +4684,7 @@ struct Enum_t23B90B40F60E677A8025267341651C94AE079CDA_marshaled_com
 };
 
 // UnityEngine.UIElements.EventDebuggerLogCall
-struct  EventDebuggerLogCall_t9A572081CD72480CC37F21D7CDB686D2FEB83FD2 
+struct EventDebuggerLogCall_t9A572081CD72480CC37F21D7CDB686D2FEB83FD2 
 {
 public:
 	union
@@ -4700,7 +4700,7 @@ public:
 
 
 // UnityEngine.UIElements.EventDebuggerLogExecuteDefaultAction
-struct  EventDebuggerLogExecuteDefaultAction_t591F35E77179957722EE3B8ECDA5DA30862699D4 
+struct EventDebuggerLogExecuteDefaultAction_t591F35E77179957722EE3B8ECDA5DA30862699D4 
 {
 public:
 	union
@@ -4716,7 +4716,7 @@ public:
 
 
 // UnityEngine.UIElements.EventDebuggerLogIMGUICall
-struct  EventDebuggerLogIMGUICall_tACD389E8DA7F0A54000271BAAB87907E2D8278E0 
+struct EventDebuggerLogIMGUICall_tACD389E8DA7F0A54000271BAAB87907E2D8278E0 
 {
 public:
 	union
@@ -4732,7 +4732,7 @@ public:
 
 
 // UnityEngine.UIElements.EventDispatcherGate
-struct  EventDispatcherGate_t9B2B091B544AD6667CC1A69AE460512C4B45C241 
+struct EventDispatcherGate_t9B2B091B544AD6667CC1A69AE460512C4B45C241 
 {
 public:
 	// UnityEngine.UIElements.EventDispatcher UnityEngine.UIElements.EventDispatcherGate::m_Dispatcher
@@ -4761,7 +4761,7 @@ struct EventDispatcherGate_t9B2B091B544AD6667CC1A69AE460512C4B45C241_marshaled_c
 };
 
 // UnityEngine.EventInterests
-struct  EventInterests_t4DC3B6F7CFFDBF0AC4DE302F9102C769B87B9D79 
+struct EventInterests_t4DC3B6F7CFFDBF0AC4DE302F9102C769B87B9D79 
 {
 public:
 	// System.Boolean UnityEngine.EventInterests::<wantsMouseMove>k__BackingField
@@ -4813,7 +4813,7 @@ struct EventInterests_t4DC3B6F7CFFDBF0AC4DE302F9102C769B87B9D79_marshaled_com
 };
 
 // UnityEngine.UIElements.Focusable
-struct  Focusable_t54CC145FEE85D2A5D92761C419288150CF5BEC14  : public CallbackEventHandler_tCEC853B0E9776DED1D671F0B7451AFBB36439A6C
+struct Focusable_t54CC145FEE85D2A5D92761C419288150CF5BEC14  : public CallbackEventHandler_tCEC853B0E9776DED1D671F0B7451AFBB36439A6C
 {
 public:
 	// System.Boolean UnityEngine.UIElements.Focusable::<focusable>k__BackingField
@@ -4871,7 +4871,7 @@ public:
 
 
 // System.Int32
-struct  Int32_tFDE5F8CD43D10453F6A2E0C77FE48C6CC7009046 
+struct Int32_tFDE5F8CD43D10453F6A2E0C77FE48C6CC7009046 
 {
 public:
 	// System.Int32 System.Int32::m_value
@@ -4889,7 +4889,7 @@ public:
 
 
 // System.Int64
-struct  Int64_t378EE0D608BD3107E77238E85F30D2BBD46981F3 
+struct Int64_t378EE0D608BD3107E77238E85F30D2BBD46981F3 
 {
 public:
 	// System.Int64 System.Int64::m_value
@@ -4907,7 +4907,7 @@ public:
 
 
 // System.IntPtr
-struct  IntPtr_t 
+struct IntPtr_t 
 {
 public:
 	// System.Void* System.IntPtr::m_value
@@ -4941,7 +4941,7 @@ public:
 
 
 // System.Runtime.CompilerServices.IsReadOnlyAttribute
-struct  IsReadOnlyAttribute_t9610E1835712EB13B89763BF77397C5A7D7809F0  : public Attribute_t037CA9D9F3B742C063DB364D2EEBBF9FC5772C71
+struct IsReadOnlyAttribute_t9610E1835712EB13B89763BF77397C5A7D7809F0  : public Attribute_t037CA9D9F3B742C063DB364D2EEBBF9FC5772C71
 {
 public:
 
@@ -4950,7 +4950,7 @@ public:
 
 
 // UnityEngine.Matrix4x4
-struct  Matrix4x4_tDE7FF4F2E2EA284F6EFE00D627789D0E5B8B4461 
+struct Matrix4x4_tDE7FF4F2E2EA284F6EFE00D627789D0E5B8B4461 
 {
 public:
 	// System.Single UnityEngine.Matrix4x4::m00
@@ -5144,7 +5144,7 @@ public:
 
 
 // UnityEngine.PropertyName
-struct  PropertyName_t1B3B39F9873F8967D3557FE2CCF4E415F909FEC1 
+struct PropertyName_t1B3B39F9873F8967D3557FE2CCF4E415F909FEC1 
 {
 public:
 	// System.Int32 UnityEngine.PropertyName::id
@@ -5162,7 +5162,7 @@ public:
 
 
 // UnityEngine.Quaternion
-struct  Quaternion_t6D28618CF65156D4A0AD747370DDFD0C514A31B4 
+struct Quaternion_t6D28618CF65156D4A0AD747370DDFD0C514A31B4 
 {
 public:
 	// System.Single UnityEngine.Quaternion::x
@@ -5226,7 +5226,7 @@ public:
 
 
 // UnityEngine.Rect
-struct  Rect_t7D9187DB6339DBA5741C09B6CCEF2F54F1966878 
+struct Rect_t7D9187DB6339DBA5741C09B6CCEF2F54F1966878 
 {
 public:
 	// System.Single UnityEngine.Rect::m_XMin
@@ -5274,7 +5274,7 @@ public:
 
 
 // UnityEngine.RectInt
-struct  RectInt_tE7B8105A280C1AC73A4157ED41F9B86C9BD91E49 
+struct RectInt_tE7B8105A280C1AC73A4157ED41F9B86C9BD91E49 
 {
 public:
 	// System.Int32 UnityEngine.RectInt::m_XMin
@@ -5322,7 +5322,7 @@ public:
 
 
 // System.Single
-struct  Single_tE07797BA3C98D4CA9B5A19413C19A76688AB899E 
+struct Single_tE07797BA3C98D4CA9B5A19413C19A76688AB899E 
 {
 public:
 	// System.Single System.Single::m_value
@@ -5340,7 +5340,7 @@ public:
 
 
 // System.UInt16
-struct  UInt16_t894EA9D4FB7C799B244E7BBF2DF0EEEDBC77A8BD 
+struct UInt16_t894EA9D4FB7C799B244E7BBF2DF0EEEDBC77A8BD 
 {
 public:
 	// System.UInt16 System.UInt16::m_value
@@ -5358,7 +5358,7 @@ public:
 
 
 // System.UInt32
-struct  UInt32_tE60352A06233E4E69DD198BCC67142159F686B15 
+struct UInt32_tE60352A06233E4E69DD198BCC67142159F686B15 
 {
 public:
 	// System.UInt32 System.UInt32::m_value
@@ -5376,7 +5376,7 @@ public:
 
 
 // System.UInt64
-struct  UInt64_tEC57511B3E3CA2DBA1BEBD434C6983E31C943281 
+struct UInt64_tEC57511B3E3CA2DBA1BEBD434C6983E31C943281 
 {
 public:
 	// System.UInt64 System.UInt64::m_value
@@ -5394,7 +5394,7 @@ public:
 
 
 // UnityEngine.Vector2
-struct  Vector2_tBB32F2736AEC229A7BFBCE18197EC0F6AC7EC2D9 
+struct Vector2_tBB32F2736AEC229A7BFBCE18197EC0F6AC7EC2D9 
 {
 public:
 	// System.Single UnityEngine.Vector2::x
@@ -5508,7 +5508,7 @@ public:
 
 
 // UnityEngine.Vector3
-struct  Vector3_t65B972D6A585A0A5B63153CF1177A90D3C90D65E 
+struct Vector3_t65B972D6A585A0A5B63153CF1177A90D3C90D65E 
 {
 public:
 	// System.Single UnityEngine.Vector3::x
@@ -5652,7 +5652,7 @@ public:
 
 
 // UnityEngine.UIElements.VisualElementFocusChangeDirection
-struct  VisualElementFocusChangeDirection_t824A7DA1115D0057B9F8CEA6BA307B172B485BFC  : public FocusChangeDirection_t735EB259C7198DEC617BA20828C4F947F35C0118
+struct VisualElementFocusChangeDirection_t824A7DA1115D0057B9F8CEA6BA307B172B485BFC  : public FocusChangeDirection_t735EB259C7198DEC617BA20828C4F947F35C0118
 {
 public:
 
@@ -5689,7 +5689,7 @@ public:
 
 
 // System.Void
-struct  Void_t700C6383A2A510C2CF4DD86DABD5CA9FF70ADAC5 
+struct Void_t700C6383A2A510C2CF4DD86DABD5CA9FF70ADAC5 
 {
 public:
 	union
@@ -5705,7 +5705,7 @@ public:
 
 
 // UnityEngine.UIElements.EventDispatcher/EventRecord
-struct  EventRecord_t8282BF1910D22347919754211F2AA1F25F8BED01 
+struct EventRecord_t8282BF1910D22347919754211F2AA1F25F8BED01 
 {
 public:
 	// UnityEngine.UIElements.EventBase UnityEngine.UIElements.EventDispatcher/EventRecord::m_Event
@@ -5747,7 +5747,7 @@ struct EventRecord_t8282BF1910D22347919754211F2AA1F25F8BED01_marshaled_com
 };
 
 // UnityEngine.UIElements.FocusController/FocusedElement
-struct  FocusedElement_tF9897C653908D7004ACBEC7265361828BA9DB206 
+struct FocusedElement_tF9897C653908D7004ACBEC7265361828BA9DB206 
 {
 public:
 	// UnityEngine.UIElements.VisualElement UnityEngine.UIElements.FocusController/FocusedElement::m_SubTreeRoot
@@ -5789,7 +5789,7 @@ struct FocusedElement_tF9897C653908D7004ACBEC7265361828BA9DB206_marshaled_com
 };
 
 // UnityEngine.GUIClip/ParentClipScope
-struct  ParentClipScope_t9FB21521553F18246A5BFF73F59D122A4DC9D627 
+struct ParentClipScope_t9FB21521553F18246A5BFF73F59D122A4DC9D627 
 {
 public:
 	// System.Boolean UnityEngine.GUIClip/ParentClipScope::m_Disposed
@@ -5817,7 +5817,7 @@ struct ParentClipScope_t9FB21521553F18246A5BFF73F59D122A4DC9D627_marshaled_com
 };
 
 // UnityEngine.UIElements.InlineStyleAccess/InlineRule
-struct  InlineRule_t1D191360683468194F69C647D7D3900BE9CE82B3 
+struct InlineRule_t1D191360683468194F69C647D7D3900BE9CE82B3 
 {
 public:
 	// UnityEngine.UIElements.StyleSheet UnityEngine.UIElements.InlineStyleAccess/InlineRule::sheet
@@ -5872,7 +5872,7 @@ struct InlineRule_t1D191360683468194F69C647D7D3900BE9CE82B3_marshaled_com
 };
 
 // UnityEngine.UIElements.VisualElement/Hierarchy
-struct  Hierarchy_t72E95B8C6B44F6CEAF66A6A59564EB373D0A7076 
+struct Hierarchy_t72E95B8C6B44F6CEAF66A6A59564EB373D0A7076 
 {
 public:
 	// UnityEngine.UIElements.VisualElement UnityEngine.UIElements.VisualElement/Hierarchy::m_Owner
@@ -5901,7 +5901,7 @@ struct Hierarchy_t72E95B8C6B44F6CEAF66A6A59564EB373D0A7076_marshaled_com
 };
 
 // System.Collections.Generic.List`1/Enumerator<UnityEngine.UIElements.FocusController/FocusedElement>
-struct  Enumerator_tD5B99DCCF1F2D9537B88D50339A26665C4DB6633 
+struct Enumerator_tD5B99DCCF1F2D9537B88D50339A26665C4DB6633 
 {
 public:
 	// System.Collections.Generic.List`1<T> System.Collections.Generic.List`1/Enumerator::list
@@ -5954,7 +5954,7 @@ public:
 
 
 // UnityEngine.UIElements.AddressMode
-struct  AddressMode_tBFA1937F17162DA8458F0F0475C32775CA735E99 
+struct AddressMode_tBFA1937F17162DA8458F0F0475C32775CA735E99 
 {
 public:
 	// System.Int32 UnityEngine.UIElements.AddressMode::value__
@@ -5972,7 +5972,7 @@ public:
 
 
 // UnityEngine.UIElements.Align
-struct  Align_tE4848C66FB87E85CFD96EC84E4FD4AFD919BEEFA 
+struct Align_tE4848C66FB87E85CFD96EC84E4FD4AFD919BEEFA 
 {
 public:
 	// System.Int32 UnityEngine.UIElements.Align::value__
@@ -5990,7 +5990,7 @@ public:
 
 
 // System.Reflection.BindingFlags
-struct  BindingFlags_tAAAB07D9AC588F0D55D844E51D7035E96DF94733 
+struct BindingFlags_tAAAB07D9AC588F0D55D844E51D7035E96DF94733 
 {
 public:
 	// System.Int32 System.Reflection.BindingFlags::value__
@@ -6008,7 +6008,7 @@ public:
 
 
 // UnityEngine.UIElements.CallbackPhase
-struct  CallbackPhase_t6570C0992B5957C80B4BDD9B8686DAE22D2187F2 
+struct CallbackPhase_t6570C0992B5957C80B4BDD9B8686DAE22D2187F2 
 {
 public:
 	// System.Int32 UnityEngine.UIElements.CallbackPhase::value__
@@ -6026,7 +6026,7 @@ public:
 
 
 // UnityEngine.UIElements.UIR.Implementation.ClipMethod
-struct  ClipMethod_tA71C87935076956E9F6744172102E0169C36420F 
+struct ClipMethod_tA71C87935076956E9F6744172102E0169C36420F 
 {
 public:
 	// System.Int32 UnityEngine.UIElements.UIR.Implementation.ClipMethod::value__
@@ -6044,7 +6044,7 @@ public:
 
 
 // UnityEngine.UIElements.UIR.CommandType
-struct  CommandType_tE5CBAC4FE5D78B23EDBE57CDA26AD2A7D153262F 
+struct CommandType_tE5CBAC4FE5D78B23EDBE57CDA26AD2A7D153262F 
 {
 public:
 	// System.Int32 UnityEngine.UIElements.UIR.CommandType::value__
@@ -6062,7 +6062,7 @@ public:
 
 
 // UnityEngine.UIElements.ContextType
-struct  ContextType_tBB40E55BBAA9BDDE6E882CAB48BF3516DE29C24D 
+struct ContextType_tBB40E55BBAA9BDDE6E882CAB48BF3516DE29C24D 
 {
 public:
 	// System.Int32 UnityEngine.UIElements.ContextType::value__
@@ -6080,7 +6080,7 @@ public:
 
 
 // UnityEngine.UIElements.Cursor
-struct  Cursor_t6FF56333603B811AE4BB9A0C7D66B88D874A4C4F 
+struct Cursor_t6FF56333603B811AE4BB9A0C7D66B88D874A4C4F 
 {
 public:
 	// UnityEngine.Texture2D UnityEngine.UIElements.Cursor::<texture>k__BackingField
@@ -6133,7 +6133,7 @@ struct Cursor_t6FF56333603B811AE4BB9A0C7D66B88D874A4C4F_marshaled_com
 };
 
 // UnityEngine.UIElements.StyleSheets.Syntax.DataType
-struct  DataType_t2C7120155C58DE6C55013172AA4D897CC56F1BC9 
+struct DataType_t2C7120155C58DE6C55013172AA4D897CC56F1BC9 
 {
 public:
 	// System.Int32 UnityEngine.UIElements.StyleSheets.Syntax.DataType::value__
@@ -6151,7 +6151,7 @@ public:
 
 
 // System.Delegate
-struct  Delegate_t  : public RuntimeObject
+struct Delegate_t  : public RuntimeObject
 {
 public:
 	// System.IntPtr System.Delegate::method_ptr
@@ -6303,7 +6303,7 @@ struct Delegate_t_marshaled_com
 };
 
 // UnityEngine.UIElements.DispatchMode
-struct  DispatchMode_t7478B918A948E54B3A42D030C764D728B0C3AAED 
+struct DispatchMode_t7478B918A948E54B3A42D030C764D728B0C3AAED 
 {
 public:
 	// System.Int32 UnityEngine.UIElements.DispatchMode::value__
@@ -6321,7 +6321,7 @@ public:
 
 
 // UnityEngine.UIElements.DisplayStyle
-struct  DisplayStyle_t750B52FEB6F4EDF253020C8545E6460B39DC6A64 
+struct DisplayStyle_t750B52FEB6F4EDF253020C8545E6460B39DC6A64 
 {
 public:
 	// System.Int32 UnityEngine.UIElements.DisplayStyle::value__
@@ -6339,7 +6339,7 @@ public:
 
 
 // UnityEngine.Event
-struct  Event_tED49F8EC5A2514F6E877E301B1AB7ABE4647253E  : public RuntimeObject
+struct Event_tED49F8EC5A2514F6E877E301B1AB7ABE4647253E  : public RuntimeObject
 {
 public:
 	// System.IntPtr UnityEngine.Event::m_Ptr
@@ -6395,7 +6395,7 @@ struct Event_tED49F8EC5A2514F6E877E301B1AB7ABE4647253E_marshaled_com
 };
 
 // UnityEngine.EventModifiers
-struct  EventModifiers_t74E579DA08774C9BED20643F03DA610285143BFA 
+struct EventModifiers_t74E579DA08774C9BED20643F03DA610285143BFA 
 {
 public:
 	// System.Int32 UnityEngine.EventModifiers::value__
@@ -6413,7 +6413,7 @@ public:
 
 
 // UnityEngine.EventType
-struct  EventType_t7441C817FAEEF7090BC0D9084E6DB3E7F635815F 
+struct EventType_t7441C817FAEEF7090BC0D9084E6DB3E7F635815F 
 {
 public:
 	// System.Int32 UnityEngine.EventType::value__
@@ -6431,7 +6431,7 @@ public:
 
 
 // System.Exception
-struct  Exception_t  : public RuntimeObject
+struct Exception_t  : public RuntimeObject
 {
 public:
 	// System.String System.Exception::_className
@@ -6657,7 +6657,7 @@ struct Exception_t_marshaled_com
 };
 
 // UnityEngine.UIElements.StyleSheets.Syntax.ExpressionCombinator
-struct  ExpressionCombinator_t895C4BE15C95E61EBD27B935B43823B76A002DAF 
+struct ExpressionCombinator_t895C4BE15C95E61EBD27B935B43823B76A002DAF 
 {
 public:
 	// System.Int32 UnityEngine.UIElements.StyleSheets.Syntax.ExpressionCombinator::value__
@@ -6675,7 +6675,7 @@ public:
 
 
 // UnityEngine.UIElements.StyleSheets.Syntax.ExpressionMultiplierType
-struct  ExpressionMultiplierType_t8AA0FEF219DE8DED0ADAB1A85B68F683512BB1C2 
+struct ExpressionMultiplierType_t8AA0FEF219DE8DED0ADAB1A85B68F683512BB1C2 
 {
 public:
 	// System.Int32 UnityEngine.UIElements.StyleSheets.Syntax.ExpressionMultiplierType::value__
@@ -6693,7 +6693,7 @@ public:
 
 
 // UnityEngine.UIElements.StyleSheets.Syntax.ExpressionType
-struct  ExpressionType_t0C2A8372027E8024C64AD21EFCB0BCD53617F76B 
+struct ExpressionType_t0C2A8372027E8024C64AD21EFCB0BCD53617F76B 
 {
 public:
 	// System.Int32 UnityEngine.UIElements.StyleSheets.Syntax.ExpressionType::value__
@@ -6711,7 +6711,7 @@ public:
 
 
 // UnityEngine.UIElements.FlexDirection
-struct  FlexDirection_tF9FE317416B166F44DD6ADDB5D04A74762E378B0 
+struct FlexDirection_tF9FE317416B166F44DD6ADDB5D04A74762E378B0 
 {
 public:
 	// System.Int32 UnityEngine.UIElements.FlexDirection::value__
@@ -6729,7 +6729,7 @@ public:
 
 
 // UnityEngine.FontStyle
-struct  FontStyle_t98609253DA79E5B3198BD60AD3518C5B6A2DCF96 
+struct FontStyle_t98609253DA79E5B3198BD60AD3518C5B6A2DCF96 
 {
 public:
 	// System.Int32 UnityEngine.FontStyle::value__
@@ -6747,7 +6747,7 @@ public:
 
 
 // UnityEngine.GUILayoutEntry
-struct  GUILayoutEntry_t2999ED021CB0F188187989AC009621F0AE73A5DE  : public RuntimeObject
+struct GUILayoutEntry_t2999ED021CB0F188187989AC009621F0AE73A5DE  : public RuntimeObject
 {
 public:
 	// System.Single UnityEngine.GUILayoutEntry::minWidth
@@ -6872,7 +6872,7 @@ public:
 
 
 // UnityEngine.UIElements.GradientType
-struct  GradientType_t803A84C089B393299F1958D956B0D52A7443F5DA 
+struct GradientType_t803A84C089B393299F1958D956B0D52A7443F5DA 
 {
 public:
 	// System.Int32 UnityEngine.UIElements.GradientType::value__
@@ -6890,7 +6890,7 @@ public:
 
 
 // UnityEngine.UIElements.HierarchyChangeType
-struct  HierarchyChangeType_t40FF640609945901A8CF69D73B5D5C3230CD0321 
+struct HierarchyChangeType_t40FF640609945901A8CF69D73B5D5C3230CD0321 
 {
 public:
 	// System.Int32 UnityEngine.UIElements.HierarchyChangeType::value__
@@ -6908,7 +6908,7 @@ public:
 
 
 // UnityEngine.UIElements.Justify
-struct  Justify_t533E9C4B4BF06CA4F567CEEE354981055A5DD056 
+struct Justify_t533E9C4B4BF06CA4F567CEEE354981055A5DD056 
 {
 public:
 	// System.Int32 UnityEngine.UIElements.Justify::value__
@@ -6926,7 +6926,7 @@ public:
 
 
 // UnityEngine.KeyCode
-struct  KeyCode_t1D303F7D061BF4429872E9F109ADDBCB431671F4 
+struct KeyCode_t1D303F7D061BF4429872E9F109ADDBCB431671F4 
 {
 public:
 	// System.Int32 UnityEngine.KeyCode::value__
@@ -6944,7 +6944,7 @@ public:
 
 
 // Unity.Profiling.LowLevel.MarkerFlags
-struct  MarkerFlags_t4A8B5185BAD24803CE9A57187867CB93451AA9E8 
+struct MarkerFlags_t4A8B5185BAD24803CE9A57187867CB93451AA9E8 
 {
 public:
 	// System.UInt16 Unity.Profiling.LowLevel.MarkerFlags::value__
@@ -6962,7 +6962,7 @@ public:
 
 
 // UnityEngine.UIElements.UIR.MeshHandle
-struct  MeshHandle_tA7A439464E73D2821B9D24EF75EC719A74C441ED  : public LinkedPoolItem_1_tA045C3054D704547F777F9EE782948DE268DFFF2
+struct MeshHandle_tA7A439464E73D2821B9D24EF75EC719A74C441ED  : public LinkedPoolItem_1_tA045C3054D704547F777F9EE782948DE268DFFF2
 {
 public:
 	// UnityEngine.UIElements.UIR.Alloc UnityEngine.UIElements.UIR.MeshHandle::allocVerts
@@ -7033,7 +7033,7 @@ public:
 
 
 // System.Globalization.NumberStyles
-struct  NumberStyles_t379EFBF2535E1C950DEC8042704BB663BF636594 
+struct NumberStyles_t379EFBF2535E1C950DEC8042704BB663BF636594 
 {
 public:
 	// System.Int32 System.Globalization.NumberStyles::value__
@@ -7051,7 +7051,7 @@ public:
 
 
 // UnityEngine.Object
-struct  Object_tF2F3778131EFF286AF62B7B013A170F95A91571A  : public RuntimeObject
+struct Object_tF2F3778131EFF286AF62B7B013A170F95A91571A  : public RuntimeObject
 {
 public:
 	// System.IntPtr UnityEngine.Object::m_CachedPtr
@@ -7095,7 +7095,7 @@ struct Object_tF2F3778131EFF286AF62B7B013A170F95A91571A_marshaled_com
 };
 
 // UnityEngine.ObjectGUIState
-struct  ObjectGUIState_t97CC7EF5BDB43F70877D3FE79657C78065923193  : public RuntimeObject
+struct ObjectGUIState_t97CC7EF5BDB43F70877D3FE79657C78065923193  : public RuntimeObject
 {
 public:
 	// System.IntPtr UnityEngine.ObjectGUIState::m_Ptr
@@ -7113,7 +7113,7 @@ public:
 
 
 // UnityEngine.UIElements.OverflowClipBox
-struct  OverflowClipBox_tB8968A896CCB7877C2D2AE59028334042C97C2F1 
+struct OverflowClipBox_tB8968A896CCB7877C2D2AE59028334042C97C2F1 
 {
 public:
 	// System.Int32 UnityEngine.UIElements.OverflowClipBox::value__
@@ -7131,7 +7131,7 @@ public:
 
 
 // UnityEngine.UIElements.OverflowInternal
-struct  OverflowInternal_t15D44A865507EFDC5645D08B193FC9BC177A98E4 
+struct OverflowInternal_t15D44A865507EFDC5645D08B193FC9BC177A98E4 
 {
 public:
 	// System.Int32 UnityEngine.UIElements.OverflowInternal::value__
@@ -7149,7 +7149,7 @@ public:
 
 
 // UnityEngine.UIElements.UIR.OwnedState
-struct  OwnedState_t1FC94DD26D85FF79463838D776B1DA18B4448AFA 
+struct OwnedState_t1FC94DD26D85FF79463838D776B1DA18B4448AFA 
 {
 public:
 	// System.Byte UnityEngine.UIElements.UIR.OwnedState::value__
@@ -7167,7 +7167,7 @@ public:
 
 
 // UnityEngine.UIElements.PanelClearSettings
-struct  PanelClearSettings_t3B56F9F11C4E89AFDCBFA69D619F37796233891F 
+struct PanelClearSettings_t3B56F9F11C4E89AFDCBFA69D619F37796233891F 
 {
 public:
 	// System.Boolean UnityEngine.UIElements.PanelClearSettings::clearDepthStencil
@@ -7219,7 +7219,7 @@ struct PanelClearSettings_t3B56F9F11C4E89AFDCBFA69D619F37796233891F_marshaled_co
 };
 
 // UnityEngine.UIElements.PickingMode
-struct  PickingMode_tE4A9E47537EE069E6D01FE5BA8B42C6A73C41552 
+struct PickingMode_tE4A9E47537EE069E6D01FE5BA8B42C6A73C41552 
 {
 public:
 	// System.Int32 UnityEngine.UIElements.PickingMode::value__
@@ -7237,7 +7237,7 @@ public:
 
 
 // UnityEngine.UIElements.Position
-struct  Position_tF17D30E6DDB2AF5598D811C62A29EFE8628B9D2A 
+struct Position_tF17D30E6DDB2AF5598D811C62A29EFE8628B9D2A 
 {
 public:
 	// System.Int32 UnityEngine.UIElements.Position::value__
@@ -7255,7 +7255,7 @@ public:
 
 
 // Unity.Profiling.ProfilerMarker
-struct  ProfilerMarker_tAE86534C80C5D67768DB3B244D8D139A2E6495E1 
+struct ProfilerMarker_tAE86534C80C5D67768DB3B244D8D139A2E6495E1 
 {
 public:
 	// System.IntPtr Unity.Profiling.ProfilerMarker::m_Ptr
@@ -7273,7 +7273,7 @@ public:
 
 
 // UnityEngine.UIElements.PropagationPhase
-struct  PropagationPhase_tDAF453F45C8A7EC36F0ADFDF89D406305FBFAFB8 
+struct PropagationPhase_tDAF453F45C8A7EC36F0ADFDF89D406305FBFAFB8 
 {
 public:
 	// System.Int32 UnityEngine.UIElements.PropagationPhase::value__
@@ -7291,7 +7291,7 @@ public:
 
 
 // UnityEngine.UIElements.PseudoStates
-struct  PseudoStates_t70E0AFDE5E4631CF8D6DC61F4EFC2A897592520F 
+struct PseudoStates_t70E0AFDE5E4631CF8D6DC61F4EFC2A897592520F 
 {
 public:
 	// System.Int32 UnityEngine.UIElements.PseudoStates::value__
@@ -7309,7 +7309,7 @@ public:
 
 
 // UnityEngine.UIElements.UIR.RenderDataDirtyTypes
-struct  RenderDataDirtyTypes_t3BD972F0D361E9B29AFF785A9931216726A34BF6 
+struct RenderDataDirtyTypes_t3BD972F0D361E9B29AFF785A9931216726A34BF6 
 {
 public:
 	// System.Int32 UnityEngine.UIElements.UIR.RenderDataDirtyTypes::value__
@@ -7327,7 +7327,7 @@ public:
 
 
 // UnityEngine.UIElements.RenderHints
-struct  RenderHints_t2229F1931CE245189511EF02048FF877499D8D75 
+struct RenderHints_t2229F1931CE245189511EF02048FF877499D8D75 
 {
 public:
 	// System.Int32 UnityEngine.UIElements.RenderHints::value__
@@ -7345,7 +7345,7 @@ public:
 
 
 // UnityEngine.UIElements.RepaintData
-struct  RepaintData_tECDD72801BC6B1F14937D2AAC25D0181CAE14510  : public RuntimeObject
+struct RepaintData_tECDD72801BC6B1F14937D2AAC25D0181CAE14510  : public RuntimeObject
 {
 public:
 	// UnityEngine.Matrix4x4 UnityEngine.UIElements.RepaintData::<currentOffset>k__BackingField
@@ -7394,7 +7394,7 @@ public:
 
 
 // System.RuntimeTypeHandle
-struct  RuntimeTypeHandle_tC33965ADA3E041E0C94AF05E5CB527B56482CEF9 
+struct RuntimeTypeHandle_tC33965ADA3E041E0C94AF05E5CB527B56482CEF9 
 {
 public:
 	// System.IntPtr System.RuntimeTypeHandle::value
@@ -7412,7 +7412,7 @@ public:
 
 
 // UnityEngine.ScaleMode
-struct  ScaleMode_t2D41D186D047D8156791981072D8E7F8759ABB49 
+struct ScaleMode_t2D41D186D047D8156791981072D8E7F8759ABB49 
 {
 public:
 	// System.Int32 UnityEngine.ScaleMode::value__
@@ -7430,7 +7430,7 @@ public:
 
 
 // UnityEngine.UIElements.StyleKeyword
-struct  StyleKeyword_t01A121DD5B4904AB0EA0BFA6E26159EE9AF8B303 
+struct StyleKeyword_t01A121DD5B4904AB0EA0BFA6E26159EE9AF8B303 
 {
 public:
 	// System.Int32 UnityEngine.UIElements.StyleKeyword::value__
@@ -7448,7 +7448,7 @@ public:
 
 
 // UnityEngine.UIElements.StyleSheets.StylePropertyId
-struct  StylePropertyId_t595C8AB8A23E2DDDD0BCF5993E011BBFEA1DF59F 
+struct StylePropertyId_t595C8AB8A23E2DDDD0BCF5993E011BBFEA1DF59F 
 {
 public:
 	// System.Int32 UnityEngine.UIElements.StyleSheets.StylePropertyId::value__
@@ -7466,7 +7466,7 @@ public:
 
 
 // UnityEngine.TextAnchor
-struct  TextAnchor_tA4C88E77C2D7312F43412275B01E1341A7CB2232 
+struct TextAnchor_tA4C88E77C2D7312F43412275B01E1341A7CB2232 
 {
 public:
 	// System.Int32 UnityEngine.TextAnchor::value__
@@ -7484,7 +7484,7 @@ public:
 
 
 // UnityEngine.UIElements.TextOverflow
-struct  TextOverflow_t6544CE09D2681CCC3DB102A0424CC8D9C57F3DAF 
+struct TextOverflow_t6544CE09D2681CCC3DB102A0424CC8D9C57F3DAF 
 {
 public:
 	// System.Int32 UnityEngine.UIElements.TextOverflow::value__
@@ -7502,7 +7502,7 @@ public:
 
 
 // UnityEngine.UIElements.TextOverflowPosition
-struct  TextOverflowPosition_tCA0C6018005794E9AE477D51FC5A3439B6C05505 
+struct TextOverflowPosition_tCA0C6018005794E9AE477D51FC5A3439B6C05505 
 {
 public:
 	// System.Int32 UnityEngine.UIElements.TextOverflowPosition::value__
@@ -7520,7 +7520,7 @@ public:
 
 
 // UnityEngine.UIElements.TextShadow
-struct  TextShadow_t9399EE93D4D61794CD4380D5D93C98BCA9972233 
+struct TextShadow_t9399EE93D4D61794CD4380D5D93C98BCA9972233 
 {
 public:
 	// UnityEngine.Vector2 UnityEngine.UIElements.TextShadow::offset
@@ -7558,7 +7558,7 @@ public:
 
 
 // UnityEngine.UIElements.TrickleDown
-struct  TrickleDown_t2B43447DBFE33C97173AE2E62A3FBD13E525C6B1 
+struct TrickleDown_t2B43447DBFE33C97173AE2E62A3FBD13E525C6B1 
 {
 public:
 	// System.Int32 UnityEngine.UIElements.TrickleDown::value__
@@ -7576,7 +7576,7 @@ public:
 
 
 // UnityEngine.UIElements.VersionChangeType
-struct  VersionChangeType_t3FEBAA280040F0B49F9F86685176341749F475FB 
+struct VersionChangeType_t3FEBAA280040F0B49F9F86685176341749F475FB 
 {
 public:
 	// System.Int32 UnityEngine.UIElements.VersionChangeType::value__
@@ -7594,7 +7594,7 @@ public:
 
 
 // UnityEngine.UIElements.Visibility
-struct  Visibility_t163E7C30B370115FC4C127B213DB92B3C50DAF2A 
+struct Visibility_t163E7C30B370115FC4C127B213DB92B3C50DAF2A 
 {
 public:
 	// System.Int32 UnityEngine.UIElements.Visibility::value__
@@ -7612,7 +7612,7 @@ public:
 
 
 // UnityEngine.UIElements.VisualElementFlags
-struct  VisualElementFlags_tC8340A28B43B5B88D0727EEDEC5EA4AB45F43470 
+struct VisualElementFlags_tC8340A28B43B5B88D0727EEDEC5EA4AB45F43470 
 {
 public:
 	// System.Int32 UnityEngine.UIElements.VisualElementFlags::value__
@@ -7630,7 +7630,7 @@ public:
 
 
 // UnityEngine.UIElements.VisualTreeUpdatePhase
-struct  VisualTreeUpdatePhase_t9CE3C5377FEB57546B3282CB2B361313337B41CA 
+struct VisualTreeUpdatePhase_t9CE3C5377FEB57546B3282CB2B361313337B41CA 
 {
 public:
 	// System.Int32 UnityEngine.UIElements.VisualTreeUpdatePhase::value__
@@ -7648,7 +7648,7 @@ public:
 
 
 // UnityEngine.UIElements.WhiteSpace
-struct  WhiteSpace_tA1C94710E9ABD666CCACF2646025F9B597B300EC 
+struct WhiteSpace_tA1C94710E9ABD666CCACF2646025F9B597B300EC 
 {
 public:
 	// System.Int32 UnityEngine.UIElements.WhiteSpace::value__
@@ -7666,7 +7666,7 @@ public:
 
 
 // UnityEngine.UIElements.Wrap
-struct  Wrap_tAE1D45E6C155865D9100F288D2D24FCAF4482CBE 
+struct Wrap_tAE1D45E6C155865D9100F288D2D24FCAF4482CBE 
 {
 public:
 	// System.Int32 UnityEngine.UIElements.Wrap::value__
@@ -7684,7 +7684,7 @@ public:
 
 
 // UnityEngine.Yoga.YogaConfig
-struct  YogaConfig_tA06BDF520DE54384107CF42E1E9909DB1C28A7E7  : public RuntimeObject
+struct YogaConfig_tA06BDF520DE54384107CF42E1E9909DB1C28A7E7  : public RuntimeObject
 {
 public:
 	// System.IntPtr UnityEngine.Yoga.YogaConfig::_ygConfig
@@ -7730,7 +7730,7 @@ public:
 
 
 // UnityEngine.UIElements.ClickDetector/ButtonClickStatus
-struct  ButtonClickStatus_tEF51C193AC150E5EF1BBF55E5CBFD1EE9A312372  : public RuntimeObject
+struct ButtonClickStatus_tEF51C193AC150E5EF1BBF55E5CBFD1EE9A312372  : public RuntimeObject
 {
 public:
 	// UnityEngine.UIElements.VisualElement UnityEngine.UIElements.ClickDetector/ButtonClickStatus::m_Target
@@ -7779,7 +7779,7 @@ public:
 
 
 // UnityEngine.UIElements.StyleSheets.Dimension/Unit
-struct  Unit_tB29D3FED75F9D31C08A34BF71AFA3B7F3D81AE0F 
+struct Unit_tB29D3FED75F9D31C08A34BF71AFA3B7F3D81AE0F 
 {
 public:
 	// System.Int32 UnityEngine.UIElements.StyleSheets.Dimension/Unit::value__
@@ -7797,7 +7797,7 @@ public:
 
 
 // UnityEngine.UIElements.EventBase/EventPropagation
-struct  EventPropagation_t9A8C835BE25DB3F80F1A3B7C5A2D20319578DFB0 
+struct EventPropagation_t9A8C835BE25DB3F80F1A3B7C5A2D20319578DFB0 
 {
 public:
 	// System.Int32 UnityEngine.UIElements.EventBase/EventPropagation::value__
@@ -7815,7 +7815,7 @@ public:
 
 
 // UnityEngine.UIElements.EventBase/LifeCycleStatus
-struct  LifeCycleStatus_t05EC3A0D5AE0E801FE6B611D51023B1F4D093B0F 
+struct LifeCycleStatus_t05EC3A0D5AE0E801FE6B611D51023B1F4D093B0F 
 {
 public:
 	// System.Int32 UnityEngine.UIElements.EventBase/LifeCycleStatus::value__
@@ -7833,7 +7833,7 @@ public:
 
 
 // UnityEngine.UIElements.IMGUIContainer/GUIGlobals
-struct  GUIGlobals_t091BB311623EF9DA3B1B9D41B69230205D2BD2D7 
+struct GUIGlobals_t091BB311623EF9DA3B1B9D41B69230205D2BD2D7 
 {
 public:
 	// UnityEngine.Matrix4x4 UnityEngine.UIElements.IMGUIContainer/GUIGlobals::matrix
@@ -7933,7 +7933,7 @@ struct GUIGlobals_t091BB311623EF9DA3B1B9D41B69230205D2BD2D7_marshaled_com
 };
 
 // UnityEngine.UIElements.Length/Unit
-struct  Unit_t404BDC0B9D436EDDCC7891B48C4DCE2FCF7098AB 
+struct Unit_t404BDC0B9D436EDDCC7891B48C4DCE2FCF7098AB 
 {
 public:
 	// System.Int32 UnityEngine.UIElements.Length/Unit::value__
@@ -7951,7 +7951,7 @@ public:
 
 
 // UnityEngine.UIElements.MouseCaptureDispatchingStrategy/EventBehavior
-struct  EventBehavior_tE1DDEA74EAF57C0DDB53BBCD77F3F49A71940B41 
+struct EventBehavior_tE1DDEA74EAF57C0DDB53BBCD77F3F49A71940B41 
 {
 public:
 	// System.Int32 UnityEngine.UIElements.MouseCaptureDispatchingStrategy/EventBehavior::value__
@@ -7969,7 +7969,7 @@ public:
 
 
 // UnityEngine.UIElements.NavigationMoveEvent/Direction
-struct  Direction_tC4D89FFA6D788142237D9159FC618DDB2A080315 
+struct Direction_tC4D89FFA6D788142237D9159FC618DDB2A080315 
 {
 public:
 	// System.Int32 UnityEngine.UIElements.NavigationMoveEvent/Direction::value__
@@ -7987,7 +7987,7 @@ public:
 
 
 // UnityEngine.UIElements.NavigationTabEvent/Direction
-struct  Direction_tDB70118A7BC19645B6058407BAA3EE0444A36989 
+struct Direction_tDB70118A7BC19645B6058407BAA3EE0444A36989 
 {
 public:
 	// System.Int32 UnityEngine.UIElements.NavigationTabEvent/Direction::value__
@@ -8005,7 +8005,7 @@ public:
 
 
 // Unity.Profiling.ProfilerMarker/AutoScope
-struct  AutoScope_tEB00834B4CEE8558238837BA3A36B64020E48F8D 
+struct AutoScope_tEB00834B4CEE8558238837BA3A36B64020E48F8D 
 {
 public:
 	// System.IntPtr Unity.Profiling.ProfilerMarker/AutoScope::m_Ptr
@@ -8023,7 +8023,7 @@ public:
 
 
 // UnityEngine.UIElements.PropagationPaths/Type
-struct  Type_t2A6A2920A8E77CCFAB93B7E98D8EA7A8DFA567B9 
+struct Type_t2A6A2920A8E77CCFAB93B7E98D8EA7A8DFA567B9 
 {
 public:
 	// System.Int32 UnityEngine.UIElements.PropagationPaths/Type::value__
@@ -8041,7 +8041,7 @@ public:
 
 
 // UnityEngine.UIElements.VisualElement/RenderTargetMode
-struct  RenderTargetMode_t754F0DE7C9B165BC0057A446DE6A88078DCBFFFE 
+struct RenderTargetMode_t754F0DE7C9B165BC0057A446DE6A88078DCBFFFE 
 {
 public:
 	// System.Int32 UnityEngine.UIElements.VisualElement/RenderTargetMode::value__
@@ -8059,7 +8059,7 @@ public:
 
 
 // UnityEngine.UIElements.UIR.BMPAlloc
-struct  BMPAlloc_t2329D0F6C80ACB6A485F2EC900E52171ED651FA8 
+struct BMPAlloc_t2329D0F6C80ACB6A485F2EC900E52171ED651FA8 
 {
 public:
 	// System.Int32 UnityEngine.UIElements.UIR.BMPAlloc::page
@@ -8123,7 +8123,7 @@ public:
 
 
 // UnityEngine.UIElements.BaseVisualElementPanel
-struct  BaseVisualElementPanel_t0BFFA91D18C8A7D905330E2D6DE84B9B67E7BE30  : public RuntimeObject
+struct BaseVisualElementPanel_t0BFFA91D18C8A7D905330E2D6DE84B9B67E7BE30  : public RuntimeObject
 {
 public:
 	// System.Action`1<UnityEngine.UIElements.BaseVisualElementPanel> UnityEngine.UIElements.BaseVisualElementPanel::panelDisposed
@@ -8323,7 +8323,7 @@ public:
 
 
 // UnityEngine.UIElements.StyleSheets.Dimension
-struct  Dimension_t855263991CCDF82B0CCFEA56864F76CA436571DC 
+struct Dimension_t855263991CCDF82B0CCFEA56864F76CA436571DC 
 {
 public:
 	// UnityEngine.UIElements.StyleSheets.Dimension/Unit UnityEngine.UIElements.StyleSheets.Dimension::unit
@@ -8351,7 +8351,7 @@ public:
 
 
 // UnityEngine.UIElements.EventBase
-struct  EventBase_tADF8D0ADA92BAF80F76865BAC2E9D85A118D1967  : public RuntimeObject
+struct EventBase_tADF8D0ADA92BAF80F76865BAC2E9D85A118D1967  : public RuntimeObject
 {
 public:
 	// System.Int64 UnityEngine.UIElements.EventBase::<timestamp>k__BackingField
@@ -8521,7 +8521,7 @@ public:
 
 
 // UnityEngine.UIElements.EventCallbackFunctorBase
-struct  EventCallbackFunctorBase_tBB6636112422604DDE486A3DE0F2DE363DE45FAE  : public RuntimeObject
+struct EventCallbackFunctorBase_tBB6636112422604DDE486A3DE0F2DE363DE45FAE  : public RuntimeObject
 {
 public:
 	// UnityEngine.UIElements.CallbackPhase UnityEngine.UIElements.EventCallbackFunctorBase::<phase>k__BackingField
@@ -8539,7 +8539,7 @@ public:
 
 
 // UnityEngine.ExitGUIException
-struct  ExitGUIException_tA832626B99B4D827C8064643824847BCAA7877F4  : public Exception_t
+struct ExitGUIException_tA832626B99B4D827C8064643824847BCAA7877F4  : public Exception_t
 {
 public:
 
@@ -8548,7 +8548,7 @@ public:
 
 
 // UnityEngine.UIElements.StyleSheets.Syntax.ExpressionMultiplier
-struct  ExpressionMultiplier_t94C9D8A658C34375D48C4601DD71AD40CAACA8E6 
+struct ExpressionMultiplier_t94C9D8A658C34375D48C4601DD71AD40CAACA8E6 
 {
 public:
 	// UnityEngine.UIElements.StyleSheets.Syntax.ExpressionMultiplierType UnityEngine.UIElements.StyleSheets.Syntax.ExpressionMultiplier::m_Type
@@ -8586,7 +8586,7 @@ public:
 
 
 // UnityEngine.Font
-struct  Font_tB53D3F362CB1A0B92307B362826F212AE2D2A6A9  : public Object_tF2F3778131EFF286AF62B7B013A170F95A91571A
+struct Font_tB53D3F362CB1A0B92307B362826F212AE2D2A6A9  : public Object_tF2F3778131EFF286AF62B7B013A170F95A91571A
 {
 public:
 	// UnityEngine.Font/FontTextureRebuildCallback UnityEngine.Font::m_FontTextureRebuildCallback
@@ -8622,7 +8622,7 @@ public:
 
 
 // UnityEngine.GUILayoutGroup
-struct  GUILayoutGroup_tEA8ADE069ADCDFAAE55323834EDC04B0888F10B9  : public GUILayoutEntry_t2999ED021CB0F188187989AC009621F0AE73A5DE
+struct GUILayoutGroup_tEA8ADE069ADCDFAAE55323834EDC04B0888F10B9  : public GUILayoutEntry_t2999ED021CB0F188187989AC009621F0AE73A5DE
 {
 public:
 	// System.Collections.Generic.List`1<UnityEngine.GUILayoutEntry> UnityEngine.GUILayoutGroup::entries
@@ -8848,7 +8848,7 @@ public:
 
 
 // UnityEngine.GameObject
-struct  GameObject_tC000A2E1A7CF1E10FD7BA08863287C072207C319  : public Object_tF2F3778131EFF286AF62B7B013A170F95A91571A
+struct GameObject_tC000A2E1A7CF1E10FD7BA08863287C072207C319  : public Object_tF2F3778131EFF286AF62B7B013A170F95A91571A
 {
 public:
 
@@ -8857,7 +8857,7 @@ public:
 
 
 // UnityEngine.UIElements.GradientSettings
-struct  GradientSettings_tDEB247FD6A620DBAE28BDA610E45FEEF5CA81733 
+struct GradientSettings_tDEB247FD6A620DBAE28BDA610E45FEEF5CA81733 
 {
 public:
 	// UnityEngine.UIElements.GradientType UnityEngine.UIElements.GradientSettings::gradientType
@@ -8905,7 +8905,7 @@ public:
 
 
 // UnityEngine.UIElements.Length
-struct  Length_tC812F6D7266A044F3AB7DBC98EC0A52678643696 
+struct Length_tC812F6D7266A044F3AB7DBC98EC0A52678643696 
 {
 public:
 	// System.Single UnityEngine.UIElements.Length::m_Value
@@ -8933,7 +8933,7 @@ public:
 
 
 // System.MulticastDelegate
-struct  MulticastDelegate_t  : public Delegate_t
+struct MulticastDelegate_t  : public Delegate_t
 {
 public:
 	// System.Delegate[] System.MulticastDelegate::delegates
@@ -8962,7 +8962,7 @@ struct MulticastDelegate_t_marshaled_com : public Delegate_t_marshaled_com
 };
 
 // System.Globalization.NumberFormatInfo
-struct  NumberFormatInfo_t58780B43B6A840C38FD10C50CDFE2128884CAD1D  : public RuntimeObject
+struct NumberFormatInfo_t58780B43B6A840C38FD10C50CDFE2128884CAD1D  : public RuntimeObject
 {
 public:
 	// System.Int32[] System.Globalization.NumberFormatInfo::numberGroupSizes
@@ -9346,7 +9346,7 @@ public:
 
 
 // UnityEngine.ScriptableObject
-struct  ScriptableObject_t4361E08CEBF052C650D3666C7CEC37EB31DE116A  : public Object_tF2F3778131EFF286AF62B7B013A170F95A91571A
+struct ScriptableObject_t4361E08CEBF052C650D3666C7CEC37EB31DE116A  : public Object_tF2F3778131EFF286AF62B7B013A170F95A91571A
 {
 public:
 
@@ -9363,7 +9363,7 @@ struct ScriptableObject_t4361E08CEBF052C650D3666C7CEC37EB31DE116A_marshaled_com 
 };
 
 // UnityEngine.Sprite
-struct  Sprite_t5B10B1178EC2E6F53D33FFD77557F31C08A51ED9  : public Object_tF2F3778131EFF286AF62B7B013A170F95A91571A
+struct Sprite_t5B10B1178EC2E6F53D33FFD77557F31C08A51ED9  : public Object_tF2F3778131EFF286AF62B7B013A170F95A91571A
 {
 public:
 
@@ -9372,7 +9372,7 @@ public:
 
 
 // UnityEngine.UIElements.StyleCursor
-struct  StyleCursor_tC8170AE81E8E4294682DC1106BB0E47F328E8AF1 
+struct StyleCursor_tC8170AE81E8E4294682DC1106BB0E47F328E8AF1 
 {
 public:
 	// UnityEngine.UIElements.Cursor UnityEngine.UIElements.StyleCursor::m_Value
@@ -9413,7 +9413,7 @@ struct StyleCursor_tC8170AE81E8E4294682DC1106BB0E47F328E8AF1_marshaled_com
 };
 
 // UnityEngine.UIElements.StyleSheets.StylePropertyReader
-struct  StylePropertyReader_t5A3EC102BC4C6701762DBE105D1279F112410162  : public RuntimeObject
+struct StylePropertyReader_t5A3EC102BC4C6701762DBE105D1279F112410162  : public RuntimeObject
 {
 public:
 	// System.Collections.Generic.List`1<UnityEngine.UIElements.StyleSheets.StylePropertyValue> UnityEngine.UIElements.StyleSheets.StylePropertyReader::m_Values
@@ -9565,7 +9565,7 @@ public:
 
 
 // UnityEngine.UIElements.StyleTextShadow
-struct  StyleTextShadow_tB54453535792E8C4FFB6964549E0C14D907E8A2F 
+struct StyleTextShadow_tB54453535792E8C4FFB6964549E0C14D907E8A2F 
 {
 public:
 	// UnityEngine.UIElements.StyleKeyword UnityEngine.UIElements.StyleTextShadow::m_Keyword
@@ -9593,7 +9593,7 @@ public:
 
 
 // System.SystemException
-struct  SystemException_tC551B4D6EE3772B5F32C71EE8C719F4B43ECCC62  : public Exception_t
+struct SystemException_tC551B4D6EE3772B5F32C71EE8C719F4B43ECCC62  : public Exception_t
 {
 public:
 
@@ -9602,7 +9602,7 @@ public:
 
 
 // UnityEngine.Texture
-struct  Texture_t9FE0218A1EEDF266E8C85879FE123265CACC95AE  : public Object_tF2F3778131EFF286AF62B7B013A170F95A91571A
+struct Texture_t9FE0218A1EEDF266E8C85879FE123265CACC95AE  : public Object_tF2F3778131EFF286AF62B7B013A170F95A91571A
 {
 public:
 
@@ -9627,7 +9627,7 @@ public:
 
 
 // System.Type
-struct  Type_t  : public MemberInfo_t
+struct Type_t  : public MemberInfo_t
 {
 public:
 	// System.RuntimeTypeHandle System.Type::_impl
@@ -9727,7 +9727,7 @@ public:
 
 
 // UnityEngine.UIElements.UIElementsUtility
-struct  UIElementsUtility_t8D96E2B4766C1C1A21CFCBF84A1DC07970D7ECFB  : public RuntimeObject
+struct UIElementsUtility_t8D96E2B4766C1C1A21CFCBF84A1DC07970D7ECFB  : public RuntimeObject
 {
 public:
 
@@ -9849,7 +9849,7 @@ public:
 
 
 // System.Action`1<UnityEngine.UIElements.BaseVisualElementPanel>
-struct  Action_1_t7C40096A76E80520FA25C0E02ECB007C6DB1F18D  : public MulticastDelegate_t
+struct Action_1_t7C40096A76E80520FA25C0E02ECB007C6DB1F18D  : public MulticastDelegate_t
 {
 public:
 
@@ -9858,7 +9858,7 @@ public:
 
 
 // System.Action`1<UnityEngine.UIElements.IPanel>
-struct  Action_1_t73D3F8D6D9F06723FCA3C0753A3F3905C08A7D43  : public MulticastDelegate_t
+struct Action_1_t73D3F8D6D9F06723FCA3C0753A3F3905C08A7D43  : public MulticastDelegate_t
 {
 public:
 
@@ -9867,7 +9867,7 @@ public:
 
 
 // System.Action`1<UnityEngine.UIElements.Panel>
-struct  Action_1_tD6977CC88510EC45D6546337AF4105D2D5667964  : public MulticastDelegate_t
+struct Action_1_tD6977CC88510EC45D6546337AF4105D2D5667964  : public MulticastDelegate_t
 {
 public:
 
@@ -9876,7 +9876,7 @@ public:
 
 
 // UnityEngine.UIElements.EventBase`1<UnityEngine.UIElements.AttachToPanelEvent>
-struct  EventBase_1_tCCCA3B845A3558F5E4BDD5669345FC7340A749D0  : public EventBase_tADF8D0ADA92BAF80F76865BAC2E9D85A118D1967
+struct EventBase_1_tCCCA3B845A3558F5E4BDD5669345FC7340A749D0  : public EventBase_tADF8D0ADA92BAF80F76865BAC2E9D85A118D1967
 {
 public:
 	// System.Int32 UnityEngine.UIElements.EventBase`1::m_RefCount
@@ -9921,7 +9921,7 @@ public:
 
 
 // UnityEngine.UIElements.EventBase`1<UnityEngine.UIElements.BlurEvent>
-struct  EventBase_1_t27B132C3D42C48EDCA77AAF1240DE589CC3A4232  : public EventBase_tADF8D0ADA92BAF80F76865BAC2E9D85A118D1967
+struct EventBase_1_t27B132C3D42C48EDCA77AAF1240DE589CC3A4232  : public EventBase_tADF8D0ADA92BAF80F76865BAC2E9D85A118D1967
 {
 public:
 	// System.Int32 UnityEngine.UIElements.EventBase`1::m_RefCount
@@ -9966,7 +9966,7 @@ public:
 
 
 // UnityEngine.UIElements.EventBase`1<UnityEngine.UIElements.ClickEvent>
-struct  EventBase_1_t937F8B0E926F045B98E34471F9FBEE56F8A6B1F4  : public EventBase_tADF8D0ADA92BAF80F76865BAC2E9D85A118D1967
+struct EventBase_1_t937F8B0E926F045B98E34471F9FBEE56F8A6B1F4  : public EventBase_tADF8D0ADA92BAF80F76865BAC2E9D85A118D1967
 {
 public:
 	// System.Int32 UnityEngine.UIElements.EventBase`1::m_RefCount
@@ -10011,7 +10011,7 @@ public:
 
 
 // UnityEngine.UIElements.EventBase`1<UnityEngine.UIElements.ContextClickEvent>
-struct  EventBase_1_tEA3EC96A771350A4CDC57DB50A75C6FB0AC5A374  : public EventBase_tADF8D0ADA92BAF80F76865BAC2E9D85A118D1967
+struct EventBase_1_tEA3EC96A771350A4CDC57DB50A75C6FB0AC5A374  : public EventBase_tADF8D0ADA92BAF80F76865BAC2E9D85A118D1967
 {
 public:
 	// System.Int32 UnityEngine.UIElements.EventBase`1::m_RefCount
@@ -10056,7 +10056,7 @@ public:
 
 
 // UnityEngine.UIElements.EventBase`1<UnityEngine.UIElements.DetachFromPanelEvent>
-struct  EventBase_1_t08138755340FBBBB94F1DF008916A33BDC2C32B6  : public EventBase_tADF8D0ADA92BAF80F76865BAC2E9D85A118D1967
+struct EventBase_1_t08138755340FBBBB94F1DF008916A33BDC2C32B6  : public EventBase_tADF8D0ADA92BAF80F76865BAC2E9D85A118D1967
 {
 public:
 	// System.Int32 UnityEngine.UIElements.EventBase`1::m_RefCount
@@ -10101,7 +10101,7 @@ public:
 
 
 // UnityEngine.UIElements.EventBase`1<UnityEngine.UIElements.ExecuteCommandEvent>
-struct  EventBase_1_tF2FE9CB04C2528BA126174636E2FFAE99EE69C45  : public EventBase_tADF8D0ADA92BAF80F76865BAC2E9D85A118D1967
+struct EventBase_1_tF2FE9CB04C2528BA126174636E2FFAE99EE69C45  : public EventBase_tADF8D0ADA92BAF80F76865BAC2E9D85A118D1967
 {
 public:
 	// System.Int32 UnityEngine.UIElements.EventBase`1::m_RefCount
@@ -10146,7 +10146,7 @@ public:
 
 
 // UnityEngine.UIElements.EventBase`1<UnityEngine.UIElements.FocusEvent>
-struct  EventBase_1_t48C51E1303F7463114DA1D80628E1C27716E9316  : public EventBase_tADF8D0ADA92BAF80F76865BAC2E9D85A118D1967
+struct EventBase_1_t48C51E1303F7463114DA1D80628E1C27716E9316  : public EventBase_tADF8D0ADA92BAF80F76865BAC2E9D85A118D1967
 {
 public:
 	// System.Int32 UnityEngine.UIElements.EventBase`1::m_RefCount
@@ -10191,7 +10191,7 @@ public:
 
 
 // UnityEngine.UIElements.EventBase`1<UnityEngine.UIElements.FocusInEvent>
-struct  EventBase_1_t86205C7C2A40FC0DCD32965794EA5E05FCD3A1D5  : public EventBase_tADF8D0ADA92BAF80F76865BAC2E9D85A118D1967
+struct EventBase_1_t86205C7C2A40FC0DCD32965794EA5E05FCD3A1D5  : public EventBase_tADF8D0ADA92BAF80F76865BAC2E9D85A118D1967
 {
 public:
 	// System.Int32 UnityEngine.UIElements.EventBase`1::m_RefCount
@@ -10236,7 +10236,7 @@ public:
 
 
 // UnityEngine.UIElements.EventBase`1<UnityEngine.UIElements.FocusOutEvent>
-struct  EventBase_1_t5FCC702A374515740C39E76FBE629A23B7EAB61D  : public EventBase_tADF8D0ADA92BAF80F76865BAC2E9D85A118D1967
+struct EventBase_1_t5FCC702A374515740C39E76FBE629A23B7EAB61D  : public EventBase_tADF8D0ADA92BAF80F76865BAC2E9D85A118D1967
 {
 public:
 	// System.Int32 UnityEngine.UIElements.EventBase`1::m_RefCount
@@ -10281,7 +10281,7 @@ public:
 
 
 // UnityEngine.UIElements.EventBase`1<UnityEngine.UIElements.IMGUIEvent>
-struct  EventBase_1_t7957704ABE2EF00ECF304ED555303C3D66EAEF00  : public EventBase_tADF8D0ADA92BAF80F76865BAC2E9D85A118D1967
+struct EventBase_1_t7957704ABE2EF00ECF304ED555303C3D66EAEF00  : public EventBase_tADF8D0ADA92BAF80F76865BAC2E9D85A118D1967
 {
 public:
 	// System.Int32 UnityEngine.UIElements.EventBase`1::m_RefCount
@@ -10326,7 +10326,7 @@ public:
 
 
 // UnityEngine.UIElements.EventBase`1<UnityEngine.UIElements.KeyDownEvent>
-struct  EventBase_1_tBA8129392E6E2DCB3EC1808A169AB5915BD4D41E  : public EventBase_tADF8D0ADA92BAF80F76865BAC2E9D85A118D1967
+struct EventBase_1_tBA8129392E6E2DCB3EC1808A169AB5915BD4D41E  : public EventBase_tADF8D0ADA92BAF80F76865BAC2E9D85A118D1967
 {
 public:
 	// System.Int32 UnityEngine.UIElements.EventBase`1::m_RefCount
@@ -10371,7 +10371,7 @@ public:
 
 
 // UnityEngine.UIElements.EventBase`1<UnityEngine.UIElements.KeyUpEvent>
-struct  EventBase_1_t934C843651C0CE40A5EE026FE64520962C69B522  : public EventBase_tADF8D0ADA92BAF80F76865BAC2E9D85A118D1967
+struct EventBase_1_t934C843651C0CE40A5EE026FE64520962C69B522  : public EventBase_tADF8D0ADA92BAF80F76865BAC2E9D85A118D1967
 {
 public:
 	// System.Int32 UnityEngine.UIElements.EventBase`1::m_RefCount
@@ -10416,7 +10416,7 @@ public:
 
 
 // UnityEngine.UIElements.EventBase`1<UnityEngine.UIElements.MouseCaptureEvent>
-struct  EventBase_1_tDDDEDAC08EEA76EE6E87A95A2363A5A6867FE1F1  : public EventBase_tADF8D0ADA92BAF80F76865BAC2E9D85A118D1967
+struct EventBase_1_tDDDEDAC08EEA76EE6E87A95A2363A5A6867FE1F1  : public EventBase_tADF8D0ADA92BAF80F76865BAC2E9D85A118D1967
 {
 public:
 	// System.Int32 UnityEngine.UIElements.EventBase`1::m_RefCount
@@ -10461,7 +10461,7 @@ public:
 
 
 // UnityEngine.UIElements.EventBase`1<UnityEngine.UIElements.MouseCaptureOutEvent>
-struct  EventBase_1_t84E0F696495A86C3A103E8D31D7FC82A98456561  : public EventBase_tADF8D0ADA92BAF80F76865BAC2E9D85A118D1967
+struct EventBase_1_t84E0F696495A86C3A103E8D31D7FC82A98456561  : public EventBase_tADF8D0ADA92BAF80F76865BAC2E9D85A118D1967
 {
 public:
 	// System.Int32 UnityEngine.UIElements.EventBase`1::m_RefCount
@@ -10506,7 +10506,7 @@ public:
 
 
 // UnityEngine.UIElements.EventBase`1<UnityEngine.UIElements.MouseDownEvent>
-struct  EventBase_1_tD663FC14A2C25A70CC0F958E7E49DCD727CEBDC7  : public EventBase_tADF8D0ADA92BAF80F76865BAC2E9D85A118D1967
+struct EventBase_1_tD663FC14A2C25A70CC0F958E7E49DCD727CEBDC7  : public EventBase_tADF8D0ADA92BAF80F76865BAC2E9D85A118D1967
 {
 public:
 	// System.Int32 UnityEngine.UIElements.EventBase`1::m_RefCount
@@ -10551,7 +10551,7 @@ public:
 
 
 // UnityEngine.UIElements.EventBase`1<UnityEngine.UIElements.MouseEnterEvent>
-struct  EventBase_1_tEC1C92B929387018107403B59137A2A09A0D0748  : public EventBase_tADF8D0ADA92BAF80F76865BAC2E9D85A118D1967
+struct EventBase_1_tEC1C92B929387018107403B59137A2A09A0D0748  : public EventBase_tADF8D0ADA92BAF80F76865BAC2E9D85A118D1967
 {
 public:
 	// System.Int32 UnityEngine.UIElements.EventBase`1::m_RefCount
@@ -10596,7 +10596,7 @@ public:
 
 
 // UnityEngine.UIElements.EventBase`1<UnityEngine.UIElements.MouseEnterWindowEvent>
-struct  EventBase_1_t984B23B3F5706EEB7A35E6C729CB1D780C9BD52B  : public EventBase_tADF8D0ADA92BAF80F76865BAC2E9D85A118D1967
+struct EventBase_1_t984B23B3F5706EEB7A35E6C729CB1D780C9BD52B  : public EventBase_tADF8D0ADA92BAF80F76865BAC2E9D85A118D1967
 {
 public:
 	// System.Int32 UnityEngine.UIElements.EventBase`1::m_RefCount
@@ -10641,7 +10641,7 @@ public:
 
 
 // UnityEngine.UIElements.EventBase`1<UnityEngine.UIElements.MouseLeaveEvent>
-struct  EventBase_1_t5D4A8E4E593C92A7BBAF82B26879CCC197D68B38  : public EventBase_tADF8D0ADA92BAF80F76865BAC2E9D85A118D1967
+struct EventBase_1_t5D4A8E4E593C92A7BBAF82B26879CCC197D68B38  : public EventBase_tADF8D0ADA92BAF80F76865BAC2E9D85A118D1967
 {
 public:
 	// System.Int32 UnityEngine.UIElements.EventBase`1::m_RefCount
@@ -10686,7 +10686,7 @@ public:
 
 
 // UnityEngine.UIElements.EventBase`1<UnityEngine.UIElements.MouseLeaveWindowEvent>
-struct  EventBase_1_tAB895FF54333980037BCEDC3E8BB67DF06B5FBF7  : public EventBase_tADF8D0ADA92BAF80F76865BAC2E9D85A118D1967
+struct EventBase_1_tAB895FF54333980037BCEDC3E8BB67DF06B5FBF7  : public EventBase_tADF8D0ADA92BAF80F76865BAC2E9D85A118D1967
 {
 public:
 	// System.Int32 UnityEngine.UIElements.EventBase`1::m_RefCount
@@ -10731,7 +10731,7 @@ public:
 
 
 // UnityEngine.UIElements.EventBase`1<UnityEngine.UIElements.MouseMoveEvent>
-struct  EventBase_1_t087186851DB884B61B785386EDAD1F2292ACA361  : public EventBase_tADF8D0ADA92BAF80F76865BAC2E9D85A118D1967
+struct EventBase_1_t087186851DB884B61B785386EDAD1F2292ACA361  : public EventBase_tADF8D0ADA92BAF80F76865BAC2E9D85A118D1967
 {
 public:
 	// System.Int32 UnityEngine.UIElements.EventBase`1::m_RefCount
@@ -10776,7 +10776,7 @@ public:
 
 
 // UnityEngine.UIElements.EventBase`1<UnityEngine.UIElements.MouseOutEvent>
-struct  EventBase_1_tBBDD1FCEFCAF1B5505849D84AE933BB0889DCB1A  : public EventBase_tADF8D0ADA92BAF80F76865BAC2E9D85A118D1967
+struct EventBase_1_tBBDD1FCEFCAF1B5505849D84AE933BB0889DCB1A  : public EventBase_tADF8D0ADA92BAF80F76865BAC2E9D85A118D1967
 {
 public:
 	// System.Int32 UnityEngine.UIElements.EventBase`1::m_RefCount
@@ -10821,7 +10821,7 @@ public:
 
 
 // UnityEngine.UIElements.EventBase`1<UnityEngine.UIElements.MouseOverEvent>
-struct  EventBase_1_tF78E96680835E8BEF3593C51AEEF06366913A472  : public EventBase_tADF8D0ADA92BAF80F76865BAC2E9D85A118D1967
+struct EventBase_1_tF78E96680835E8BEF3593C51AEEF06366913A472  : public EventBase_tADF8D0ADA92BAF80F76865BAC2E9D85A118D1967
 {
 public:
 	// System.Int32 UnityEngine.UIElements.EventBase`1::m_RefCount
@@ -10866,7 +10866,7 @@ public:
 
 
 // UnityEngine.UIElements.EventBase`1<UnityEngine.UIElements.MouseUpEvent>
-struct  EventBase_1_tA6A8BAE78BC19B4ED93CBA18EFE3A5CD069F1CA3  : public EventBase_tADF8D0ADA92BAF80F76865BAC2E9D85A118D1967
+struct EventBase_1_tA6A8BAE78BC19B4ED93CBA18EFE3A5CD069F1CA3  : public EventBase_tADF8D0ADA92BAF80F76865BAC2E9D85A118D1967
 {
 public:
 	// System.Int32 UnityEngine.UIElements.EventBase`1::m_RefCount
@@ -10911,7 +10911,7 @@ public:
 
 
 // UnityEngine.UIElements.EventBase`1<UnityEngine.UIElements.NavigationCancelEvent>
-struct  EventBase_1_t62B0FC307039A001D92F0657C8D81A6A37C590F7  : public EventBase_tADF8D0ADA92BAF80F76865BAC2E9D85A118D1967
+struct EventBase_1_t62B0FC307039A001D92F0657C8D81A6A37C590F7  : public EventBase_tADF8D0ADA92BAF80F76865BAC2E9D85A118D1967
 {
 public:
 	// System.Int32 UnityEngine.UIElements.EventBase`1::m_RefCount
@@ -10956,7 +10956,7 @@ public:
 
 
 // UnityEngine.UIElements.EventBase`1<UnityEngine.UIElements.NavigationMoveEvent>
-struct  EventBase_1_t51BB71613219C03DA5A6BD5E1844117B874843CF  : public EventBase_tADF8D0ADA92BAF80F76865BAC2E9D85A118D1967
+struct EventBase_1_t51BB71613219C03DA5A6BD5E1844117B874843CF  : public EventBase_tADF8D0ADA92BAF80F76865BAC2E9D85A118D1967
 {
 public:
 	// System.Int32 UnityEngine.UIElements.EventBase`1::m_RefCount
@@ -11001,7 +11001,7 @@ public:
 
 
 // UnityEngine.UIElements.EventBase`1<UnityEngine.UIElements.NavigationSubmitEvent>
-struct  EventBase_1_t315B0FEA6C8D14CB8B406BC700D7811DD71B67A2  : public EventBase_tADF8D0ADA92BAF80F76865BAC2E9D85A118D1967
+struct EventBase_1_t315B0FEA6C8D14CB8B406BC700D7811DD71B67A2  : public EventBase_tADF8D0ADA92BAF80F76865BAC2E9D85A118D1967
 {
 public:
 	// System.Int32 UnityEngine.UIElements.EventBase`1::m_RefCount
@@ -11046,7 +11046,7 @@ public:
 
 
 // UnityEngine.UIElements.EventBase`1<UnityEngine.UIElements.NavigationTabEvent>
-struct  EventBase_1_t55523FAA676983B98ACAD648AF6823E8622352D7  : public EventBase_tADF8D0ADA92BAF80F76865BAC2E9D85A118D1967
+struct EventBase_1_t55523FAA676983B98ACAD648AF6823E8622352D7  : public EventBase_tADF8D0ADA92BAF80F76865BAC2E9D85A118D1967
 {
 public:
 	// System.Int32 UnityEngine.UIElements.EventBase`1::m_RefCount
@@ -11091,7 +11091,7 @@ public:
 
 
 // UnityEngine.UIElements.EventBase`1<System.Object>
-struct  EventBase_1_t96045F377456C52401528D3B6A3635C4C071779A  : public EventBase_tADF8D0ADA92BAF80F76865BAC2E9D85A118D1967
+struct EventBase_1_t96045F377456C52401528D3B6A3635C4C071779A  : public EventBase_tADF8D0ADA92BAF80F76865BAC2E9D85A118D1967
 {
 public:
 	// System.Int32 UnityEngine.UIElements.EventBase`1::m_RefCount
@@ -11136,7 +11136,7 @@ public:
 
 
 // UnityEngine.UIElements.EventBase`1<UnityEngine.UIElements.PointerCancelEvent>
-struct  EventBase_1_tECC7E5059207C18111D6E40AA14AB1D20052C511  : public EventBase_tADF8D0ADA92BAF80F76865BAC2E9D85A118D1967
+struct EventBase_1_tECC7E5059207C18111D6E40AA14AB1D20052C511  : public EventBase_tADF8D0ADA92BAF80F76865BAC2E9D85A118D1967
 {
 public:
 	// System.Int32 UnityEngine.UIElements.EventBase`1::m_RefCount
@@ -11181,7 +11181,7 @@ public:
 
 
 // UnityEngine.UIElements.EventBase`1<UnityEngine.UIElements.PointerCaptureEvent>
-struct  EventBase_1_t4AF11ED1819872C31530DADF51C887C4F7929E17  : public EventBase_tADF8D0ADA92BAF80F76865BAC2E9D85A118D1967
+struct EventBase_1_t4AF11ED1819872C31530DADF51C887C4F7929E17  : public EventBase_tADF8D0ADA92BAF80F76865BAC2E9D85A118D1967
 {
 public:
 	// System.Int32 UnityEngine.UIElements.EventBase`1::m_RefCount
@@ -11226,7 +11226,7 @@ public:
 
 
 // UnityEngine.UIElements.EventBase`1<UnityEngine.UIElements.PointerCaptureOutEvent>
-struct  EventBase_1_t5B5B206F9701CE133140DA04006B74A60F051650  : public EventBase_tADF8D0ADA92BAF80F76865BAC2E9D85A118D1967
+struct EventBase_1_t5B5B206F9701CE133140DA04006B74A60F051650  : public EventBase_tADF8D0ADA92BAF80F76865BAC2E9D85A118D1967
 {
 public:
 	// System.Int32 UnityEngine.UIElements.EventBase`1::m_RefCount
@@ -11271,7 +11271,7 @@ public:
 
 
 // UnityEngine.UIElements.EventBase`1<UnityEngine.UIElements.PointerDownEvent>
-struct  EventBase_1_tB3366DB1DC8FD5A912EFEECB9447711AE0D91C9F  : public EventBase_tADF8D0ADA92BAF80F76865BAC2E9D85A118D1967
+struct EventBase_1_tB3366DB1DC8FD5A912EFEECB9447711AE0D91C9F  : public EventBase_tADF8D0ADA92BAF80F76865BAC2E9D85A118D1967
 {
 public:
 	// System.Int32 UnityEngine.UIElements.EventBase`1::m_RefCount
@@ -11316,7 +11316,7 @@ public:
 
 
 // UnityEngine.UIElements.EventBase`1<UnityEngine.UIElements.PointerEnterEvent>
-struct  EventBase_1_t1728ADFE2E9F3F104B0448A9817BE9288C6ADCAF  : public EventBase_tADF8D0ADA92BAF80F76865BAC2E9D85A118D1967
+struct EventBase_1_t1728ADFE2E9F3F104B0448A9817BE9288C6ADCAF  : public EventBase_tADF8D0ADA92BAF80F76865BAC2E9D85A118D1967
 {
 public:
 	// System.Int32 UnityEngine.UIElements.EventBase`1::m_RefCount
@@ -11361,7 +11361,7 @@ public:
 
 
 // UnityEngine.UIElements.EventBase`1<UnityEngine.UIElements.PointerLeaveEvent>
-struct  EventBase_1_t70EB4D0EB8AA780A35101140D3BFD37ADE3E7D0D  : public EventBase_tADF8D0ADA92BAF80F76865BAC2E9D85A118D1967
+struct EventBase_1_t70EB4D0EB8AA780A35101140D3BFD37ADE3E7D0D  : public EventBase_tADF8D0ADA92BAF80F76865BAC2E9D85A118D1967
 {
 public:
 	// System.Int32 UnityEngine.UIElements.EventBase`1::m_RefCount
@@ -11406,7 +11406,7 @@ public:
 
 
 // UnityEngine.UIElements.EventBase`1<UnityEngine.UIElements.PointerMoveEvent>
-struct  EventBase_1_t952C1AD910F230396DF7AFA0C9B6354AFA90BAB1  : public EventBase_tADF8D0ADA92BAF80F76865BAC2E9D85A118D1967
+struct EventBase_1_t952C1AD910F230396DF7AFA0C9B6354AFA90BAB1  : public EventBase_tADF8D0ADA92BAF80F76865BAC2E9D85A118D1967
 {
 public:
 	// System.Int32 UnityEngine.UIElements.EventBase`1::m_RefCount
@@ -11451,7 +11451,7 @@ public:
 
 
 // UnityEngine.UIElements.EventBase`1<UnityEngine.UIElements.PointerOutEvent>
-struct  EventBase_1_tCAB8FE7672E09BDCDF66C7D4CA0A452A1BD3AF1D  : public EventBase_tADF8D0ADA92BAF80F76865BAC2E9D85A118D1967
+struct EventBase_1_tCAB8FE7672E09BDCDF66C7D4CA0A452A1BD3AF1D  : public EventBase_tADF8D0ADA92BAF80F76865BAC2E9D85A118D1967
 {
 public:
 	// System.Int32 UnityEngine.UIElements.EventBase`1::m_RefCount
@@ -11496,7 +11496,7 @@ public:
 
 
 // UnityEngine.UIElements.EventBase`1<UnityEngine.UIElements.PointerOverEvent>
-struct  EventBase_1_t9137AB5FA204BBAA961F5FADDF6B2D943A2F9E7D  : public EventBase_tADF8D0ADA92BAF80F76865BAC2E9D85A118D1967
+struct EventBase_1_t9137AB5FA204BBAA961F5FADDF6B2D943A2F9E7D  : public EventBase_tADF8D0ADA92BAF80F76865BAC2E9D85A118D1967
 {
 public:
 	// System.Int32 UnityEngine.UIElements.EventBase`1::m_RefCount
@@ -11541,7 +11541,7 @@ public:
 
 
 // UnityEngine.UIElements.EventBase`1<UnityEngine.UIElements.PointerStationaryEvent>
-struct  EventBase_1_tE528B4BB683BE1E118B2F81BF844F56CE6C68DAE  : public EventBase_tADF8D0ADA92BAF80F76865BAC2E9D85A118D1967
+struct EventBase_1_tE528B4BB683BE1E118B2F81BF844F56CE6C68DAE  : public EventBase_tADF8D0ADA92BAF80F76865BAC2E9D85A118D1967
 {
 public:
 	// System.Int32 UnityEngine.UIElements.EventBase`1::m_RefCount
@@ -11586,7 +11586,7 @@ public:
 
 
 // UnityEngine.UIElements.EventBase`1<UnityEngine.UIElements.PointerUpEvent>
-struct  EventBase_1_tAAD9DE5EBEB5A723E65F22C92E59551DEFE02683  : public EventBase_tADF8D0ADA92BAF80F76865BAC2E9D85A118D1967
+struct EventBase_1_tAAD9DE5EBEB5A723E65F22C92E59551DEFE02683  : public EventBase_tADF8D0ADA92BAF80F76865BAC2E9D85A118D1967
 {
 public:
 	// System.Int32 UnityEngine.UIElements.EventBase`1::m_RefCount
@@ -11631,7 +11631,7 @@ public:
 
 
 // System.Func`2<UnityEngine.Vector2,UnityEngine.Vector2>
-struct  Func_2_tB3D19331301201246DE473D608119BB47D418EB9  : public MulticastDelegate_t
+struct Func_2_tB3D19331301201246DE473D608119BB47D418EB9  : public MulticastDelegate_t
 {
 public:
 
@@ -11640,7 +11640,7 @@ public:
 
 
 // System.Action
-struct  Action_tAF41423D285AE0862865348CF6CE51CD085ABBA6  : public MulticastDelegate_t
+struct Action_tAF41423D285AE0862865348CF6CE51CD085ABBA6  : public MulticastDelegate_t
 {
 public:
 
@@ -11649,7 +11649,7 @@ public:
 
 
 // System.ArgumentException
-struct  ArgumentException_t505FA8C11E883F2D96C797AD9D396490794DEE00  : public SystemException_tC551B4D6EE3772B5F32C71EE8C719F4B43ECCC62
+struct ArgumentException_t505FA8C11E883F2D96C797AD9D396490794DEE00  : public SystemException_tC551B4D6EE3772B5F32C71EE8C719F4B43ECCC62
 {
 public:
 	// System.String System.ArgumentException::m_paramName
@@ -11668,7 +11668,7 @@ public:
 
 
 // UnityEngine.UIElements.StyleSheets.Syntax.Expression
-struct  Expression_tA1F0FC629B0D44614A81168F45C63359DB197156  : public RuntimeObject
+struct Expression_tA1F0FC629B0D44614A81168F45C63359DB197156  : public RuntimeObject
 {
 public:
 	// UnityEngine.UIElements.StyleSheets.Syntax.ExpressionType UnityEngine.UIElements.StyleSheets.Syntax.Expression::type
@@ -11738,7 +11738,7 @@ public:
 
 
 // UnityEngine.UIElements.GetViewDataDictionary
-struct  GetViewDataDictionary_t98279159E390DE67BB251497F1B8EEE94CB5A516  : public MulticastDelegate_t
+struct GetViewDataDictionary_t98279159E390DE67BB251497F1B8EEE94CB5A516  : public MulticastDelegate_t
 {
 public:
 
@@ -11747,7 +11747,7 @@ public:
 
 
 // UnityEngine.UIElements.HierarchyEvent
-struct  HierarchyEvent_t47E86053D8C35FD238EDFA44861E84233257AFC8  : public MulticastDelegate_t
+struct HierarchyEvent_t47E86053D8C35FD238EDFA44861E84233257AFC8  : public MulticastDelegate_t
 {
 public:
 
@@ -11756,7 +11756,7 @@ public:
 
 
 // UnityEngine.UIElements.InheritedData
-struct  InheritedData_t1E9B8F7BF4A295FE2E8DA67A2809C5D8A6377C7F 
+struct InheritedData_t1E9B8F7BF4A295FE2E8DA67A2809C5D8A6377C7F 
 {
 public:
 	// UnityEngine.Color UnityEngine.UIElements.InheritedData::color
@@ -11857,7 +11857,7 @@ struct InheritedData_t1E9B8F7BF4A295FE2E8DA67A2809C5D8A6377C7F_marshaled_com
 };
 
 // UnityEngine.UIElements.InlineStyleAccess
-struct  InlineStyleAccess_t9428EF1076CFEC0E4529A76FF0EBC3D28D964F57  : public StyleValueCollection_t3197D7B80761BCBF51AB28C17867845850701799
+struct InlineStyleAccess_t9428EF1076CFEC0E4529A76FF0EBC3D28D964F57  : public StyleValueCollection_t3197D7B80761BCBF51AB28C17867845850701799
 {
 public:
 	// UnityEngine.UIElements.VisualElement UnityEngine.UIElements.InlineStyleAccess::<ve>k__BackingField
@@ -11951,7 +11951,7 @@ public:
 
 
 // UnityEngine.UIElements.LoadResourceFunction
-struct  LoadResourceFunction_tC8B248C3A029A6C7E29976A421652F7262656F92  : public MulticastDelegate_t
+struct LoadResourceFunction_tC8B248C3A029A6C7E29976A421652F7262656F92  : public MulticastDelegate_t
 {
 public:
 
@@ -11960,7 +11960,7 @@ public:
 
 
 // UnityEngine.UIElements.NonInheritedData
-struct  NonInheritedData_t3214A5E84AA3C44A80F8B493DC92D00072194A07 
+struct NonInheritedData_t3214A5E84AA3C44A80F8B493DC92D00072194A07 
 {
 public:
 	// UnityEngine.UIElements.Align UnityEngine.UIElements.NonInheritedData::alignContent
@@ -12647,7 +12647,7 @@ struct NonInheritedData_t3214A5E84AA3C44A80F8B493DC92D00072194A07_marshaled_com
 };
 
 // UnityEngine.UIElements.Panel
-struct  Panel_t476A329F94E775CA31284CD78FD12460EEB05A3F  : public BaseVisualElementPanel_t0BFFA91D18C8A7D905330E2D6DE84B9B67E7BE30
+struct Panel_t476A329F94E775CA31284CD78FD12460EEB05A3F  : public BaseVisualElementPanel_t0BFFA91D18C8A7D905330E2D6DE84B9B67E7BE30
 {
 public:
 	// UnityEngine.UIElements.VisualElement UnityEngine.UIElements.Panel::m_RootContainer
@@ -12956,7 +12956,7 @@ public:
 
 
 // UnityEngine.UIElements.UIR.RenderChainVEData
-struct  RenderChainVEData_t656B15476E05EB7869DD55CC758974CE2A8FD8D1 
+struct RenderChainVEData_t656B15476E05EB7869DD55CC758974CE2A8FD8D1 
 {
 public:
 	// UnityEngine.UIElements.VisualElement UnityEngine.UIElements.UIR.RenderChainVEData::prev
@@ -13384,7 +13384,7 @@ struct RenderChainVEData_t656B15476E05EB7869DD55CC758974CE2A8FD8D1_marshaled_com
 };
 
 // UnityEngine.RenderTexture
-struct  RenderTexture_t5FE7A5B47EF962A0E8D7BEBA05E9FC87D49A1849  : public Texture_t9FE0218A1EEDF266E8C85879FE123265CACC95AE
+struct RenderTexture_t5FE7A5B47EF962A0E8D7BEBA05E9FC87D49A1849  : public Texture_t9FE0218A1EEDF266E8C85879FE123265CACC95AE
 {
 public:
 
@@ -13393,7 +13393,7 @@ public:
 
 
 // UnityEngine.Texture2D
-struct  Texture2D_t9B604D0D8E28032123641A7E7338FA872E2698BF  : public Texture_t9FE0218A1EEDF266E8C85879FE123265CACC95AE
+struct Texture2D_t9B604D0D8E28032123641A7E7338FA872E2698BF  : public Texture_t9FE0218A1EEDF266E8C85879FE123265CACC95AE
 {
 public:
 
@@ -13402,7 +13402,7 @@ public:
 
 
 // UnityEngine.UIElements.TimeMsFunction
-struct  TimeMsFunction_tA8C39B5612EEA072E31B8B065796054F4FF447A7  : public MulticastDelegate_t
+struct TimeMsFunction_tA8C39B5612EEA072E31B8B065796054F4FF447A7  : public MulticastDelegate_t
 {
 public:
 
@@ -13411,7 +13411,7 @@ public:
 
 
 // UnityEngine.UIElements.VectorImage
-struct  VectorImage_t2C2B26B2A738C1DCD0845B82228343838DAE2022  : public ScriptableObject_t4361E08CEBF052C650D3666C7CEC37EB31DE116A
+struct VectorImage_t2C2B26B2A738C1DCD0845B82228343838DAE2022  : public ScriptableObject_t4361E08CEBF052C650D3666C7CEC37EB31DE116A
 {
 public:
 	// UnityEngine.Texture2D UnityEngine.UIElements.VectorImage::atlas
@@ -13473,7 +13473,7 @@ public:
 
 
 // UnityEngine.UIElements.CommandEventBase`1<UnityEngine.UIElements.ExecuteCommandEvent>
-struct  CommandEventBase_1_tF2AEE851390BA430910A36BEE15AB39E4FD4CA43  : public EventBase_1_tF2FE9CB04C2528BA126174636E2FFAE99EE69C45
+struct CommandEventBase_1_tF2AEE851390BA430910A36BEE15AB39E4FD4CA43  : public EventBase_1_tF2FE9CB04C2528BA126174636E2FFAE99EE69C45
 {
 public:
 	// System.String UnityEngine.UIElements.CommandEventBase`1::m_CommandName
@@ -13492,7 +13492,7 @@ public:
 
 
 // UnityEngine.UIElements.FocusEventBase`1<UnityEngine.UIElements.BlurEvent>
-struct  FocusEventBase_1_tD3D64C176CBC513865DC7ACF3149527EB31F108A  : public EventBase_1_t27B132C3D42C48EDCA77AAF1240DE589CC3A4232
+struct FocusEventBase_1_tD3D64C176CBC513865DC7ACF3149527EB31F108A  : public EventBase_1_t27B132C3D42C48EDCA77AAF1240DE589CC3A4232
 {
 public:
 	// UnityEngine.UIElements.Focusable UnityEngine.UIElements.FocusEventBase`1::<relatedTarget>k__BackingField
@@ -13543,7 +13543,7 @@ public:
 
 
 // UnityEngine.UIElements.FocusEventBase`1<UnityEngine.UIElements.FocusEvent>
-struct  FocusEventBase_1_tEA8B0105587253B0BAE2EE8505641847C06066E5  : public EventBase_1_t48C51E1303F7463114DA1D80628E1C27716E9316
+struct FocusEventBase_1_tEA8B0105587253B0BAE2EE8505641847C06066E5  : public EventBase_1_t48C51E1303F7463114DA1D80628E1C27716E9316
 {
 public:
 	// UnityEngine.UIElements.Focusable UnityEngine.UIElements.FocusEventBase`1::<relatedTarget>k__BackingField
@@ -13594,7 +13594,7 @@ public:
 
 
 // UnityEngine.UIElements.FocusEventBase`1<UnityEngine.UIElements.FocusInEvent>
-struct  FocusEventBase_1_tE9F805C748FD072DFA5543E9896F2359110BC51C  : public EventBase_1_t86205C7C2A40FC0DCD32965794EA5E05FCD3A1D5
+struct FocusEventBase_1_tE9F805C748FD072DFA5543E9896F2359110BC51C  : public EventBase_1_t86205C7C2A40FC0DCD32965794EA5E05FCD3A1D5
 {
 public:
 	// UnityEngine.UIElements.Focusable UnityEngine.UIElements.FocusEventBase`1::<relatedTarget>k__BackingField
@@ -13645,7 +13645,7 @@ public:
 
 
 // UnityEngine.UIElements.FocusEventBase`1<UnityEngine.UIElements.FocusOutEvent>
-struct  FocusEventBase_1_t3DCEA0DB545B2B18FFE2C9CFB4F972D8D680CF01  : public EventBase_1_t5FCC702A374515740C39E76FBE629A23B7EAB61D
+struct FocusEventBase_1_t3DCEA0DB545B2B18FFE2C9CFB4F972D8D680CF01  : public EventBase_1_t5FCC702A374515740C39E76FBE629A23B7EAB61D
 {
 public:
 	// UnityEngine.UIElements.Focusable UnityEngine.UIElements.FocusEventBase`1::<relatedTarget>k__BackingField
@@ -13696,7 +13696,7 @@ public:
 
 
 // UnityEngine.UIElements.FocusEventBase`1<System.Object>
-struct  FocusEventBase_1_t78C365238C34FB7FEC16D7554A6DC2CEC6C53E71  : public EventBase_1_t96045F377456C52401528D3B6A3635C4C071779A
+struct FocusEventBase_1_t78C365238C34FB7FEC16D7554A6DC2CEC6C53E71  : public EventBase_1_t96045F377456C52401528D3B6A3635C4C071779A
 {
 public:
 	// UnityEngine.UIElements.Focusable UnityEngine.UIElements.FocusEventBase`1::<relatedTarget>k__BackingField
@@ -13747,7 +13747,7 @@ public:
 
 
 // UnityEngine.UIElements.KeyboardEventBase`1<UnityEngine.UIElements.KeyDownEvent>
-struct  KeyboardEventBase_1_t241DE9277CA8B10D5E950EC6995711467412743E  : public EventBase_1_tBA8129392E6E2DCB3EC1808A169AB5915BD4D41E
+struct KeyboardEventBase_1_t241DE9277CA8B10D5E950EC6995711467412743E  : public EventBase_1_tBA8129392E6E2DCB3EC1808A169AB5915BD4D41E
 {
 public:
 	// UnityEngine.EventModifiers UnityEngine.UIElements.KeyboardEventBase`1::<modifiers>k__BackingField
@@ -13785,7 +13785,7 @@ public:
 
 
 // UnityEngine.UIElements.KeyboardEventBase`1<UnityEngine.UIElements.KeyUpEvent>
-struct  KeyboardEventBase_1_t470115110F914E0A4BC09D581661B1E92C85588E  : public EventBase_1_t934C843651C0CE40A5EE026FE64520962C69B522
+struct KeyboardEventBase_1_t470115110F914E0A4BC09D581661B1E92C85588E  : public EventBase_1_t934C843651C0CE40A5EE026FE64520962C69B522
 {
 public:
 	// UnityEngine.EventModifiers UnityEngine.UIElements.KeyboardEventBase`1::<modifiers>k__BackingField
@@ -13823,7 +13823,7 @@ public:
 
 
 // UnityEngine.UIElements.MouseEventBase`1<UnityEngine.UIElements.ContextClickEvent>
-struct  MouseEventBase_1_t9F7D703752C59B2758B0C44ED89EFD86323772AE  : public EventBase_1_tEA3EC96A771350A4CDC57DB50A75C6FB0AC5A374
+struct MouseEventBase_1_t9F7D703752C59B2758B0C44ED89EFD86323772AE  : public EventBase_1_tEA3EC96A771350A4CDC57DB50A75C6FB0AC5A374
 {
 public:
 	// UnityEngine.EventModifiers UnityEngine.UIElements.MouseEventBase`1::<modifiers>k__BackingField
@@ -13932,7 +13932,7 @@ public:
 
 
 // UnityEngine.UIElements.MouseEventBase`1<UnityEngine.UIElements.MouseDownEvent>
-struct  MouseEventBase_1_tF4C08A7DB0FC721D98796AF51EF73CE2D36CADF0  : public EventBase_1_tD663FC14A2C25A70CC0F958E7E49DCD727CEBDC7
+struct MouseEventBase_1_tF4C08A7DB0FC721D98796AF51EF73CE2D36CADF0  : public EventBase_1_tD663FC14A2C25A70CC0F958E7E49DCD727CEBDC7
 {
 public:
 	// UnityEngine.EventModifiers UnityEngine.UIElements.MouseEventBase`1::<modifiers>k__BackingField
@@ -14041,7 +14041,7 @@ public:
 
 
 // UnityEngine.UIElements.MouseEventBase`1<UnityEngine.UIElements.MouseEnterEvent>
-struct  MouseEventBase_1_t5AB06C6D1376C2B185F26D3A8FC03A664C11B697  : public EventBase_1_tEC1C92B929387018107403B59137A2A09A0D0748
+struct MouseEventBase_1_t5AB06C6D1376C2B185F26D3A8FC03A664C11B697  : public EventBase_1_tEC1C92B929387018107403B59137A2A09A0D0748
 {
 public:
 	// UnityEngine.EventModifiers UnityEngine.UIElements.MouseEventBase`1::<modifiers>k__BackingField
@@ -14150,7 +14150,7 @@ public:
 
 
 // UnityEngine.UIElements.MouseEventBase`1<UnityEngine.UIElements.MouseEnterWindowEvent>
-struct  MouseEventBase_1_tD1F55A05309D6BC5373148214FD525B445F7B3E0  : public EventBase_1_t984B23B3F5706EEB7A35E6C729CB1D780C9BD52B
+struct MouseEventBase_1_tD1F55A05309D6BC5373148214FD525B445F7B3E0  : public EventBase_1_t984B23B3F5706EEB7A35E6C729CB1D780C9BD52B
 {
 public:
 	// UnityEngine.EventModifiers UnityEngine.UIElements.MouseEventBase`1::<modifiers>k__BackingField
@@ -14259,7 +14259,7 @@ public:
 
 
 // UnityEngine.UIElements.MouseEventBase`1<UnityEngine.UIElements.MouseLeaveEvent>
-struct  MouseEventBase_1_tA8EEE06913BF8E868E4F525C56E232199B8028F2  : public EventBase_1_t5D4A8E4E593C92A7BBAF82B26879CCC197D68B38
+struct MouseEventBase_1_tA8EEE06913BF8E868E4F525C56E232199B8028F2  : public EventBase_1_t5D4A8E4E593C92A7BBAF82B26879CCC197D68B38
 {
 public:
 	// UnityEngine.EventModifiers UnityEngine.UIElements.MouseEventBase`1::<modifiers>k__BackingField
@@ -14368,7 +14368,7 @@ public:
 
 
 // UnityEngine.UIElements.MouseEventBase`1<UnityEngine.UIElements.MouseLeaveWindowEvent>
-struct  MouseEventBase_1_tF3CDCC873879464A2DEC087A066003FCB5C67B2B  : public EventBase_1_tAB895FF54333980037BCEDC3E8BB67DF06B5FBF7
+struct MouseEventBase_1_tF3CDCC873879464A2DEC087A066003FCB5C67B2B  : public EventBase_1_tAB895FF54333980037BCEDC3E8BB67DF06B5FBF7
 {
 public:
 	// UnityEngine.EventModifiers UnityEngine.UIElements.MouseEventBase`1::<modifiers>k__BackingField
@@ -14477,7 +14477,7 @@ public:
 
 
 // UnityEngine.UIElements.MouseEventBase`1<UnityEngine.UIElements.MouseMoveEvent>
-struct  MouseEventBase_1_tDE2A0C6CACE33A6C599D48703CBF1A2FFF8CB2B5  : public EventBase_1_t087186851DB884B61B785386EDAD1F2292ACA361
+struct MouseEventBase_1_tDE2A0C6CACE33A6C599D48703CBF1A2FFF8CB2B5  : public EventBase_1_t087186851DB884B61B785386EDAD1F2292ACA361
 {
 public:
 	// UnityEngine.EventModifiers UnityEngine.UIElements.MouseEventBase`1::<modifiers>k__BackingField
@@ -14586,7 +14586,7 @@ public:
 
 
 // UnityEngine.UIElements.MouseEventBase`1<UnityEngine.UIElements.MouseOutEvent>
-struct  MouseEventBase_1_tC8D31ED47C2AA264E684C5D287BE1DC393B0A30A  : public EventBase_1_tBBDD1FCEFCAF1B5505849D84AE933BB0889DCB1A
+struct MouseEventBase_1_tC8D31ED47C2AA264E684C5D287BE1DC393B0A30A  : public EventBase_1_tBBDD1FCEFCAF1B5505849D84AE933BB0889DCB1A
 {
 public:
 	// UnityEngine.EventModifiers UnityEngine.UIElements.MouseEventBase`1::<modifiers>k__BackingField
@@ -14695,7 +14695,7 @@ public:
 
 
 // UnityEngine.UIElements.MouseEventBase`1<UnityEngine.UIElements.MouseOverEvent>
-struct  MouseEventBase_1_tE49A8546EEED816E97FE1D0D0B7083A1A17B8405  : public EventBase_1_tF78E96680835E8BEF3593C51AEEF06366913A472
+struct MouseEventBase_1_tE49A8546EEED816E97FE1D0D0B7083A1A17B8405  : public EventBase_1_tF78E96680835E8BEF3593C51AEEF06366913A472
 {
 public:
 	// UnityEngine.EventModifiers UnityEngine.UIElements.MouseEventBase`1::<modifiers>k__BackingField
@@ -14804,7 +14804,7 @@ public:
 
 
 // UnityEngine.UIElements.MouseEventBase`1<UnityEngine.UIElements.MouseUpEvent>
-struct  MouseEventBase_1_t41E0C201AB9BC13ED72E77E2008BEE3696AD86F5  : public EventBase_1_tA6A8BAE78BC19B4ED93CBA18EFE3A5CD069F1CA3
+struct MouseEventBase_1_t41E0C201AB9BC13ED72E77E2008BEE3696AD86F5  : public EventBase_1_tA6A8BAE78BC19B4ED93CBA18EFE3A5CD069F1CA3
 {
 public:
 	// UnityEngine.EventModifiers UnityEngine.UIElements.MouseEventBase`1::<modifiers>k__BackingField
@@ -14913,7 +14913,7 @@ public:
 
 
 // UnityEngine.UIElements.MouseEventBase`1<System.Object>
-struct  MouseEventBase_1_t0F188A74FDFC1E0A49E98810634220A765C82F16  : public EventBase_1_t96045F377456C52401528D3B6A3635C4C071779A
+struct MouseEventBase_1_t0F188A74FDFC1E0A49E98810634220A765C82F16  : public EventBase_1_t96045F377456C52401528D3B6A3635C4C071779A
 {
 public:
 	// UnityEngine.EventModifiers UnityEngine.UIElements.MouseEventBase`1::<modifiers>k__BackingField
@@ -15022,7 +15022,7 @@ public:
 
 
 // UnityEngine.UIElements.NavigationEventBase`1<UnityEngine.UIElements.NavigationCancelEvent>
-struct  NavigationEventBase_1_tAAB710CF2FAF8075672B19E06F72D07E539259B8  : public EventBase_1_t62B0FC307039A001D92F0657C8D81A6A37C590F7
+struct NavigationEventBase_1_tAAB710CF2FAF8075672B19E06F72D07E539259B8  : public EventBase_1_t62B0FC307039A001D92F0657C8D81A6A37C590F7
 {
 public:
 
@@ -15031,7 +15031,7 @@ public:
 
 
 // UnityEngine.UIElements.NavigationEventBase`1<UnityEngine.UIElements.NavigationMoveEvent>
-struct  NavigationEventBase_1_t78A3F78B27EDFBCFCD990047A09FA9A6689B8D97  : public EventBase_1_t51BB71613219C03DA5A6BD5E1844117B874843CF
+struct NavigationEventBase_1_t78A3F78B27EDFBCFCD990047A09FA9A6689B8D97  : public EventBase_1_t51BB71613219C03DA5A6BD5E1844117B874843CF
 {
 public:
 
@@ -15040,7 +15040,7 @@ public:
 
 
 // UnityEngine.UIElements.NavigationEventBase`1<UnityEngine.UIElements.NavigationSubmitEvent>
-struct  NavigationEventBase_1_t559C06200CAAD82779AF314FBDDEE1DF8C28C836  : public EventBase_1_t315B0FEA6C8D14CB8B406BC700D7811DD71B67A2
+struct NavigationEventBase_1_t559C06200CAAD82779AF314FBDDEE1DF8C28C836  : public EventBase_1_t315B0FEA6C8D14CB8B406BC700D7811DD71B67A2
 {
 public:
 
@@ -15049,7 +15049,7 @@ public:
 
 
 // UnityEngine.UIElements.NavigationEventBase`1<UnityEngine.UIElements.NavigationTabEvent>
-struct  NavigationEventBase_1_tB8B8D710394554765BD188D38939D383DB6A6EB2  : public EventBase_1_t55523FAA676983B98ACAD648AF6823E8622352D7
+struct NavigationEventBase_1_tB8B8D710394554765BD188D38939D383DB6A6EB2  : public EventBase_1_t55523FAA676983B98ACAD648AF6823E8622352D7
 {
 public:
 
@@ -15058,7 +15058,7 @@ public:
 
 
 // UnityEngine.UIElements.PanelChangedEventBase`1<UnityEngine.UIElements.AttachToPanelEvent>
-struct  PanelChangedEventBase_1_t797F6141FE04BF2E5705927A9D6276B40B1B6C6D  : public EventBase_1_tCCCA3B845A3558F5E4BDD5669345FC7340A749D0
+struct PanelChangedEventBase_1_t797F6141FE04BF2E5705927A9D6276B40B1B6C6D  : public EventBase_1_tCCCA3B845A3558F5E4BDD5669345FC7340A749D0
 {
 public:
 	// UnityEngine.UIElements.IPanel UnityEngine.UIElements.PanelChangedEventBase`1::<originPanel>k__BackingField
@@ -15088,7 +15088,7 @@ public:
 
 
 // UnityEngine.UIElements.PanelChangedEventBase`1<UnityEngine.UIElements.DetachFromPanelEvent>
-struct  PanelChangedEventBase_1_t89BDDA58D75F4F5D7DA09DADEA265C67624A3B6E  : public EventBase_1_t08138755340FBBBB94F1DF008916A33BDC2C32B6
+struct PanelChangedEventBase_1_t89BDDA58D75F4F5D7DA09DADEA265C67624A3B6E  : public EventBase_1_t08138755340FBBBB94F1DF008916A33BDC2C32B6
 {
 public:
 	// UnityEngine.UIElements.IPanel UnityEngine.UIElements.PanelChangedEventBase`1::<originPanel>k__BackingField
@@ -15118,7 +15118,7 @@ public:
 
 
 // UnityEngine.UIElements.PointerCaptureEventBase`1<UnityEngine.UIElements.MouseCaptureEvent>
-struct  PointerCaptureEventBase_1_t3085218D4B7852354E946AA17CDB6456CD042560  : public EventBase_1_tDDDEDAC08EEA76EE6E87A95A2363A5A6867FE1F1
+struct PointerCaptureEventBase_1_t3085218D4B7852354E946AA17CDB6456CD042560  : public EventBase_1_tDDDEDAC08EEA76EE6E87A95A2363A5A6867FE1F1
 {
 public:
 	// UnityEngine.UIElements.IEventHandler UnityEngine.UIElements.PointerCaptureEventBase`1::<relatedTarget>k__BackingField
@@ -15147,7 +15147,7 @@ public:
 
 
 // UnityEngine.UIElements.PointerCaptureEventBase`1<UnityEngine.UIElements.MouseCaptureOutEvent>
-struct  PointerCaptureEventBase_1_t248F5ADBB1E5F7ABCC42042F04EA33B025016B9E  : public EventBase_1_t84E0F696495A86C3A103E8D31D7FC82A98456561
+struct PointerCaptureEventBase_1_t248F5ADBB1E5F7ABCC42042F04EA33B025016B9E  : public EventBase_1_t84E0F696495A86C3A103E8D31D7FC82A98456561
 {
 public:
 	// UnityEngine.UIElements.IEventHandler UnityEngine.UIElements.PointerCaptureEventBase`1::<relatedTarget>k__BackingField
@@ -15176,7 +15176,7 @@ public:
 
 
 // UnityEngine.UIElements.PointerCaptureEventBase`1<UnityEngine.UIElements.PointerCaptureEvent>
-struct  PointerCaptureEventBase_1_t20F6535D3BE3DB115756A997C7D1F49D049E3F91  : public EventBase_1_t4AF11ED1819872C31530DADF51C887C4F7929E17
+struct PointerCaptureEventBase_1_t20F6535D3BE3DB115756A997C7D1F49D049E3F91  : public EventBase_1_t4AF11ED1819872C31530DADF51C887C4F7929E17
 {
 public:
 	// UnityEngine.UIElements.IEventHandler UnityEngine.UIElements.PointerCaptureEventBase`1::<relatedTarget>k__BackingField
@@ -15205,7 +15205,7 @@ public:
 
 
 // UnityEngine.UIElements.PointerCaptureEventBase`1<UnityEngine.UIElements.PointerCaptureOutEvent>
-struct  PointerCaptureEventBase_1_t7CD894551EBB4B2847D76DA7109000A314F3E413  : public EventBase_1_t5B5B206F9701CE133140DA04006B74A60F051650
+struct PointerCaptureEventBase_1_t7CD894551EBB4B2847D76DA7109000A314F3E413  : public EventBase_1_t5B5B206F9701CE133140DA04006B74A60F051650
 {
 public:
 	// UnityEngine.UIElements.IEventHandler UnityEngine.UIElements.PointerCaptureEventBase`1::<relatedTarget>k__BackingField
@@ -15234,7 +15234,7 @@ public:
 
 
 // UnityEngine.UIElements.PointerEventBase`1<UnityEngine.UIElements.ClickEvent>
-struct  PointerEventBase_1_tF76A9B5683503B57286BE617E903CBCFA18484D3  : public EventBase_1_t937F8B0E926F045B98E34471F9FBEE56F8A6B1F4
+struct PointerEventBase_1_tF76A9B5683503B57286BE617E903CBCFA18484D3  : public EventBase_1_t937F8B0E926F045B98E34471F9FBEE56F8A6B1F4
 {
 public:
 	// System.Int32 UnityEngine.UIElements.PointerEventBase`1::<pointerId>k__BackingField
@@ -15443,7 +15443,7 @@ public:
 
 
 // UnityEngine.UIElements.PointerEventBase`1<System.Object>
-struct  PointerEventBase_1_tE680497AA3DB551A370A456DEE238D060108B1C8  : public EventBase_1_t96045F377456C52401528D3B6A3635C4C071779A
+struct PointerEventBase_1_tE680497AA3DB551A370A456DEE238D060108B1C8  : public EventBase_1_t96045F377456C52401528D3B6A3635C4C071779A
 {
 public:
 	// System.Int32 UnityEngine.UIElements.PointerEventBase`1::<pointerId>k__BackingField
@@ -15652,7 +15652,7 @@ public:
 
 
 // UnityEngine.UIElements.PointerEventBase`1<UnityEngine.UIElements.PointerCancelEvent>
-struct  PointerEventBase_1_t2BF8A1708DB1A2950C86041DF6601BCFE2E9D622  : public EventBase_1_tECC7E5059207C18111D6E40AA14AB1D20052C511
+struct PointerEventBase_1_t2BF8A1708DB1A2950C86041DF6601BCFE2E9D622  : public EventBase_1_tECC7E5059207C18111D6E40AA14AB1D20052C511
 {
 public:
 	// System.Int32 UnityEngine.UIElements.PointerEventBase`1::<pointerId>k__BackingField
@@ -15861,7 +15861,7 @@ public:
 
 
 // UnityEngine.UIElements.PointerEventBase`1<UnityEngine.UIElements.PointerDownEvent>
-struct  PointerEventBase_1_tDCA21E36D8E54CBC88FF299F6E2B6EB82DBA23AA  : public EventBase_1_tB3366DB1DC8FD5A912EFEECB9447711AE0D91C9F
+struct PointerEventBase_1_tDCA21E36D8E54CBC88FF299F6E2B6EB82DBA23AA  : public EventBase_1_tB3366DB1DC8FD5A912EFEECB9447711AE0D91C9F
 {
 public:
 	// System.Int32 UnityEngine.UIElements.PointerEventBase`1::<pointerId>k__BackingField
@@ -16070,7 +16070,7 @@ public:
 
 
 // UnityEngine.UIElements.PointerEventBase`1<UnityEngine.UIElements.PointerEnterEvent>
-struct  PointerEventBase_1_t6ED06B50F964733690CC57A0D7559A9EFEC728FF  : public EventBase_1_t1728ADFE2E9F3F104B0448A9817BE9288C6ADCAF
+struct PointerEventBase_1_t6ED06B50F964733690CC57A0D7559A9EFEC728FF  : public EventBase_1_t1728ADFE2E9F3F104B0448A9817BE9288C6ADCAF
 {
 public:
 	// System.Int32 UnityEngine.UIElements.PointerEventBase`1::<pointerId>k__BackingField
@@ -16279,7 +16279,7 @@ public:
 
 
 // UnityEngine.UIElements.PointerEventBase`1<UnityEngine.UIElements.PointerLeaveEvent>
-struct  PointerEventBase_1_t1B8B4F9469A761F46B4B21A852F07CD350B0B729  : public EventBase_1_t70EB4D0EB8AA780A35101140D3BFD37ADE3E7D0D
+struct PointerEventBase_1_t1B8B4F9469A761F46B4B21A852F07CD350B0B729  : public EventBase_1_t70EB4D0EB8AA780A35101140D3BFD37ADE3E7D0D
 {
 public:
 	// System.Int32 UnityEngine.UIElements.PointerEventBase`1::<pointerId>k__BackingField
@@ -16488,7 +16488,7 @@ public:
 
 
 // UnityEngine.UIElements.PointerEventBase`1<UnityEngine.UIElements.PointerMoveEvent>
-struct  PointerEventBase_1_tFD66F5BF3D7A7FAA5A4FFB3E39BAF961DE360CB8  : public EventBase_1_t952C1AD910F230396DF7AFA0C9B6354AFA90BAB1
+struct PointerEventBase_1_tFD66F5BF3D7A7FAA5A4FFB3E39BAF961DE360CB8  : public EventBase_1_t952C1AD910F230396DF7AFA0C9B6354AFA90BAB1
 {
 public:
 	// System.Int32 UnityEngine.UIElements.PointerEventBase`1::<pointerId>k__BackingField
@@ -16697,7 +16697,7 @@ public:
 
 
 // UnityEngine.UIElements.PointerEventBase`1<UnityEngine.UIElements.PointerOutEvent>
-struct  PointerEventBase_1_t36A25B217C9832C8A26D2B4EE2F4BF1096629C96  : public EventBase_1_tCAB8FE7672E09BDCDF66C7D4CA0A452A1BD3AF1D
+struct PointerEventBase_1_t36A25B217C9832C8A26D2B4EE2F4BF1096629C96  : public EventBase_1_tCAB8FE7672E09BDCDF66C7D4CA0A452A1BD3AF1D
 {
 public:
 	// System.Int32 UnityEngine.UIElements.PointerEventBase`1::<pointerId>k__BackingField
@@ -16906,7 +16906,7 @@ public:
 
 
 // UnityEngine.UIElements.PointerEventBase`1<UnityEngine.UIElements.PointerOverEvent>
-struct  PointerEventBase_1_t3CD6B1B3BC02754B32F46543864BE01B247C9E64  : public EventBase_1_t9137AB5FA204BBAA961F5FADDF6B2D943A2F9E7D
+struct PointerEventBase_1_t3CD6B1B3BC02754B32F46543864BE01B247C9E64  : public EventBase_1_t9137AB5FA204BBAA961F5FADDF6B2D943A2F9E7D
 {
 public:
 	// System.Int32 UnityEngine.UIElements.PointerEventBase`1::<pointerId>k__BackingField
@@ -17115,7 +17115,7 @@ public:
 
 
 // UnityEngine.UIElements.PointerEventBase`1<UnityEngine.UIElements.PointerStationaryEvent>
-struct  PointerEventBase_1_tE116CF19D43685E77939BE45EF6503ACDAE79D57  : public EventBase_1_tE528B4BB683BE1E118B2F81BF844F56CE6C68DAE
+struct PointerEventBase_1_tE116CF19D43685E77939BE45EF6503ACDAE79D57  : public EventBase_1_tE528B4BB683BE1E118B2F81BF844F56CE6C68DAE
 {
 public:
 	// System.Int32 UnityEngine.UIElements.PointerEventBase`1::<pointerId>k__BackingField
@@ -17324,7 +17324,7 @@ public:
 
 
 // UnityEngine.UIElements.PointerEventBase`1<UnityEngine.UIElements.PointerUpEvent>
-struct  PointerEventBase_1_t00B2BF542429C487722ECFF7BBFCA5A6D30C2851  : public EventBase_1_tAAD9DE5EBEB5A723E65F22C92E59551DEFE02683
+struct PointerEventBase_1_t00B2BF542429C487722ECFF7BBFCA5A6D30C2851  : public EventBase_1_tAAD9DE5EBEB5A723E65F22C92E59551DEFE02683
 {
 public:
 	// System.Int32 UnityEngine.UIElements.PointerEventBase`1::<pointerId>k__BackingField
@@ -17533,7 +17533,7 @@ public:
 
 
 // System.ArgumentNullException
-struct  ArgumentNullException_tFB5C4621957BC53A7D1B4FDD5C38B4D6E15DB8FB  : public ArgumentException_t505FA8C11E883F2D96C797AD9D396490794DEE00
+struct ArgumentNullException_tFB5C4621957BC53A7D1B4FDD5C38B4D6E15DB8FB  : public ArgumentException_t505FA8C11E883F2D96C797AD9D396490794DEE00
 {
 public:
 
@@ -17542,7 +17542,7 @@ public:
 
 
 // UnityEngine.UIElements.BaseRuntimePanel
-struct  BaseRuntimePanel_t74D3C6BB15505935A817612DF7E4BF5C1207BF7C  : public Panel_t476A329F94E775CA31284CD78FD12460EEB05A3F
+struct BaseRuntimePanel_t74D3C6BB15505935A817612DF7E4BF5C1207BF7C  : public Panel_t476A329F94E775CA31284CD78FD12460EEB05A3F
 {
 public:
 	// UnityEngine.GameObject UnityEngine.UIElements.BaseRuntimePanel::m_SelectableGameObject
@@ -17652,7 +17652,7 @@ public:
 
 
 // UnityEngine.UIElements.ComputedStyle
-struct  ComputedStyle_tF65787E1256E8162D54C36C0EDB423E82433394E  : public RuntimeObject
+struct ComputedStyle_tF65787E1256E8162D54C36C0EDB423E82433394E  : public RuntimeObject
 {
 public:
 	// System.Boolean UnityEngine.UIElements.ComputedStyle::isShared
@@ -17736,7 +17736,7 @@ public:
 
 
 // UnityEngine.UIElements.IMGUIEvent
-struct  IMGUIEvent_t45699759EC2839FDB558247D4043C0D53A942BF7  : public EventBase_1_t7957704ABE2EF00ECF304ED555303C3D66EAEF00
+struct IMGUIEvent_t45699759EC2839FDB558247D4043C0D53A942BF7  : public EventBase_1_t7957704ABE2EF00ECF304ED555303C3D66EAEF00
 {
 public:
 
@@ -17745,7 +17745,7 @@ public:
 
 
 // UnityEngine.UIElements.VisualElement
-struct  VisualElement_tAF72253CBD78143319BFE58F26C2349B2959C8C0  : public Focusable_t54CC145FEE85D2A5D92761C419288150CF5BEC14
+struct VisualElement_tAF72253CBD78143319BFE58F26C2349B2959C8C0  : public Focusable_t54CC145FEE85D2A5D92761C419288150CF5BEC14
 {
 public:
 	// System.String UnityEngine.UIElements.VisualElement::m_Name
@@ -18380,7 +18380,7 @@ public:
 
 
 // UnityEngine.UIElements.MouseCaptureEventBase`1<UnityEngine.UIElements.MouseCaptureEvent>
-struct  MouseCaptureEventBase_1_t3965DB296D7EEC933A0318545CCAE06EC05D22AD  : public PointerCaptureEventBase_1_t3085218D4B7852354E946AA17CDB6456CD042560
+struct MouseCaptureEventBase_1_t3965DB296D7EEC933A0318545CCAE06EC05D22AD  : public PointerCaptureEventBase_1_t3085218D4B7852354E946AA17CDB6456CD042560
 {
 public:
 
@@ -18389,7 +18389,7 @@ public:
 
 
 // UnityEngine.UIElements.MouseCaptureEventBase`1<UnityEngine.UIElements.MouseCaptureOutEvent>
-struct  MouseCaptureEventBase_1_t9736A72D0CAC45C006B75378F9EDDA2F6FFB81EE  : public PointerCaptureEventBase_1_t248F5ADBB1E5F7ABCC42042F04EA33B025016B9E
+struct MouseCaptureEventBase_1_t9736A72D0CAC45C006B75378F9EDDA2F6FFB81EE  : public PointerCaptureEventBase_1_t248F5ADBB1E5F7ABCC42042F04EA33B025016B9E
 {
 public:
 
@@ -18398,7 +18398,7 @@ public:
 
 
 // UnityEngine.UIElements.AttachToPanelEvent
-struct  AttachToPanelEvent_t403954B01771D0804A0B05B060C9271695C2E8CB  : public PanelChangedEventBase_1_t797F6141FE04BF2E5705927A9D6276B40B1B6C6D
+struct AttachToPanelEvent_t403954B01771D0804A0B05B060C9271695C2E8CB  : public PanelChangedEventBase_1_t797F6141FE04BF2E5705927A9D6276B40B1B6C6D
 {
 public:
 
@@ -18407,7 +18407,7 @@ public:
 
 
 // UnityEngine.UIElements.BindableElement
-struct  BindableElement_tF69CF4F248AF205856733D54A6062BF5D9056E1B  : public VisualElement_tAF72253CBD78143319BFE58F26C2349B2959C8C0
+struct BindableElement_tF69CF4F248AF205856733D54A6062BF5D9056E1B  : public VisualElement_tAF72253CBD78143319BFE58F26C2349B2959C8C0
 {
 public:
 
@@ -18416,7 +18416,7 @@ public:
 
 
 // UnityEngine.UIElements.BlurEvent
-struct  BlurEvent_t63E0298F90FBEB1E0EF0B72F8CD352FF76FF61C7  : public FocusEventBase_1_tD3D64C176CBC513865DC7ACF3149527EB31F108A
+struct BlurEvent_t63E0298F90FBEB1E0EF0B72F8CD352FF76FF61C7  : public FocusEventBase_1_tD3D64C176CBC513865DC7ACF3149527EB31F108A
 {
 public:
 
@@ -18425,7 +18425,7 @@ public:
 
 
 // UnityEngine.UIElements.ClickEvent
-struct  ClickEvent_t4EA4A076039860BA01CFADC8C6E329215DAE4C5C  : public PointerEventBase_1_tF76A9B5683503B57286BE617E903CBCFA18484D3
+struct ClickEvent_t4EA4A076039860BA01CFADC8C6E329215DAE4C5C  : public PointerEventBase_1_tF76A9B5683503B57286BE617E903CBCFA18484D3
 {
 public:
 
@@ -18434,7 +18434,7 @@ public:
 
 
 // UnityEngine.UIElements.ContextClickEvent
-struct  ContextClickEvent_tD0A3AADE7DF87AD65800D6EBFAD719E248FFD5F5  : public MouseEventBase_1_t9F7D703752C59B2758B0C44ED89EFD86323772AE
+struct ContextClickEvent_tD0A3AADE7DF87AD65800D6EBFAD719E248FFD5F5  : public MouseEventBase_1_t9F7D703752C59B2758B0C44ED89EFD86323772AE
 {
 public:
 
@@ -18443,7 +18443,7 @@ public:
 
 
 // UnityEngine.UIElements.DetachFromPanelEvent
-struct  DetachFromPanelEvent_tC0115386D59471BE46C561E7CB0B521D6C9B767D  : public PanelChangedEventBase_1_t89BDDA58D75F4F5D7DA09DADEA265C67624A3B6E
+struct DetachFromPanelEvent_tC0115386D59471BE46C561E7CB0B521D6C9B767D  : public PanelChangedEventBase_1_t89BDDA58D75F4F5D7DA09DADEA265C67624A3B6E
 {
 public:
 
@@ -18452,7 +18452,7 @@ public:
 
 
 // UnityEngine.UIElements.ExecuteCommandEvent
-struct  ExecuteCommandEvent_tA07BCD511597106EBB455C74F906EC65ECF5E78A  : public CommandEventBase_1_tF2AEE851390BA430910A36BEE15AB39E4FD4CA43
+struct ExecuteCommandEvent_tA07BCD511597106EBB455C74F906EC65ECF5E78A  : public CommandEventBase_1_tF2AEE851390BA430910A36BEE15AB39E4FD4CA43
 {
 public:
 
@@ -18461,7 +18461,7 @@ public:
 
 
 // UnityEngine.UIElements.FocusEvent
-struct  FocusEvent_tCDC79190FFC59F3B1A131E6F9B0365B8280FC0EB  : public FocusEventBase_1_tEA8B0105587253B0BAE2EE8505641847C06066E5
+struct FocusEvent_tCDC79190FFC59F3B1A131E6F9B0365B8280FC0EB  : public FocusEventBase_1_tEA8B0105587253B0BAE2EE8505641847C06066E5
 {
 public:
 
@@ -18470,7 +18470,7 @@ public:
 
 
 // UnityEngine.UIElements.FocusInEvent
-struct  FocusInEvent_tE27ADCBD2F441319D7E744E41F4FB45B2C50838D  : public FocusEventBase_1_tE9F805C748FD072DFA5543E9896F2359110BC51C
+struct FocusInEvent_tE27ADCBD2F441319D7E744E41F4FB45B2C50838D  : public FocusEventBase_1_tE9F805C748FD072DFA5543E9896F2359110BC51C
 {
 public:
 
@@ -18479,7 +18479,7 @@ public:
 
 
 // UnityEngine.UIElements.FocusOutEvent
-struct  FocusOutEvent_t8B6BE133290D6B8054D2DA33A34240E899B1BB17  : public FocusEventBase_1_t3DCEA0DB545B2B18FFE2C9CFB4F972D8D680CF01
+struct FocusOutEvent_t8B6BE133290D6B8054D2DA33A34240E899B1BB17  : public FocusEventBase_1_t3DCEA0DB545B2B18FFE2C9CFB4F972D8D680CF01
 {
 public:
 
@@ -18488,7 +18488,7 @@ public:
 
 
 // UnityEngine.UIElements.IMGUIContainer
-struct  IMGUIContainer_t0C8BA9DB6BE59812D122D0B25558114E24DAC9C0  : public VisualElement_tAF72253CBD78143319BFE58F26C2349B2959C8C0
+struct IMGUIContainer_t0C8BA9DB6BE59812D122D0B25558114E24DAC9C0  : public VisualElement_tAF72253CBD78143319BFE58F26C2349B2959C8C0
 {
 public:
 	// System.Action UnityEngine.UIElements.IMGUIContainer::m_OnGUIHandler
@@ -18719,7 +18719,7 @@ public:
 
 
 // UnityEngine.UIElements.KeyDownEvent
-struct  KeyDownEvent_t6E6B858C52C2EB50613406F1351553A16EC1A12E  : public KeyboardEventBase_1_t241DE9277CA8B10D5E950EC6995711467412743E
+struct KeyDownEvent_t6E6B858C52C2EB50613406F1351553A16EC1A12E  : public KeyboardEventBase_1_t241DE9277CA8B10D5E950EC6995711467412743E
 {
 public:
 
@@ -18728,7 +18728,7 @@ public:
 
 
 // UnityEngine.UIElements.KeyUpEvent
-struct  KeyUpEvent_t296156EABD1A71AE270142AAC66BCC5A2C8D4D9A  : public KeyboardEventBase_1_t470115110F914E0A4BC09D581661B1E92C85588E
+struct KeyUpEvent_t296156EABD1A71AE270142AAC66BCC5A2C8D4D9A  : public KeyboardEventBase_1_t470115110F914E0A4BC09D581661B1E92C85588E
 {
 public:
 
@@ -18737,7 +18737,7 @@ public:
 
 
 // UnityEngine.UIElements.MouseDownEvent
-struct  MouseDownEvent_t57EEBE246AB52E9256687C2B3F48DD605C379568  : public MouseEventBase_1_tF4C08A7DB0FC721D98796AF51EF73CE2D36CADF0
+struct MouseDownEvent_t57EEBE246AB52E9256687C2B3F48DD605C379568  : public MouseEventBase_1_tF4C08A7DB0FC721D98796AF51EF73CE2D36CADF0
 {
 public:
 
@@ -18746,7 +18746,7 @@ public:
 
 
 // UnityEngine.UIElements.MouseEnterEvent
-struct  MouseEnterEvent_t5BC3592BC67A2A4A1E08C546A437AD696025D600  : public MouseEventBase_1_t5AB06C6D1376C2B185F26D3A8FC03A664C11B697
+struct MouseEnterEvent_t5BC3592BC67A2A4A1E08C546A437AD696025D600  : public MouseEventBase_1_t5AB06C6D1376C2B185F26D3A8FC03A664C11B697
 {
 public:
 
@@ -18755,7 +18755,7 @@ public:
 
 
 // UnityEngine.UIElements.MouseEnterWindowEvent
-struct  MouseEnterWindowEvent_t1185E4B0BB85CEDCC7FAF7AB6ED4A5DC09F653BC  : public MouseEventBase_1_tD1F55A05309D6BC5373148214FD525B445F7B3E0
+struct MouseEnterWindowEvent_t1185E4B0BB85CEDCC7FAF7AB6ED4A5DC09F653BC  : public MouseEventBase_1_tD1F55A05309D6BC5373148214FD525B445F7B3E0
 {
 public:
 
@@ -18764,7 +18764,7 @@ public:
 
 
 // UnityEngine.UIElements.MouseLeaveEvent
-struct  MouseLeaveEvent_t4A10AA6CCECBA3218E84A17A846D803D499501F6  : public MouseEventBase_1_tA8EEE06913BF8E868E4F525C56E232199B8028F2
+struct MouseLeaveEvent_t4A10AA6CCECBA3218E84A17A846D803D499501F6  : public MouseEventBase_1_tA8EEE06913BF8E868E4F525C56E232199B8028F2
 {
 public:
 
@@ -18773,7 +18773,7 @@ public:
 
 
 // UnityEngine.UIElements.MouseLeaveWindowEvent
-struct  MouseLeaveWindowEvent_tA74848E6C2A7984FD5151DFAD3217E2954F66E1A  : public MouseEventBase_1_tF3CDCC873879464A2DEC087A066003FCB5C67B2B
+struct MouseLeaveWindowEvent_tA74848E6C2A7984FD5151DFAD3217E2954F66E1A  : public MouseEventBase_1_tF3CDCC873879464A2DEC087A066003FCB5C67B2B
 {
 public:
 
@@ -18782,7 +18782,7 @@ public:
 
 
 // UnityEngine.UIElements.MouseMoveEvent
-struct  MouseMoveEvent_tA4396E7B9DDDEC3F36DB5B610ECB8994ACDE42D4  : public MouseEventBase_1_tDE2A0C6CACE33A6C599D48703CBF1A2FFF8CB2B5
+struct MouseMoveEvent_tA4396E7B9DDDEC3F36DB5B610ECB8994ACDE42D4  : public MouseEventBase_1_tDE2A0C6CACE33A6C599D48703CBF1A2FFF8CB2B5
 {
 public:
 
@@ -18791,7 +18791,7 @@ public:
 
 
 // UnityEngine.UIElements.MouseOutEvent
-struct  MouseOutEvent_tCD5D51EAB70F1AD90669DA48C7F4978344ED740E  : public MouseEventBase_1_tC8D31ED47C2AA264E684C5D287BE1DC393B0A30A
+struct MouseOutEvent_tCD5D51EAB70F1AD90669DA48C7F4978344ED740E  : public MouseEventBase_1_tC8D31ED47C2AA264E684C5D287BE1DC393B0A30A
 {
 public:
 
@@ -18800,7 +18800,7 @@ public:
 
 
 // UnityEngine.UIElements.MouseOverEvent
-struct  MouseOverEvent_t0BDE1BD7B96941AEA9573316F178B324F06FE2C8  : public MouseEventBase_1_tE49A8546EEED816E97FE1D0D0B7083A1A17B8405
+struct MouseOverEvent_t0BDE1BD7B96941AEA9573316F178B324F06FE2C8  : public MouseEventBase_1_tE49A8546EEED816E97FE1D0D0B7083A1A17B8405
 {
 public:
 
@@ -18809,7 +18809,7 @@ public:
 
 
 // UnityEngine.UIElements.MouseUpEvent
-struct  MouseUpEvent_tFF986FABCDC88DAEB08020785A522B6B987D197C  : public MouseEventBase_1_t41E0C201AB9BC13ED72E77E2008BEE3696AD86F5
+struct MouseUpEvent_tFF986FABCDC88DAEB08020785A522B6B987D197C  : public MouseEventBase_1_t41E0C201AB9BC13ED72E77E2008BEE3696AD86F5
 {
 public:
 
@@ -18818,7 +18818,7 @@ public:
 
 
 // UnityEngine.UIElements.NavigationCancelEvent
-struct  NavigationCancelEvent_tA99C6241085114BA66D00135255126DB872AEE1C  : public NavigationEventBase_1_tAAB710CF2FAF8075672B19E06F72D07E539259B8
+struct NavigationCancelEvent_tA99C6241085114BA66D00135255126DB872AEE1C  : public NavigationEventBase_1_tAAB710CF2FAF8075672B19E06F72D07E539259B8
 {
 public:
 
@@ -18827,7 +18827,7 @@ public:
 
 
 // UnityEngine.UIElements.NavigationMoveEvent
-struct  NavigationMoveEvent_tB864650BE78E726F2606E2B6B049A1F0D430BE8D  : public NavigationEventBase_1_t78A3F78B27EDFBCFCD990047A09FA9A6689B8D97
+struct NavigationMoveEvent_tB864650BE78E726F2606E2B6B049A1F0D430BE8D  : public NavigationEventBase_1_t78A3F78B27EDFBCFCD990047A09FA9A6689B8D97
 {
 public:
 	// UnityEngine.UIElements.NavigationMoveEvent/Direction UnityEngine.UIElements.NavigationMoveEvent::<direction>k__BackingField
@@ -18855,7 +18855,7 @@ public:
 
 
 // UnityEngine.UIElements.NavigationSubmitEvent
-struct  NavigationSubmitEvent_t2B23CCD6A552C62B781F7D550338DD379620D055  : public NavigationEventBase_1_t559C06200CAAD82779AF314FBDDEE1DF8C28C836
+struct NavigationSubmitEvent_t2B23CCD6A552C62B781F7D550338DD379620D055  : public NavigationEventBase_1_t559C06200CAAD82779AF314FBDDEE1DF8C28C836
 {
 public:
 
@@ -18864,7 +18864,7 @@ public:
 
 
 // UnityEngine.UIElements.NavigationTabEvent
-struct  NavigationTabEvent_t67AD2563588C22F4B12AEF9743FE098FEFFB5961  : public NavigationEventBase_1_tB8B8D710394554765BD188D38939D383DB6A6EB2
+struct NavigationTabEvent_t67AD2563588C22F4B12AEF9743FE098FEFFB5961  : public NavigationEventBase_1_tB8B8D710394554765BD188D38939D383DB6A6EB2
 {
 public:
 	// UnityEngine.UIElements.NavigationTabEvent/Direction UnityEngine.UIElements.NavigationTabEvent::<direction>k__BackingField
@@ -18882,7 +18882,7 @@ public:
 
 
 // UnityEngine.UIElements.PointerCancelEvent
-struct  PointerCancelEvent_tA658A77DCA611873210006D2D89D4B02F38EB2DB  : public PointerEventBase_1_t2BF8A1708DB1A2950C86041DF6601BCFE2E9D622
+struct PointerCancelEvent_tA658A77DCA611873210006D2D89D4B02F38EB2DB  : public PointerEventBase_1_t2BF8A1708DB1A2950C86041DF6601BCFE2E9D622
 {
 public:
 
@@ -18891,7 +18891,7 @@ public:
 
 
 // UnityEngine.UIElements.PointerCaptureEvent
-struct  PointerCaptureEvent_t3F9903F844153CDBF8D6BF4FAEAF2442D8FF291F  : public PointerCaptureEventBase_1_t20F6535D3BE3DB115756A997C7D1F49D049E3F91
+struct PointerCaptureEvent_t3F9903F844153CDBF8D6BF4FAEAF2442D8FF291F  : public PointerCaptureEventBase_1_t20F6535D3BE3DB115756A997C7D1F49D049E3F91
 {
 public:
 
@@ -18900,7 +18900,7 @@ public:
 
 
 // UnityEngine.UIElements.PointerCaptureOutEvent
-struct  PointerCaptureOutEvent_tD733304B927EEA2919CF6B075E74B169446DE8D1  : public PointerCaptureEventBase_1_t7CD894551EBB4B2847D76DA7109000A314F3E413
+struct PointerCaptureOutEvent_tD733304B927EEA2919CF6B075E74B169446DE8D1  : public PointerCaptureEventBase_1_t7CD894551EBB4B2847D76DA7109000A314F3E413
 {
 public:
 
@@ -18909,7 +18909,7 @@ public:
 
 
 // UnityEngine.UIElements.PointerDownEvent
-struct  PointerDownEvent_tC94CCE820E4E6DCCD89A95DE94549BA550C27403  : public PointerEventBase_1_tDCA21E36D8E54CBC88FF299F6E2B6EB82DBA23AA
+struct PointerDownEvent_tC94CCE820E4E6DCCD89A95DE94549BA550C27403  : public PointerEventBase_1_tDCA21E36D8E54CBC88FF299F6E2B6EB82DBA23AA
 {
 public:
 
@@ -18918,7 +18918,7 @@ public:
 
 
 // UnityEngine.UIElements.PointerEnterEvent
-struct  PointerEnterEvent_t02E27117954CAEA9986AF6C20DDCF0DB82277D15  : public PointerEventBase_1_t6ED06B50F964733690CC57A0D7559A9EFEC728FF
+struct PointerEnterEvent_t02E27117954CAEA9986AF6C20DDCF0DB82277D15  : public PointerEventBase_1_t6ED06B50F964733690CC57A0D7559A9EFEC728FF
 {
 public:
 
@@ -18927,7 +18927,7 @@ public:
 
 
 // UnityEngine.UIElements.PointerLeaveEvent
-struct  PointerLeaveEvent_t48678588B6F38D18B83296F6D40E862A7AE9D18A  : public PointerEventBase_1_t1B8B4F9469A761F46B4B21A852F07CD350B0B729
+struct PointerLeaveEvent_t48678588B6F38D18B83296F6D40E862A7AE9D18A  : public PointerEventBase_1_t1B8B4F9469A761F46B4B21A852F07CD350B0B729
 {
 public:
 
@@ -18936,7 +18936,7 @@ public:
 
 
 // UnityEngine.UIElements.PointerMoveEvent
-struct  PointerMoveEvent_t9D1DF9F3D7FF1E2CCBEF6281558B6B88DAA90D28  : public PointerEventBase_1_tFD66F5BF3D7A7FAA5A4FFB3E39BAF961DE360CB8
+struct PointerMoveEvent_t9D1DF9F3D7FF1E2CCBEF6281558B6B88DAA90D28  : public PointerEventBase_1_tFD66F5BF3D7A7FAA5A4FFB3E39BAF961DE360CB8
 {
 public:
 	// System.Boolean UnityEngine.UIElements.PointerMoveEvent::<isHandledByDraggable>k__BackingField
@@ -18954,7 +18954,7 @@ public:
 
 
 // UnityEngine.UIElements.PointerOutEvent
-struct  PointerOutEvent_t7CA9E9F3CB65E8D0A71D4FB3A5610C3945CFA289  : public PointerEventBase_1_t36A25B217C9832C8A26D2B4EE2F4BF1096629C96
+struct PointerOutEvent_t7CA9E9F3CB65E8D0A71D4FB3A5610C3945CFA289  : public PointerEventBase_1_t36A25B217C9832C8A26D2B4EE2F4BF1096629C96
 {
 public:
 
@@ -18963,7 +18963,7 @@ public:
 
 
 // UnityEngine.UIElements.PointerOverEvent
-struct  PointerOverEvent_t47D2F73B561A7A90C47A7525CED0F4E1B60DE4DD  : public PointerEventBase_1_t3CD6B1B3BC02754B32F46543864BE01B247C9E64
+struct PointerOverEvent_t47D2F73B561A7A90C47A7525CED0F4E1B60DE4DD  : public PointerEventBase_1_t3CD6B1B3BC02754B32F46543864BE01B247C9E64
 {
 public:
 
@@ -18972,7 +18972,7 @@ public:
 
 
 // UnityEngine.UIElements.PointerStationaryEvent
-struct  PointerStationaryEvent_tB5F216CAD6C42F3BF076F2EA0B1CC5F838EFE301  : public PointerEventBase_1_tE116CF19D43685E77939BE45EF6503ACDAE79D57
+struct PointerStationaryEvent_tB5F216CAD6C42F3BF076F2EA0B1CC5F838EFE301  : public PointerEventBase_1_tE116CF19D43685E77939BE45EF6503ACDAE79D57
 {
 public:
 
@@ -18981,7 +18981,7 @@ public:
 
 
 // UnityEngine.UIElements.PointerUpEvent
-struct  PointerUpEvent_tFE3775D286474372874AF929B86FA46F4AC86333  : public PointerEventBase_1_t00B2BF542429C487722ECFF7BBFCA5A6D30C2851
+struct PointerUpEvent_tFE3775D286474372874AF929B86FA46F4AC86333  : public PointerEventBase_1_t00B2BF542429C487722ECFF7BBFCA5A6D30C2851
 {
 public:
 
@@ -18990,7 +18990,7 @@ public:
 
 
 // UnityEngine.UIElements.Foldout
-struct  Foldout_t737AB04BCD90F0C0FDA7E9392947443385B18F7C  : public BindableElement_tF69CF4F248AF205856733D54A6062BF5D9056E1B
+struct Foldout_t737AB04BCD90F0C0FDA7E9392947443385B18F7C  : public BindableElement_tF69CF4F248AF205856733D54A6062BF5D9056E1B
 {
 public:
 
@@ -19059,7 +19059,7 @@ public:
 
 
 // UnityEngine.UIElements.MouseCaptureEvent
-struct  MouseCaptureEvent_t8C0E23340A50205108C45CA4C6E9CB4410A5DCF4  : public MouseCaptureEventBase_1_t3965DB296D7EEC933A0318545CCAE06EC05D22AD
+struct MouseCaptureEvent_t8C0E23340A50205108C45CA4C6E9CB4410A5DCF4  : public MouseCaptureEventBase_1_t3965DB296D7EEC933A0318545CCAE06EC05D22AD
 {
 public:
 
@@ -19068,7 +19068,7 @@ public:
 
 
 // UnityEngine.UIElements.MouseCaptureOutEvent
-struct  MouseCaptureOutEvent_tF89482688CE93023C25D8333BD57B8B48C0ECFE9  : public MouseCaptureEventBase_1_t9736A72D0CAC45C006B75378F9EDDA2F6FFB81EE
+struct MouseCaptureOutEvent_tF89482688CE93023C25D8333BD57B8B48C0ECFE9  : public MouseCaptureEventBase_1_t9736A72D0CAC45C006B75378F9EDDA2F6FFB81EE
 {
 public:
 

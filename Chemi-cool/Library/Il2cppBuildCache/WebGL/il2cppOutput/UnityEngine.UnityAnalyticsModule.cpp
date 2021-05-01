@@ -103,7 +103,7 @@ IL2CPP_EXTERN_C_END
 #endif
 
 // <Module>
-struct  U3CModuleU3E_tB192D216DD8406BFF7972D93280BB245AF529D46 
+struct U3CModuleU3E_tB192D216DD8406BFF7972D93280BB245AF529D46 
 {
 public:
 
@@ -115,7 +115,7 @@ public:
 
 
 // UnityEngine.Analytics.AnalyticsSessionInfo
-struct  AnalyticsSessionInfo_t09A4555A2B7A6BC59C0BE66273B5D9B26952EEEB  : public RuntimeObject
+struct AnalyticsSessionInfo_t09A4555A2B7A6BC59C0BE66273B5D9B26952EEEB  : public RuntimeObject
 {
 public:
 
@@ -156,7 +156,7 @@ struct Il2CppArrayBounds;
 
 
 // UnityEngine.Analytics.ContinuousEvent
-struct  ContinuousEvent_t3F564D8670B20B2AED1CF9CC8D8F7DC74FF5B526  : public RuntimeObject
+struct ContinuousEvent_t3F564D8670B20B2AED1CF9CC8D8F7DC74FF5B526  : public RuntimeObject
 {
 public:
 
@@ -165,7 +165,7 @@ public:
 
 
 // UnityEngine.RemoteConfigSettingsHelper
-struct  RemoteConfigSettingsHelper_t4F594BB463720302BF8F02062BC9F2F3EAB39AE3  : public RuntimeObject
+struct RemoteConfigSettingsHelper_t4F594BB463720302BF8F02062BC9F2F3EAB39AE3  : public RuntimeObject
 {
 public:
 
@@ -174,7 +174,7 @@ public:
 
 
 // UnityEngine.RemoteSettings
-struct  RemoteSettings_t349767E4BD0534CC6AA070B83545DD6FC1C54FA4  : public RuntimeObject
+struct RemoteSettings_t349767E4BD0534CC6AA070B83545DD6FC1C54FA4  : public RuntimeObject
 {
 public:
 
@@ -222,7 +222,7 @@ public:
 
 
 // System.String
-struct  String_t  : public RuntimeObject
+struct String_t  : public RuntimeObject
 {
 public:
 	// System.Int32 System.String::m_stringLength
@@ -267,7 +267,7 @@ public:
 
 
 // System.ValueType
-struct  ValueType_tDBF999C1B75C48C68621878250DBF6CDBCF51E52  : public RuntimeObject
+struct ValueType_tDBF999C1B75C48C68621878250DBF6CDBCF51E52  : public RuntimeObject
 {
 public:
 
@@ -284,7 +284,7 @@ struct ValueType_tDBF999C1B75C48C68621878250DBF6CDBCF51E52_marshaled_com
 };
 
 // System.Boolean
-struct  Boolean_t07D1E3F34E4813023D64F584DFF7B34C9D922F37 
+struct Boolean_t07D1E3F34E4813023D64F584DFF7B34C9D922F37 
 {
 public:
 	// System.Boolean System.Boolean::m_value
@@ -330,7 +330,7 @@ public:
 
 
 // System.Enum
-struct  Enum_t23B90B40F60E677A8025267341651C94AE079CDA  : public ValueType_tDBF999C1B75C48C68621878250DBF6CDBCF51E52
+struct Enum_t23B90B40F60E677A8025267341651C94AE079CDA  : public ValueType_tDBF999C1B75C48C68621878250DBF6CDBCF51E52
 {
 public:
 
@@ -364,7 +364,7 @@ struct Enum_t23B90B40F60E677A8025267341651C94AE079CDA_marshaled_com
 };
 
 // System.Int32
-struct  Int32_tFDE5F8CD43D10453F6A2E0C77FE48C6CC7009046 
+struct Int32_tFDE5F8CD43D10453F6A2E0C77FE48C6CC7009046 
 {
 public:
 	// System.Int32 System.Int32::m_value
@@ -382,7 +382,7 @@ public:
 
 
 // System.Int64
-struct  Int64_t378EE0D608BD3107E77238E85F30D2BBD46981F3 
+struct Int64_t378EE0D608BD3107E77238E85F30D2BBD46981F3 
 {
 public:
 	// System.Int64 System.Int64::m_value
@@ -400,7 +400,7 @@ public:
 
 
 // System.IntPtr
-struct  IntPtr_t 
+struct IntPtr_t 
 {
 public:
 	// System.Void* System.IntPtr::m_value
@@ -434,7 +434,7 @@ public:
 
 
 // System.Void
-struct  Void_t700C6383A2A510C2CF4DD86DABD5CA9FF70ADAC5 
+struct Void_t700C6383A2A510C2CF4DD86DABD5CA9FF70ADAC5 
 {
 public:
 	union
@@ -450,7 +450,7 @@ public:
 
 
 // UnityEngine.Analytics.AnalyticsSessionState
-struct  AnalyticsSessionState_t886946F698BCE50BAA2E7418B105E6C4C2F155E6 
+struct AnalyticsSessionState_t886946F698BCE50BAA2E7418B105E6C4C2F155E6 
 {
 public:
 	// System.Int32 UnityEngine.Analytics.AnalyticsSessionState::value__
@@ -468,7 +468,7 @@ public:
 
 
 // System.Delegate
-struct  Delegate_t  : public RuntimeObject
+struct Delegate_t  : public RuntimeObject
 {
 public:
 	// System.IntPtr System.Delegate::method_ptr
@@ -620,7 +620,7 @@ struct Delegate_t_marshaled_com
 };
 
 // UnityEngine.RemoteConfigSettings
-struct  RemoteConfigSettings_tAA5BDD4B4E416F9907EB1B5E6295157CD224A932  : public RuntimeObject
+struct RemoteConfigSettings_tAA5BDD4B4E416F9907EB1B5E6295157CD224A932  : public RuntimeObject
 {
 public:
 	// System.IntPtr UnityEngine.RemoteConfigSettings::m_Ptr
@@ -661,7 +661,7 @@ struct RemoteConfigSettings_tAA5BDD4B4E416F9907EB1B5E6295157CD224A932_marshaled_
 };
 
 // UnityEngine.RemoteConfigSettingsHelper/Tag
-struct  Tag_tF98827947FA5E3148A566C444B306A969C5E371A 
+struct Tag_tF98827947FA5E3148A566C444B306A969C5E371A 
 {
 public:
 	// System.Int32 UnityEngine.RemoteConfigSettingsHelper/Tag::value__
@@ -679,7 +679,7 @@ public:
 
 
 // System.MulticastDelegate
-struct  MulticastDelegate_t  : public Delegate_t
+struct MulticastDelegate_t  : public Delegate_t
 {
 public:
 	// System.Delegate[] System.MulticastDelegate::delegates
@@ -708,7 +708,7 @@ struct MulticastDelegate_t_marshaled_com : public Delegate_t_marshaled_com
 };
 
 // System.Action`1<System.Boolean>
-struct  Action_1_tCE2D770918A65CAD277C08C4E8C05385EA267E83  : public MulticastDelegate_t
+struct Action_1_tCE2D770918A65CAD277C08C4E8C05385EA267E83  : public MulticastDelegate_t
 {
 public:
 
@@ -717,7 +717,7 @@ public:
 
 
 // System.Action`3<System.Boolean,System.Boolean,System.Int32>
-struct  Action_3_t8E4F9AA95E04BAD17F5B7C55ECF0611F34518863  : public MulticastDelegate_t
+struct Action_3_t8E4F9AA95E04BAD17F5B7C55ECF0611F34518863  : public MulticastDelegate_t
 {
 public:
 
@@ -726,7 +726,7 @@ public:
 
 
 // System.Action
-struct  Action_tAF41423D285AE0862865348CF6CE51CD085ABBA6  : public MulticastDelegate_t
+struct Action_tAF41423D285AE0862865348CF6CE51CD085ABBA6  : public MulticastDelegate_t
 {
 public:
 
@@ -735,7 +735,7 @@ public:
 
 
 // UnityEngine.Analytics.AnalyticsSessionInfo/IdentityTokenChanged
-struct  IdentityTokenChanged_t306C7E37727221C44C9D5843455B1FD7286C38B1  : public MulticastDelegate_t
+struct IdentityTokenChanged_t306C7E37727221C44C9D5843455B1FD7286C38B1  : public MulticastDelegate_t
 {
 public:
 
@@ -744,7 +744,7 @@ public:
 
 
 // UnityEngine.Analytics.AnalyticsSessionInfo/SessionStateChanged
-struct  SessionStateChanged_tB042EAE0E6718825B246F7744C738DC80E529ACF  : public MulticastDelegate_t
+struct SessionStateChanged_tB042EAE0E6718825B246F7744C738DC80E529ACF  : public MulticastDelegate_t
 {
 public:
 
@@ -753,7 +753,7 @@ public:
 
 
 // UnityEngine.RemoteSettings/UpdatedEventHandler
-struct  UpdatedEventHandler_tB65DDD5524F88B07DDF23FD1607DF1887404EC55  : public MulticastDelegate_t
+struct UpdatedEventHandler_tB65DDD5524F88B07DDF23FD1607DF1887404EC55  : public MulticastDelegate_t
 {
 public:
 

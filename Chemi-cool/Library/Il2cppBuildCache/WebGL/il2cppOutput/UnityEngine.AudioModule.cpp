@@ -152,7 +152,7 @@ IL2CPP_EXTERN_C_END
 #endif
 
 // <Module>
-struct  U3CModuleU3E_t6975E9BBACF02877D569BBF09DC44C44D3C346CB 
+struct U3CModuleU3E_t6975E9BBACF02877D569BBF09DC44C44D3C346CB 
 {
 public:
 
@@ -168,7 +168,7 @@ struct Il2CppArrayBounds;
 
 
 // UnityEngine.Experimental.Audio.AudioSampleProvider
-struct  AudioSampleProvider_tD8B613D55D09D6CE86B851A5D8F33560FFCC705B  : public RuntimeObject
+struct AudioSampleProvider_tD8B613D55D09D6CE86B851A5D8F33560FFCC705B  : public RuntimeObject
 {
 public:
 	// UnityEngine.Experimental.Audio.AudioSampleProvider/SampleFramesHandler UnityEngine.Experimental.Audio.AudioSampleProvider::sampleFramesAvailable
@@ -198,7 +198,7 @@ public:
 
 
 // UnityEngine.AudioSettings
-struct  AudioSettings_t1941E7DE9FEF65F7742713EB862D3025244FCB08  : public RuntimeObject
+struct AudioSettings_t1941E7DE9FEF65F7742713EB862D3025244FCB08  : public RuntimeObject
 {
 public:
 
@@ -224,7 +224,7 @@ public:
 
 
 // System.String
-struct  String_t  : public RuntimeObject
+struct String_t  : public RuntimeObject
 {
 public:
 	// System.Int32 System.String::m_stringLength
@@ -269,7 +269,7 @@ public:
 
 
 // System.ValueType
-struct  ValueType_tDBF999C1B75C48C68621878250DBF6CDBCF51E52  : public RuntimeObject
+struct ValueType_tDBF999C1B75C48C68621878250DBF6CDBCF51E52  : public RuntimeObject
 {
 public:
 
@@ -286,7 +286,7 @@ struct ValueType_tDBF999C1B75C48C68621878250DBF6CDBCF51E52_marshaled_com
 };
 
 // System.Boolean
-struct  Boolean_t07D1E3F34E4813023D64F584DFF7B34C9D922F37 
+struct Boolean_t07D1E3F34E4813023D64F584DFF7B34C9D922F37 
 {
 public:
 	// System.Boolean System.Boolean::m_value
@@ -332,7 +332,7 @@ public:
 
 
 // System.Int32
-struct  Int32_tFDE5F8CD43D10453F6A2E0C77FE48C6CC7009046 
+struct Int32_tFDE5F8CD43D10453F6A2E0C77FE48C6CC7009046 
 {
 public:
 	// System.Int32 System.Int32::m_value
@@ -350,7 +350,7 @@ public:
 
 
 // System.IntPtr
-struct  IntPtr_t 
+struct IntPtr_t 
 {
 public:
 	// System.Void* System.IntPtr::m_value
@@ -384,7 +384,7 @@ public:
 
 
 // System.Single
-struct  Single_tE07797BA3C98D4CA9B5A19413C19A76688AB899E 
+struct Single_tE07797BA3C98D4CA9B5A19413C19A76688AB899E 
 {
 public:
 	// System.Single System.Single::m_value
@@ -402,7 +402,7 @@ public:
 
 
 // System.UInt32
-struct  UInt32_tE60352A06233E4E69DD198BCC67142159F686B15 
+struct UInt32_tE60352A06233E4E69DD198BCC67142159F686B15 
 {
 public:
 	// System.UInt32 System.UInt32::m_value
@@ -420,7 +420,7 @@ public:
 
 
 // System.UInt64
-struct  UInt64_tEC57511B3E3CA2DBA1BEBD434C6983E31C943281 
+struct UInt64_tEC57511B3E3CA2DBA1BEBD434C6983E31C943281 
 {
 public:
 	// System.UInt64 System.UInt64::m_value
@@ -438,7 +438,7 @@ public:
 
 
 // System.Void
-struct  Void_t700C6383A2A510C2CF4DD86DABD5CA9FF70ADAC5 
+struct Void_t700C6383A2A510C2CF4DD86DABD5CA9FF70ADAC5 
 {
 public:
 	union
@@ -454,7 +454,7 @@ public:
 
 
 // System.Delegate
-struct  Delegate_t  : public RuntimeObject
+struct Delegate_t  : public RuntimeObject
 {
 public:
 	// System.IntPtr System.Delegate::method_ptr
@@ -606,7 +606,7 @@ struct Delegate_t_marshaled_com
 };
 
 // UnityEngine.Object
-struct  Object_tF2F3778131EFF286AF62B7B013A170F95A91571A  : public RuntimeObject
+struct Object_tF2F3778131EFF286AF62B7B013A170F95A91571A  : public RuntimeObject
 {
 public:
 	// System.IntPtr UnityEngine.Object::m_CachedPtr
@@ -650,7 +650,7 @@ struct Object_tF2F3778131EFF286AF62B7B013A170F95A91571A_marshaled_com
 };
 
 // UnityEngine.Playables.PlayableHandle
-struct  PlayableHandle_t50DCD240B0400DDAD0822C13E5DBC7AD64DC027A 
+struct PlayableHandle_t50DCD240B0400DDAD0822C13E5DBC7AD64DC027A 
 {
 public:
 	// System.IntPtr UnityEngine.Playables.PlayableHandle::m_Handle
@@ -694,7 +694,7 @@ public:
 
 
 // UnityEngine.Playables.PlayableOutputHandle
-struct  PlayableOutputHandle_t8C84BCDB2AECFEDBCF0E7CC7CDBADD517D148CD1 
+struct PlayableOutputHandle_t8C84BCDB2AECFEDBCF0E7CC7CDBADD517D148CD1 
 {
 public:
 	// System.IntPtr UnityEngine.Playables.PlayableOutputHandle::m_Handle
@@ -738,7 +738,7 @@ public:
 
 
 // UnityEngine.AudioClip
-struct  AudioClip_t16D2E573E7CC1C5118D8EE0F0692D46866A1C0EE  : public Object_tF2F3778131EFF286AF62B7B013A170F95A91571A
+struct AudioClip_t16D2E573E7CC1C5118D8EE0F0692D46866A1C0EE  : public Object_tF2F3778131EFF286AF62B7B013A170F95A91571A
 {
 public:
 	// UnityEngine.AudioClip/PCMReaderCallback UnityEngine.AudioClip::m_PCMReaderCallback
@@ -768,7 +768,7 @@ public:
 
 
 // UnityEngine.Audio.AudioClipPlayable
-struct  AudioClipPlayable_t3574B22284CE09FDEAD15BD18D66C4A21D59FA5F 
+struct AudioClipPlayable_t3574B22284CE09FDEAD15BD18D66C4A21D59FA5F 
 {
 public:
 	// UnityEngine.Playables.PlayableHandle UnityEngine.Audio.AudioClipPlayable::m_Handle
@@ -786,7 +786,7 @@ public:
 
 
 // UnityEngine.Audio.AudioMixerPlayable
-struct  AudioMixerPlayable_t80531461F1E238E237D7BB2BAE7E031ABDE95C4A 
+struct AudioMixerPlayable_t80531461F1E238E237D7BB2BAE7E031ABDE95C4A 
 {
 public:
 	// UnityEngine.Playables.PlayableHandle UnityEngine.Audio.AudioMixerPlayable::m_Handle
@@ -804,7 +804,7 @@ public:
 
 
 // UnityEngine.Audio.AudioPlayableOutput
-struct  AudioPlayableOutput_t9809407FDE5B55DD34088A665C8C53346AC76EE8 
+struct AudioPlayableOutput_t9809407FDE5B55DD34088A665C8C53346AC76EE8 
 {
 public:
 	// UnityEngine.Playables.PlayableOutputHandle UnityEngine.Audio.AudioPlayableOutput::m_Handle
@@ -822,7 +822,7 @@ public:
 
 
 // UnityEngine.Component
-struct  Component_t62FBC8D2420DA4BE9037AFE430740F6B3EECA684  : public Object_tF2F3778131EFF286AF62B7B013A170F95A91571A
+struct Component_t62FBC8D2420DA4BE9037AFE430740F6B3EECA684  : public Object_tF2F3778131EFF286AF62B7B013A170F95A91571A
 {
 public:
 
@@ -831,7 +831,7 @@ public:
 
 
 // System.MulticastDelegate
-struct  MulticastDelegate_t  : public Delegate_t
+struct MulticastDelegate_t  : public Delegate_t
 {
 public:
 	// System.Delegate[] System.MulticastDelegate::delegates
@@ -860,7 +860,7 @@ struct MulticastDelegate_t_marshaled_com : public Delegate_t_marshaled_com
 };
 
 // UnityEngine.Behaviour
-struct  Behaviour_t1A3DDDCF73B4627928FBFE02ED52B7251777DBD9  : public Component_t62FBC8D2420DA4BE9037AFE430740F6B3EECA684
+struct Behaviour_t1A3DDDCF73B4627928FBFE02ED52B7251777DBD9  : public Component_t62FBC8D2420DA4BE9037AFE430740F6B3EECA684
 {
 public:
 
@@ -869,7 +869,7 @@ public:
 
 
 // UnityEngine.AudioClip/PCMReaderCallback
-struct  PCMReaderCallback_t9CA1437D36509A9FAC5EDD8FF2BC3259C24D0E0B  : public MulticastDelegate_t
+struct PCMReaderCallback_t9CA1437D36509A9FAC5EDD8FF2BC3259C24D0E0B  : public MulticastDelegate_t
 {
 public:
 
@@ -878,7 +878,7 @@ public:
 
 
 // UnityEngine.AudioClip/PCMSetPositionCallback
-struct  PCMSetPositionCallback_tBDD99E7C0697687F1E7B06CDD5DE444A3709CF4C  : public MulticastDelegate_t
+struct PCMSetPositionCallback_tBDD99E7C0697687F1E7B06CDD5DE444A3709CF4C  : public MulticastDelegate_t
 {
 public:
 
@@ -887,7 +887,7 @@ public:
 
 
 // UnityEngine.Experimental.Audio.AudioSampleProvider/SampleFramesHandler
-struct  SampleFramesHandler_tCF0215103F7BD1AD5397731D86079D6E68AC9487  : public MulticastDelegate_t
+struct SampleFramesHandler_tCF0215103F7BD1AD5397731D86079D6E68AC9487  : public MulticastDelegate_t
 {
 public:
 
@@ -896,7 +896,7 @@ public:
 
 
 // UnityEngine.AudioSettings/AudioConfigurationChangeHandler
-struct  AudioConfigurationChangeHandler_t1A997C51DF7B553A94DAD358F8D968308994774A  : public MulticastDelegate_t
+struct AudioConfigurationChangeHandler_t1A997C51DF7B553A94DAD358F8D968308994774A  : public MulticastDelegate_t
 {
 public:
 
@@ -905,7 +905,7 @@ public:
 
 
 // UnityEngine.AudioBehaviour
-struct  AudioBehaviour_tB44966D47AD43C50C7294AEE9B57574E55AACA4A  : public Behaviour_t1A3DDDCF73B4627928FBFE02ED52B7251777DBD9
+struct AudioBehaviour_tB44966D47AD43C50C7294AEE9B57574E55AACA4A  : public Behaviour_t1A3DDDCF73B4627928FBFE02ED52B7251777DBD9
 {
 public:
 
@@ -914,7 +914,7 @@ public:
 
 
 // UnityEngine.AudioListener
-struct  AudioListener_t03B51B434A263F9AFD07AC8AA5CB4FE6402252A3  : public AudioBehaviour_tB44966D47AD43C50C7294AEE9B57574E55AACA4A
+struct AudioListener_t03B51B434A263F9AFD07AC8AA5CB4FE6402252A3  : public AudioBehaviour_tB44966D47AD43C50C7294AEE9B57574E55AACA4A
 {
 public:
 
@@ -923,7 +923,7 @@ public:
 
 
 // UnityEngine.AudioSource
-struct  AudioSource_tC4BF65AF8CDCAA63724BB3CA59A7A29249269E6B  : public AudioBehaviour_tB44966D47AD43C50C7294AEE9B57574E55AACA4A
+struct AudioSource_tC4BF65AF8CDCAA63724BB3CA59A7A29249269E6B  : public AudioBehaviour_tB44966D47AD43C50C7294AEE9B57574E55AACA4A
 {
 public:
 

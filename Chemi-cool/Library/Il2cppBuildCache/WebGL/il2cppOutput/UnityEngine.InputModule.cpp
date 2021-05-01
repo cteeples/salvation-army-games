@@ -60,7 +60,7 @@ IL2CPP_EXTERN_C_END
 #endif
 
 // <Module>
-struct  U3CModuleU3E_tBD55D819095BEB8CFBE9189C81CA6F594153328E 
+struct U3CModuleU3E_tBD55D819095BEB8CFBE9189C81CA6F594153328E 
 {
 public:
 
@@ -76,7 +76,7 @@ struct Il2CppArrayBounds;
 
 
 // UnityEngineInternal.Input.NativeInputSystem
-struct  NativeInputSystem_t572C01B054179054C92FCEFDB084BB5E8451BEA8  : public RuntimeObject
+struct NativeInputSystem_t572C01B054179054C92FCEFDB084BB5E8451BEA8  : public RuntimeObject
 {
 public:
 
@@ -135,7 +135,7 @@ public:
 
 
 // System.String
-struct  String_t  : public RuntimeObject
+struct String_t  : public RuntimeObject
 {
 public:
 	// System.Int32 System.String::m_stringLength
@@ -180,7 +180,7 @@ public:
 
 
 // System.ValueType
-struct  ValueType_tDBF999C1B75C48C68621878250DBF6CDBCF51E52  : public RuntimeObject
+struct ValueType_tDBF999C1B75C48C68621878250DBF6CDBCF51E52  : public RuntimeObject
 {
 public:
 
@@ -197,7 +197,7 @@ struct ValueType_tDBF999C1B75C48C68621878250DBF6CDBCF51E52_marshaled_com
 };
 
 // System.Boolean
-struct  Boolean_t07D1E3F34E4813023D64F584DFF7B34C9D922F37 
+struct Boolean_t07D1E3F34E4813023D64F584DFF7B34C9D922F37 
 {
 public:
 	// System.Boolean System.Boolean::m_value
@@ -243,7 +243,7 @@ public:
 
 
 // System.Enum
-struct  Enum_t23B90B40F60E677A8025267341651C94AE079CDA  : public ValueType_tDBF999C1B75C48C68621878250DBF6CDBCF51E52
+struct Enum_t23B90B40F60E677A8025267341651C94AE079CDA  : public ValueType_tDBF999C1B75C48C68621878250DBF6CDBCF51E52
 {
 public:
 
@@ -277,7 +277,7 @@ struct Enum_t23B90B40F60E677A8025267341651C94AE079CDA_marshaled_com
 };
 
 // System.Int32
-struct  Int32_tFDE5F8CD43D10453F6A2E0C77FE48C6CC7009046 
+struct Int32_tFDE5F8CD43D10453F6A2E0C77FE48C6CC7009046 
 {
 public:
 	// System.Int32 System.Int32::m_value
@@ -295,7 +295,7 @@ public:
 
 
 // System.IntPtr
-struct  IntPtr_t 
+struct IntPtr_t 
 {
 public:
 	// System.Void* System.IntPtr::m_value
@@ -329,7 +329,7 @@ public:
 
 
 // UnityEngineInternal.Input.NativeInputEventBuffer
-struct  NativeInputEventBuffer_t023B708C62AA03D87D92E48DC9C472FDAC4375B4 
+struct NativeInputEventBuffer_t023B708C62AA03D87D92E48DC9C472FDAC4375B4 
 {
 public:
 	union
@@ -437,7 +437,7 @@ public:
 
 
 // System.Void
-struct  Void_t700C6383A2A510C2CF4DD86DABD5CA9FF70ADAC5 
+struct Void_t700C6383A2A510C2CF4DD86DABD5CA9FF70ADAC5 
 {
 public:
 	union
@@ -453,7 +453,7 @@ public:
 
 
 // System.Delegate
-struct  Delegate_t  : public RuntimeObject
+struct Delegate_t  : public RuntimeObject
 {
 public:
 	// System.IntPtr System.Delegate::method_ptr
@@ -605,7 +605,7 @@ struct Delegate_t_marshaled_com
 };
 
 // System.Int32Enum
-struct  Int32Enum_t9B63F771913F2B6D586F1173B44A41FBE26F6B5C 
+struct Int32Enum_t9B63F771913F2B6D586F1173B44A41FBE26F6B5C 
 {
 public:
 	// System.Int32 System.Int32Enum::value__
@@ -623,7 +623,7 @@ public:
 
 
 // UnityEngineInternal.Input.NativeInputUpdateType
-struct  NativeInputUpdateType_t4225BE835D53F0F56168B34BEF726468058A5C94 
+struct NativeInputUpdateType_t4225BE835D53F0F56168B34BEF726468058A5C94 
 {
 public:
 	// System.Int32 UnityEngineInternal.Input.NativeInputUpdateType::value__
@@ -641,7 +641,7 @@ public:
 
 
 // System.MulticastDelegate
-struct  MulticastDelegate_t  : public Delegate_t
+struct MulticastDelegate_t  : public Delegate_t
 {
 public:
 	// System.Delegate[] System.MulticastDelegate::delegates
@@ -670,7 +670,7 @@ struct MulticastDelegate_t_marshaled_com : public Delegate_t_marshaled_com
 };
 
 // System.Action`1<UnityEngineInternal.Input.NativeInputUpdateType>
-struct  Action_1_t00E4A8EB7B3DEB920C557B08D67DF7101F4ADF69  : public MulticastDelegate_t
+struct Action_1_t00E4A8EB7B3DEB920C557B08D67DF7101F4ADF69  : public MulticastDelegate_t
 {
 public:
 
@@ -679,7 +679,7 @@ public:
 
 
 // System.Action`2<System.Int32,System.String>
-struct  Action_2_t0359A210F354A728FCD80F275D8CF192D61A98C5  : public MulticastDelegate_t
+struct Action_2_t0359A210F354A728FCD80F275D8CF192D61A98C5  : public MulticastDelegate_t
 {
 public:
 
@@ -688,7 +688,7 @@ public:
 
 
 // System.Func`2<UnityEngineInternal.Input.NativeInputUpdateType,System.Boolean>
-struct  Func_2_t9D79DEEDC6C6EC508B371394EC6976EDC57FB472  : public MulticastDelegate_t
+struct Func_2_t9D79DEEDC6C6EC508B371394EC6976EDC57FB472  : public MulticastDelegate_t
 {
 public:
 
@@ -697,7 +697,7 @@ public:
 
 
 // UnityEngineInternal.Input.NativeUpdateCallback
-struct  NativeUpdateCallback_t617743B3361FE4B086E28DDB8EDB4A7AC2490FC6  : public MulticastDelegate_t
+struct NativeUpdateCallback_t617743B3361FE4B086E28DDB8EDB4A7AC2490FC6  : public MulticastDelegate_t
 {
 public:
 

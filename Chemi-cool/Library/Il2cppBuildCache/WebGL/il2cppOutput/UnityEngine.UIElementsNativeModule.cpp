@@ -261,7 +261,7 @@ IL2CPP_EXTERN_C_END
 #endif
 
 // <Module>
-struct  U3CModuleU3E_t7D18733187A931E9811113AAEA88D52F26128295 
+struct U3CModuleU3E_t7D18733187A931E9811113AAEA88D52F26128295 
 {
 public:
 
@@ -273,7 +273,7 @@ public:
 
 
 // System.Linq.EmptyEnumerable`1<System.Object>
-struct  EmptyEnumerable_1_tB6A330001520792410A46A172F103A91B1608883  : public RuntimeObject
+struct EmptyEnumerable_1_tB6A330001520792410A46A172F103A91B1608883  : public RuntimeObject
 {
 public:
 
@@ -299,7 +299,7 @@ public:
 
 
 // System.Collections.Generic.List`1<UnityEngine.Yoga.YogaNode>
-struct  List_1_t5FEBCBE5E15CEDF8B8CBA2B1C4F123E01DDE02C8  : public RuntimeObject
+struct List_1_t5FEBCBE5E15CEDF8B8CBA2B1C4F123E01DDE02C8  : public RuntimeObject
 {
 public:
 	// T[] System.Collections.Generic.List`1::_items
@@ -370,7 +370,7 @@ struct Il2CppArrayBounds;
 
 
 // UnityEngine.Yoga.Native
-struct  Native_tFAF7EACFD900864BAD8C4F8341331AA9D5B1D476  : public RuntimeObject
+struct Native_tFAF7EACFD900864BAD8C4F8341331AA9D5B1D476  : public RuntimeObject
 {
 public:
 
@@ -379,7 +379,7 @@ public:
 
 
 // System.String
-struct  String_t  : public RuntimeObject
+struct String_t  : public RuntimeObject
 {
 public:
 	// System.Int32 System.String::m_stringLength
@@ -424,7 +424,7 @@ public:
 
 
 // UnityEngine.UIElements.UIElementsRuntimeUtilityNative
-struct  UIElementsRuntimeUtilityNative_tD46E29AA27E608332B332CC105C50AF116363578  : public RuntimeObject
+struct UIElementsRuntimeUtilityNative_tD46E29AA27E608332B332CC105C50AF116363578  : public RuntimeObject
 {
 public:
 
@@ -461,7 +461,7 @@ public:
 
 
 // System.ValueType
-struct  ValueType_tDBF999C1B75C48C68621878250DBF6CDBCF51E52  : public RuntimeObject
+struct ValueType_tDBF999C1B75C48C68621878250DBF6CDBCF51E52  : public RuntimeObject
 {
 public:
 
@@ -478,7 +478,7 @@ struct ValueType_tDBF999C1B75C48C68621878250DBF6CDBCF51E52_marshaled_com
 };
 
 // System.Boolean
-struct  Boolean_t07D1E3F34E4813023D64F584DFF7B34C9D922F37 
+struct Boolean_t07D1E3F34E4813023D64F584DFF7B34C9D922F37 
 {
 public:
 	// System.Boolean System.Boolean::m_value
@@ -524,7 +524,7 @@ public:
 
 
 // System.Enum
-struct  Enum_t23B90B40F60E677A8025267341651C94AE079CDA  : public ValueType_tDBF999C1B75C48C68621878250DBF6CDBCF51E52
+struct Enum_t23B90B40F60E677A8025267341651C94AE079CDA  : public ValueType_tDBF999C1B75C48C68621878250DBF6CDBCF51E52
 {
 public:
 
@@ -558,7 +558,7 @@ struct Enum_t23B90B40F60E677A8025267341651C94AE079CDA_marshaled_com
 };
 
 // System.Int32
-struct  Int32_tFDE5F8CD43D10453F6A2E0C77FE48C6CC7009046 
+struct Int32_tFDE5F8CD43D10453F6A2E0C77FE48C6CC7009046 
 {
 public:
 	// System.Int32 System.Int32::m_value
@@ -576,7 +576,7 @@ public:
 
 
 // System.IntPtr
-struct  IntPtr_t 
+struct IntPtr_t 
 {
 public:
 	// System.Void* System.IntPtr::m_value
@@ -610,7 +610,7 @@ public:
 
 
 // System.Single
-struct  Single_tE07797BA3C98D4CA9B5A19413C19A76688AB899E 
+struct Single_tE07797BA3C98D4CA9B5A19413C19A76688AB899E 
 {
 public:
 	// System.Single System.Single::m_value
@@ -628,7 +628,7 @@ public:
 
 
 // System.UInt16
-struct  UInt16_t894EA9D4FB7C799B244E7BBF2DF0EEEDBC77A8BD 
+struct UInt16_t894EA9D4FB7C799B244E7BBF2DF0EEEDBC77A8BD 
 {
 public:
 	// System.UInt16 System.UInt16::m_value
@@ -646,7 +646,7 @@ public:
 
 
 // System.UIntPtr
-struct  UIntPtr_t 
+struct UIntPtr_t 
 {
 public:
 	// System.Void* System.UIntPtr::_pointer
@@ -680,7 +680,7 @@ public:
 
 
 // System.Void
-struct  Void_t700C6383A2A510C2CF4DD86DABD5CA9FF70ADAC5 
+struct Void_t700C6383A2A510C2CF4DD86DABD5CA9FF70ADAC5 
 {
 public:
 	union
@@ -696,7 +696,7 @@ public:
 
 
 // UnityEngine.Yoga.YogaSize
-struct  YogaSize_tC805BF63DE9A9E4B9984B964AB0A1CFA04ADC1FD 
+struct YogaSize_tC805BF63DE9A9E4B9984B964AB0A1CFA04ADC1FD 
 {
 public:
 	// System.Single UnityEngine.Yoga.YogaSize::width
@@ -724,7 +724,7 @@ public:
 
 
 // System.Delegate
-struct  Delegate_t  : public RuntimeObject
+struct Delegate_t  : public RuntimeObject
 {
 public:
 	// System.IntPtr System.Delegate::method_ptr
@@ -876,7 +876,7 @@ struct Delegate_t_marshaled_com
 };
 
 // System.Exception
-struct  Exception_t  : public RuntimeObject
+struct Exception_t  : public RuntimeObject
 {
 public:
 	// System.String System.Exception::_className
@@ -1102,7 +1102,7 @@ struct Exception_t_marshaled_com
 };
 
 // UnityEngine.UIElements.UIR.GfxUpdateBufferRange
-struct  GfxUpdateBufferRange_t11F569267024B2295C7F30C6E951754053C03D66 
+struct GfxUpdateBufferRange_t11F569267024B2295C7F30C6E951754053C03D66 
 {
 public:
 	// System.UInt32 UnityEngine.UIElements.UIR.GfxUpdateBufferRange::offsetFromWriteStart
@@ -1140,7 +1140,7 @@ public:
 
 
 // Unity.Profiling.LowLevel.MarkerFlags
-struct  MarkerFlags_t4A8B5185BAD24803CE9A57187867CB93451AA9E8 
+struct MarkerFlags_t4A8B5185BAD24803CE9A57187867CB93451AA9E8 
 {
 public:
 	// System.UInt16 Unity.Profiling.LowLevel.MarkerFlags::value__
@@ -1158,7 +1158,7 @@ public:
 
 
 // UnityEngine.Object
-struct  Object_tF2F3778131EFF286AF62B7B013A170F95A91571A  : public RuntimeObject
+struct Object_tF2F3778131EFF286AF62B7B013A170F95A91571A  : public RuntimeObject
 {
 public:
 	// System.IntPtr UnityEngine.Object::m_CachedPtr
@@ -1202,7 +1202,7 @@ struct Object_tF2F3778131EFF286AF62B7B013A170F95A91571A_marshaled_com
 };
 
 // Unity.Profiling.ProfilerMarker
-struct  ProfilerMarker_tAE86534C80C5D67768DB3B244D8D139A2E6495E1 
+struct ProfilerMarker_tAE86534C80C5D67768DB3B244D8D139A2E6495E1 
 {
 public:
 	// System.IntPtr Unity.Profiling.ProfilerMarker::m_Ptr
@@ -1220,7 +1220,7 @@ public:
 
 
 // UnityEngine.Yoga.YogaConfig
-struct  YogaConfig_tA06BDF520DE54384107CF42E1E9909DB1C28A7E7  : public RuntimeObject
+struct YogaConfig_tA06BDF520DE54384107CF42E1E9909DB1C28A7E7  : public RuntimeObject
 {
 public:
 	// System.IntPtr UnityEngine.Yoga.YogaConfig::_ygConfig
@@ -1266,7 +1266,7 @@ public:
 
 
 // UnityEngine.Yoga.YogaLogLevel
-struct  YogaLogLevel_t06C7639E4D3A1CF30522D78A3E65C09C4FBF66E7 
+struct YogaLogLevel_t06C7639E4D3A1CF30522D78A3E65C09C4FBF66E7 
 {
 public:
 	// System.Int32 UnityEngine.Yoga.YogaLogLevel::value__
@@ -1284,7 +1284,7 @@ public:
 
 
 // UnityEngine.Yoga.YogaMeasureMode
-struct  YogaMeasureMode_tC1410798E2727CAFC5099EC884C7649A5B4D8DC8 
+struct YogaMeasureMode_tC1410798E2727CAFC5099EC884C7649A5B4D8DC8 
 {
 public:
 	// System.Int32 UnityEngine.Yoga.YogaMeasureMode::value__
@@ -1302,7 +1302,7 @@ public:
 
 
 // UnityEngine.Yoga.YogaNode
-struct  YogaNode_tD3DA875FF65A4C50F0F6F05A9F8D114FF5A9D9A6  : public RuntimeObject
+struct YogaNode_tD3DA875FF65A4C50F0F6F05A9F8D114FF5A9D9A6  : public RuntimeObject
 {
 public:
 	// System.IntPtr UnityEngine.Yoga.YogaNode::_ygNode
@@ -1386,7 +1386,7 @@ public:
 
 
 // UnityEngine.Component
-struct  Component_t62FBC8D2420DA4BE9037AFE430740F6B3EECA684  : public Object_tF2F3778131EFF286AF62B7B013A170F95A91571A
+struct Component_t62FBC8D2420DA4BE9037AFE430740F6B3EECA684  : public Object_tF2F3778131EFF286AF62B7B013A170F95A91571A
 {
 public:
 
@@ -1395,7 +1395,7 @@ public:
 
 
 // System.MulticastDelegate
-struct  MulticastDelegate_t  : public Delegate_t
+struct MulticastDelegate_t  : public Delegate_t
 {
 public:
 	// System.Delegate[] System.MulticastDelegate::delegates
@@ -1424,7 +1424,7 @@ struct MulticastDelegate_t_marshaled_com : public Delegate_t_marshaled_com
 };
 
 // System.SystemException
-struct  SystemException_tC551B4D6EE3772B5F32C71EE8C719F4B43ECCC62  : public Exception_t
+struct SystemException_tC551B4D6EE3772B5F32C71EE8C719F4B43ECCC62  : public Exception_t
 {
 public:
 
@@ -1433,7 +1433,7 @@ public:
 
 
 // UnityEngine.UIElements.UIR.Utility
-struct  Utility_t6BB300FC47C7086829155B2BFB07A6EA848C621D  : public RuntimeObject
+struct Utility_t6BB300FC47C7086829155B2BFB07A6EA848C621D  : public RuntimeObject
 {
 public:
 
@@ -1535,7 +1535,7 @@ public:
 
 
 // System.Action`1<System.Boolean>
-struct  Action_1_tCE2D770918A65CAD277C08C4E8C05385EA267E83  : public MulticastDelegate_t
+struct Action_1_tCE2D770918A65CAD277C08C4E8C05385EA267E83  : public MulticastDelegate_t
 {
 public:
 
@@ -1544,7 +1544,7 @@ public:
 
 
 // System.Action`1<UnityEngine.Camera>
-struct  Action_1_tF542A16B67D2A30E5C824E6EF0DD0ED4A065680B  : public MulticastDelegate_t
+struct Action_1_tF542A16B67D2A30E5C824E6EF0DD0ED4A065680B  : public MulticastDelegate_t
 {
 public:
 
@@ -1553,7 +1553,7 @@ public:
 
 
 // System.Action`1<System.IntPtr>
-struct  Action_1_t35A46FAEE6B0A26D311444DF75B6EAFC59EBD914  : public MulticastDelegate_t
+struct Action_1_t35A46FAEE6B0A26D311444DF75B6EAFC59EBD914  : public MulticastDelegate_t
 {
 public:
 
@@ -1562,7 +1562,7 @@ public:
 
 
 // System.Action
-struct  Action_tAF41423D285AE0862865348CF6CE51CD085ABBA6  : public MulticastDelegate_t
+struct Action_tAF41423D285AE0862865348CF6CE51CD085ABBA6  : public MulticastDelegate_t
 {
 public:
 
@@ -1571,7 +1571,7 @@ public:
 
 
 // UnityEngine.Yoga.BaselineFunction
-struct  BaselineFunction_t7C180BD26F5C8850EEDDBEC2471D9A466EF0D24A  : public MulticastDelegate_t
+struct BaselineFunction_t7C180BD26F5C8850EEDDBEC2471D9A466EF0D24A  : public MulticastDelegate_t
 {
 public:
 
@@ -1580,7 +1580,7 @@ public:
 
 
 // UnityEngine.Behaviour
-struct  Behaviour_t1A3DDDCF73B4627928FBFE02ED52B7251777DBD9  : public Component_t62FBC8D2420DA4BE9037AFE430740F6B3EECA684
+struct Behaviour_t1A3DDDCF73B4627928FBFE02ED52B7251777DBD9  : public Component_t62FBC8D2420DA4BE9037AFE430740F6B3EECA684
 {
 public:
 
@@ -1589,7 +1589,7 @@ public:
 
 
 // System.InvalidOperationException
-struct  InvalidOperationException_t10D3EE59AD28EC641ACEE05BCA4271A527E5ECAB  : public SystemException_tC551B4D6EE3772B5F32C71EE8C719F4B43ECCC62
+struct InvalidOperationException_t10D3EE59AD28EC641ACEE05BCA4271A527E5ECAB  : public SystemException_tC551B4D6EE3772B5F32C71EE8C719F4B43ECCC62
 {
 public:
 
@@ -1598,7 +1598,7 @@ public:
 
 
 // UnityEngine.Yoga.Logger
-struct  Logger_t4B20A24F23C7E3ACC57738D5E2C325474762C5D2  : public MulticastDelegate_t
+struct Logger_t4B20A24F23C7E3ACC57738D5E2C325474762C5D2  : public MulticastDelegate_t
 {
 public:
 
@@ -1607,7 +1607,7 @@ public:
 
 
 // UnityEngine.Yoga.MeasureFunction
-struct  MeasureFunction_tBD19E8A44621B4D553785068ECCF0439CD9666C6  : public MulticastDelegate_t
+struct MeasureFunction_tBD19E8A44621B4D553785068ECCF0439CD9666C6  : public MulticastDelegate_t
 {
 public:
 
@@ -1616,7 +1616,7 @@ public:
 
 
 // UnityEngine.Camera
-struct  Camera_tC44E094BAB53AFC8A014C6F9CFCE11F4FC38006C  : public Behaviour_t1A3DDDCF73B4627928FBFE02ED52B7251777DBD9
+struct Camera_tC44E094BAB53AFC8A014C6F9CFCE11F4FC38006C  : public Behaviour_t1A3DDDCF73B4627928FBFE02ED52B7251777DBD9
 {
 public:
 

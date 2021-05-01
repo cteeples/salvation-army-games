@@ -18,6 +18,8 @@ struct List_1_t3F94120C77410A62EAE48421CF166B83AB95A2F5;
 struct List_1_t3926283FA9AE49778D95220056CEBFB01D034379;
 // System.Collections.Generic.List`1<UnityEngine.Rigidbody2D>
 struct List_1_t61A36FEC0532A7CC39DB1770BFA5C1967348FAC1;
+// UnityEngine.Collider2D[]
+struct Collider2DU5BU5D_t00DF4453C28C5F1D2EE97FAE6CF865E53DE189D1;
 // UnityEngine.ContactPoint2D[]
 struct ContactPoint2DU5BU5D_t7AE0F95E9BFC90DE859575689AA76B503D433277;
 // System.Object[]
@@ -26,10 +28,14 @@ struct ObjectU5BU5D_tC1F4EE0DB0B7300255F5FD4AF64FE4C585CF5ADE;
 struct RaycastHit2DU5BU5D_tDEABD9FBBA32C695C932A32A1B8FB9C06A496F09;
 // UnityEngine.Rigidbody2D[]
 struct Rigidbody2DU5BU5D_t9CE3D06C92F81A1266F9DDF9BE6180FE19CC5CEF;
+// UnityEngine.Behaviour
+struct Behaviour_t1A3DDDCF73B4627928FBFE02ED52B7251777DBD9;
 // UnityEngine.Collider2D
 struct Collider2D_tDDBF081328B83D21D0BA3B5036D77B32528BA722;
 // UnityEngine.Object
 struct Object_tF2F3778131EFF286AF62B7B013A170F95A91571A;
+// UnityEngine.Rigidbody2D
+struct Rigidbody2D_tD23204FEE9CB4A36737043B97FD409DE05D5DCE5;
 // System.String
 struct String_t;
 // System.Void
@@ -47,6 +53,7 @@ IL2CPP_EXTERN_C String_t* _stringLiteral21ACE806CE655297BC379B3AD17E97F0A68B6AEC
 IL2CPP_EXTERN_C const RuntimeMethod* List_1__ctor_m42BFD7A7FC288F4627CD724F28FF73E9BC0FE7AB_RuntimeMethod_var;
 struct ContactPoint2D_t5A4C242ABAE740C565BF01A35CEE279058E66A62 ;
 
+struct Collider2DU5BU5D_t00DF4453C28C5F1D2EE97FAE6CF865E53DE189D1;
 struct ContactPoint2DU5BU5D_t7AE0F95E9BFC90DE859575689AA76B503D433277;
 struct ObjectU5BU5D_tC1F4EE0DB0B7300255F5FD4AF64FE4C585CF5ADE;
 struct RaycastHit2DU5BU5D_tDEABD9FBBA32C695C932A32A1B8FB9C06A496F09;
@@ -61,7 +68,7 @@ IL2CPP_EXTERN_C_END
 #endif
 
 // <Module>
-struct  U3CModuleU3E_tB9AD1E70EEC6CD05D7E857DE3C07E77B470C8679 
+struct U3CModuleU3E_tB9AD1E70EEC6CD05D7E857DE3C07E77B470C8679 
 {
 public:
 
@@ -73,7 +80,7 @@ public:
 
 
 // System.Collections.Generic.List`1<UnityEngine.RaycastHit2D>
-struct  List_1_t3926283FA9AE49778D95220056CEBFB01D034379  : public RuntimeObject
+struct List_1_t3926283FA9AE49778D95220056CEBFB01D034379  : public RuntimeObject
 {
 public:
 	// T[] System.Collections.Generic.List`1::_items
@@ -140,7 +147,7 @@ public:
 
 
 // System.Collections.Generic.List`1<UnityEngine.Rigidbody2D>
-struct  List_1_t61A36FEC0532A7CC39DB1770BFA5C1967348FAC1  : public RuntimeObject
+struct List_1_t61A36FEC0532A7CC39DB1770BFA5C1967348FAC1  : public RuntimeObject
 {
 public:
 	// T[] System.Collections.Generic.List`1::_items
@@ -211,7 +218,7 @@ struct Il2CppArrayBounds;
 
 
 // UnityEngine.Physics2D
-struct  Physics2D_t1C1ECE6BA2F958C5C1440DDB9E9A5DAAA8F86D92  : public RuntimeObject
+struct Physics2D_t1C1ECE6BA2F958C5C1440DDB9E9A5DAAA8F86D92  : public RuntimeObject
 {
 public:
 
@@ -237,7 +244,7 @@ public:
 
 
 // System.String
-struct  String_t  : public RuntimeObject
+struct String_t  : public RuntimeObject
 {
 public:
 	// System.Int32 System.String::m_stringLength
@@ -282,7 +289,7 @@ public:
 
 
 // System.ValueType
-struct  ValueType_tDBF999C1B75C48C68621878250DBF6CDBCF51E52  : public RuntimeObject
+struct ValueType_tDBF999C1B75C48C68621878250DBF6CDBCF51E52  : public RuntimeObject
 {
 public:
 
@@ -299,7 +306,7 @@ struct ValueType_tDBF999C1B75C48C68621878250DBF6CDBCF51E52_marshaled_com
 };
 
 // System.Boolean
-struct  Boolean_t07D1E3F34E4813023D64F584DFF7B34C9D922F37 
+struct Boolean_t07D1E3F34E4813023D64F584DFF7B34C9D922F37 
 {
 public:
 	// System.Boolean System.Boolean::m_value
@@ -345,7 +352,7 @@ public:
 
 
 // System.Int32
-struct  Int32_tFDE5F8CD43D10453F6A2E0C77FE48C6CC7009046 
+struct Int32_tFDE5F8CD43D10453F6A2E0C77FE48C6CC7009046 
 {
 public:
 	// System.Int32 System.Int32::m_value
@@ -363,7 +370,7 @@ public:
 
 
 // System.IntPtr
-struct  IntPtr_t 
+struct IntPtr_t 
 {
 public:
 	// System.Void* System.IntPtr::m_value
@@ -397,7 +404,7 @@ public:
 
 
 // UnityEngine.LayerMask
-struct  LayerMask_t5FA647D8C300EA0621360CA4424717C3C73190A8 
+struct LayerMask_t5FA647D8C300EA0621360CA4424717C3C73190A8 
 {
 public:
 	// System.Int32 UnityEngine.LayerMask::m_Mask
@@ -415,7 +422,7 @@ public:
 
 
 // UnityEngine.PhysicsScene2D
-struct  PhysicsScene2D_tB68D090292BC3369F94CBB7496FE96EB00853E48 
+struct PhysicsScene2D_tB68D090292BC3369F94CBB7496FE96EB00853E48 
 {
 public:
 	// System.Int32 UnityEngine.PhysicsScene2D::m_Handle
@@ -433,7 +440,7 @@ public:
 
 
 // System.Single
-struct  Single_tE07797BA3C98D4CA9B5A19413C19A76688AB899E 
+struct Single_tE07797BA3C98D4CA9B5A19413C19A76688AB899E 
 {
 public:
 	// System.Single System.Single::m_value
@@ -451,7 +458,7 @@ public:
 
 
 // UnityEngine.Vector2
-struct  Vector2_tBB32F2736AEC229A7BFBCE18197EC0F6AC7EC2D9 
+struct Vector2_tBB32F2736AEC229A7BFBCE18197EC0F6AC7EC2D9 
 {
 public:
 	// System.Single UnityEngine.Vector2::x
@@ -565,7 +572,7 @@ public:
 
 
 // UnityEngine.Vector3
-struct  Vector3_t65B972D6A585A0A5B63153CF1177A90D3C90D65E 
+struct Vector3_t65B972D6A585A0A5B63153CF1177A90D3C90D65E 
 {
 public:
 	// System.Single UnityEngine.Vector3::x
@@ -709,7 +716,7 @@ public:
 
 
 // System.Void
-struct  Void_t700C6383A2A510C2CF4DD86DABD5CA9FF70ADAC5 
+struct Void_t700C6383A2A510C2CF4DD86DABD5CA9FF70ADAC5 
 {
 public:
 	union
@@ -725,7 +732,7 @@ public:
 
 
 // UnityEngine.Collision2D
-struct  Collision2D_t95B5FD331CE95276D3658140844190B485D26564  : public RuntimeObject
+struct Collision2D_t95B5FD331CE95276D3658140844190B485D26564  : public RuntimeObject
 {
 public:
 	// System.Int32 UnityEngine.Collision2D::m_Collider
@@ -851,7 +858,7 @@ struct Collision2D_t95B5FD331CE95276D3658140844190B485D26564_marshaled_com
 };
 
 // UnityEngine.ContactFilter2D
-struct  ContactFilter2D_t82BBB159A7E392A24921803A0E79669F4E34DFCB 
+struct ContactFilter2D_t82BBB159A7E392A24921803A0E79669F4E34DFCB 
 {
 public:
 	// System.Boolean UnityEngine.ContactFilter2D::useTriggers
@@ -999,7 +1006,7 @@ struct ContactFilter2D_t82BBB159A7E392A24921803A0E79669F4E34DFCB_marshaled_com
 };
 
 // UnityEngine.ContactPoint2D
-struct  ContactPoint2D_t5A4C242ABAE740C565BF01A35CEE279058E66A62 
+struct ContactPoint2D_t5A4C242ABAE740C565BF01A35CEE279058E66A62 
 {
 public:
 	// UnityEngine.Vector2 UnityEngine.ContactPoint2D::m_Point
@@ -1117,7 +1124,7 @@ public:
 
 
 // UnityEngine.Object
-struct  Object_tF2F3778131EFF286AF62B7B013A170F95A91571A  : public RuntimeObject
+struct Object_tF2F3778131EFF286AF62B7B013A170F95A91571A  : public RuntimeObject
 {
 public:
 	// System.IntPtr UnityEngine.Object::m_CachedPtr
@@ -1161,7 +1168,7 @@ struct Object_tF2F3778131EFF286AF62B7B013A170F95A91571A_marshaled_com
 };
 
 // UnityEngine.Ray
-struct  Ray_t2E9E67CC8B03EE6ED2BBF3D2C9C96DDF70E1D5E6 
+struct Ray_t2E9E67CC8B03EE6ED2BBF3D2C9C96DDF70E1D5E6 
 {
 public:
 	// UnityEngine.Vector3 UnityEngine.Ray::m_Origin
@@ -1189,7 +1196,7 @@ public:
 
 
 // UnityEngine.RaycastHit2D
-struct  RaycastHit2D_t210878DAEBC96C1F69DF9883C454758724A106A4 
+struct RaycastHit2D_t210878DAEBC96C1F69DF9883C454758724A106A4 
 {
 public:
 	// UnityEngine.Vector2 UnityEngine.RaycastHit2D::m_Centroid
@@ -1257,7 +1264,7 @@ public:
 
 
 // UnityEngine.Component
-struct  Component_t62FBC8D2420DA4BE9037AFE430740F6B3EECA684  : public Object_tF2F3778131EFF286AF62B7B013A170F95A91571A
+struct Component_t62FBC8D2420DA4BE9037AFE430740F6B3EECA684  : public Object_tF2F3778131EFF286AF62B7B013A170F95A91571A
 {
 public:
 
@@ -1266,7 +1273,7 @@ public:
 
 
 // UnityEngine.Behaviour
-struct  Behaviour_t1A3DDDCF73B4627928FBFE02ED52B7251777DBD9  : public Component_t62FBC8D2420DA4BE9037AFE430740F6B3EECA684
+struct Behaviour_t1A3DDDCF73B4627928FBFE02ED52B7251777DBD9  : public Component_t62FBC8D2420DA4BE9037AFE430740F6B3EECA684
 {
 public:
 
@@ -1275,7 +1282,7 @@ public:
 
 
 // UnityEngine.Rigidbody2D
-struct  Rigidbody2D_tD23204FEE9CB4A36737043B97FD409DE05D5DCE5  : public Component_t62FBC8D2420DA4BE9037AFE430740F6B3EECA684
+struct Rigidbody2D_tD23204FEE9CB4A36737043B97FD409DE05D5DCE5  : public Component_t62FBC8D2420DA4BE9037AFE430740F6B3EECA684
 {
 public:
 
@@ -1284,7 +1291,7 @@ public:
 
 
 // UnityEngine.Collider2D
-struct  Collider2D_tDDBF081328B83D21D0BA3B5036D77B32528BA722  : public Behaviour_t1A3DDDCF73B4627928FBFE02ED52B7251777DBD9
+struct Collider2D_tDDBF081328B83D21D0BA3B5036D77B32528BA722  : public Behaviour_t1A3DDDCF73B4627928FBFE02ED52B7251777DBD9
 {
 public:
 
@@ -1293,7 +1300,7 @@ public:
 
 
 // UnityEngine.BoxCollider2D
-struct  BoxCollider2D_t929D014FDE69DCA5443296C432D640BCBE7E30B9  : public Collider2D_tDDBF081328B83D21D0BA3B5036D77B32528BA722
+struct BoxCollider2D_t929D014FDE69DCA5443296C432D640BCBE7E30B9  : public Collider2D_tDDBF081328B83D21D0BA3B5036D77B32528BA722
 {
 public:
 
@@ -1373,6 +1380,43 @@ public:
 		m_Items[index] = value;
 	}
 };
+// UnityEngine.Collider2D[]
+struct Collider2DU5BU5D_t00DF4453C28C5F1D2EE97FAE6CF865E53DE189D1  : public RuntimeArray
+{
+public:
+	ALIGN_FIELD (8) Collider2D_tDDBF081328B83D21D0BA3B5036D77B32528BA722 * m_Items[1];
+
+public:
+	inline Collider2D_tDDBF081328B83D21D0BA3B5036D77B32528BA722 * GetAt(il2cpp_array_size_t index) const
+	{
+		IL2CPP_ARRAY_BOUNDS_CHECK(index, (uint32_t)(this)->max_length);
+		return m_Items[index];
+	}
+	inline Collider2D_tDDBF081328B83D21D0BA3B5036D77B32528BA722 ** GetAddressAt(il2cpp_array_size_t index)
+	{
+		IL2CPP_ARRAY_BOUNDS_CHECK(index, (uint32_t)(this)->max_length);
+		return m_Items + index;
+	}
+	inline void SetAt(il2cpp_array_size_t index, Collider2D_tDDBF081328B83D21D0BA3B5036D77B32528BA722 * value)
+	{
+		IL2CPP_ARRAY_BOUNDS_CHECK(index, (uint32_t)(this)->max_length);
+		m_Items[index] = value;
+		Il2CppCodeGenWriteBarrier((void**)m_Items + index, (void*)value);
+	}
+	inline Collider2D_tDDBF081328B83D21D0BA3B5036D77B32528BA722 * GetAtUnchecked(il2cpp_array_size_t index) const
+	{
+		return m_Items[index];
+	}
+	inline Collider2D_tDDBF081328B83D21D0BA3B5036D77B32528BA722 ** GetAddressAtUnchecked(il2cpp_array_size_t index)
+	{
+		return m_Items + index;
+	}
+	inline void SetAtUnchecked(il2cpp_array_size_t index, Collider2D_tDDBF081328B83D21D0BA3B5036D77B32528BA722 * value)
+	{
+		m_Items[index] = value;
+		Il2CppCodeGenWriteBarrier((void**)m_Items + index, (void*)value);
+	}
+};
 // System.Object[]
 struct ObjectU5BU5D_tC1F4EE0DB0B7300255F5FD4AF64FE4C585CF5ADE  : public RuntimeArray
 {
@@ -1415,6 +1459,8 @@ public:
 // System.Void System.Collections.Generic.List`1<System.Object>::.ctor()
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void List_1__ctor_m0F0E00088CF56FEACC9E32D8B7D91B93D91DAA3B_gshared (List_1_t3F94120C77410A62EAE48421CF166B83AB95A2F5 * __this, const RuntimeMethod* method);
 
+// System.Void UnityEngine.Behaviour::.ctor()
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void Behaviour__ctor_mCACD3614226521EA607B0F3640C0FAC7EACCBCE0 (Behaviour_t1A3DDDCF73B4627928FBFE02ED52B7251777DBD9 * __this, const RuntimeMethod* method);
 // System.Void UnityEngine.ContactFilter2D::CheckConsistency_Injected(UnityEngine.ContactFilter2D&)
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void ContactFilter2D_CheckConsistency_Injected_mFF4A5178E9F60CCF59DDE6B6F0013D182294573E (ContactFilter2D_t82BBB159A7E392A24921803A0E79669F4E34DFCB * ____unity_self0, const RuntimeMethod* method);
 // System.Void UnityEngine.ContactFilter2D::CheckConsistency()
@@ -1451,6 +1497,10 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR RaycastHit2DU5BU5D_tDEABD9FBBA32C695C932A32A1
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR RaycastHit2DU5BU5D_tDEABD9FBBA32C695C932A32A1B8FB9C06A496F09* Physics2D_GetRayIntersectionAll_Internal_Injected_m87038811DE210AFEEAD218D82268AF482BBD24C7 (PhysicsScene2D_tB68D090292BC3369F94CBB7496FE96EB00853E48 * ___physicsScene0, Vector3_t65B972D6A585A0A5B63153CF1177A90D3C90D65E * ___origin1, Vector3_t65B972D6A585A0A5B63153CF1177A90D3C90D65E * ___direction2, float ___distance3, int32_t ___layerMask4, const RuntimeMethod* method);
 // System.Int32 UnityEngine.PhysicsScene2D::GetRayIntersection(UnityEngine.Ray,System.Single,UnityEngine.RaycastHit2D[],System.Int32)
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR int32_t PhysicsScene2D_GetRayIntersection_mB6F14C8BB95609094BE9BDB218483EAAC4117B5A (PhysicsScene2D_tB68D090292BC3369F94CBB7496FE96EB00853E48 * __this, Ray_t2E9E67CC8B03EE6ED2BBF3D2C9C96DDF70E1D5E6  ___ray0, float ___distance1, RaycastHit2DU5BU5D_tDEABD9FBBA32C695C932A32A1B8FB9C06A496F09* ___results2, int32_t ___layerMask3, const RuntimeMethod* method);
+// UnityEngine.Collider2D[] UnityEngine.Physics2D::OverlapCircleAll_Internal(UnityEngine.PhysicsScene2D,UnityEngine.Vector2,System.Single,UnityEngine.ContactFilter2D)
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR Collider2DU5BU5D_t00DF4453C28C5F1D2EE97FAE6CF865E53DE189D1* Physics2D_OverlapCircleAll_Internal_m5E0B68FBDC36985268B1A0D0ED3B6EC102C1BA89 (PhysicsScene2D_tB68D090292BC3369F94CBB7496FE96EB00853E48  ___physicsScene0, Vector2_tBB32F2736AEC229A7BFBCE18197EC0F6AC7EC2D9  ___point1, float ___radius2, ContactFilter2D_t82BBB159A7E392A24921803A0E79669F4E34DFCB  ___contactFilter3, const RuntimeMethod* method);
+// UnityEngine.Collider2D[] UnityEngine.Physics2D::OverlapCircleAll_Internal_Injected(UnityEngine.PhysicsScene2D&,UnityEngine.Vector2&,System.Single,UnityEngine.ContactFilter2D&)
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR Collider2DU5BU5D_t00DF4453C28C5F1D2EE97FAE6CF865E53DE189D1* Physics2D_OverlapCircleAll_Internal_Injected_mA8F3E6FC493512102940D0B04FFA037315CBA224 (PhysicsScene2D_tB68D090292BC3369F94CBB7496FE96EB00853E48 * ___physicsScene0, Vector2_tBB32F2736AEC229A7BFBCE18197EC0F6AC7EC2D9 * ___point1, float ___radius2, ContactFilter2D_t82BBB159A7E392A24921803A0E79669F4E34DFCB * ___contactFilter3, const RuntimeMethod* method);
 // System.Void System.Collections.Generic.List`1<UnityEngine.Rigidbody2D>::.ctor()
 inline void List_1__ctor_m42BFD7A7FC288F4627CD724F28FF73E9BC0FE7AB (List_1_t61A36FEC0532A7CC39DB1770BFA5C1967348FAC1 * __this, const RuntimeMethod* method)
 {
@@ -1496,6 +1546,16 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR float RaycastHit2D_get_distance_mA910B45BD349
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR Object_tF2F3778131EFF286AF62B7B013A170F95A91571A * Object_FindObjectFromInstanceID_m0AD731D3F583CBBDC7DC0E08B38F742B447FA44A (int32_t ___instanceID0, const RuntimeMethod* method);
 // UnityEngine.Collider2D UnityEngine.RaycastHit2D::get_collider()
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR Collider2D_tDDBF081328B83D21D0BA3B5036D77B32528BA722 * RaycastHit2D_get_collider_m00F7EC55C36F39E2ED64B31354FB4D9C8938D563 (RaycastHit2D_t210878DAEBC96C1F69DF9883C454758724A106A4 * __this, const RuntimeMethod* method);
+// System.Void UnityEngine.Rigidbody2D::get_position_Injected(UnityEngine.Vector2&)
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void Rigidbody2D_get_position_Injected_m1B97DC47EDF69F0506CEC24603C3A330B7E8FAB4 (Rigidbody2D_tD23204FEE9CB4A36737043B97FD409DE05D5DCE5 * __this, Vector2_tBB32F2736AEC229A7BFBCE18197EC0F6AC7EC2D9 * ___ret0, const RuntimeMethod* method);
+// System.Void UnityEngine.Rigidbody2D::set_position_Injected(UnityEngine.Vector2&)
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void Rigidbody2D_set_position_Injected_mB05AB62CD1D243D071F60E48C9905587ACB94933 (Rigidbody2D_tD23204FEE9CB4A36737043B97FD409DE05D5DCE5 * __this, Vector2_tBB32F2736AEC229A7BFBCE18197EC0F6AC7EC2D9 * ___value0, const RuntimeMethod* method);
+// System.Void UnityEngine.Rigidbody2D::MoveRotation_Angle(System.Single)
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void Rigidbody2D_MoveRotation_Angle_mE1BD3C755F9FB7782274F50D55496441F8675245 (Rigidbody2D_tD23204FEE9CB4A36737043B97FD409DE05D5DCE5 * __this, float ___angle0, const RuntimeMethod* method);
+// System.Void UnityEngine.Rigidbody2D::get_velocity_Injected(UnityEngine.Vector2&)
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void Rigidbody2D_get_velocity_Injected_m2102CD221C46BA3C36127D7413D8C35A402A8903 (Rigidbody2D_tD23204FEE9CB4A36737043B97FD409DE05D5DCE5 * __this, Vector2_tBB32F2736AEC229A7BFBCE18197EC0F6AC7EC2D9 * ___ret0, const RuntimeMethod* method);
+// System.Void UnityEngine.Rigidbody2D::set_velocity_Injected(UnityEngine.Vector2&)
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void Rigidbody2D_set_velocity_Injected_m198FAA0E7A328E1B236FC5835C9711987D3C691E (Rigidbody2D_tD23204FEE9CB4A36737043B97FD409DE05D5DCE5 * __this, Vector2_tBB32F2736AEC229A7BFBCE18197EC0F6AC7EC2D9 * ___value0, const RuntimeMethod* method);
 #ifdef __clang__
 #pragma clang diagnostic push
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
@@ -1517,6 +1577,14 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR Collider2D_tDDBF081328B83D21D0BA3B5036D77B325
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
 #pragma clang diagnostic ignored "-Wunused-variable"
 #endif
+// System.Void UnityEngine.Collider2D::.ctor()
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void Collider2D__ctor_mB3AFF9CA18C8FA8E4F75DC45CA2D4A423A40F23D (Collider2D_tDDBF081328B83D21D0BA3B5036D77B32528BA722 * __this, const RuntimeMethod* method)
+{
+	{
+		Behaviour__ctor_mCACD3614226521EA607B0F3640C0FAC7EACCBCE0(__this, /*hidden argument*/NULL);
+		return;
+	}
+}
 #ifdef __clang__
 #pragma clang diagnostic pop
 #endif
@@ -2528,6 +2596,57 @@ IL_0015:
 		return L_6;
 	}
 }
+// UnityEngine.Collider2D[] UnityEngine.Physics2D::OverlapCircleAll(UnityEngine.Vector2,System.Single)
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR Collider2DU5BU5D_t00DF4453C28C5F1D2EE97FAE6CF865E53DE189D1* Physics2D_OverlapCircleAll_m9D7CF119EA9F260FBAD101EA8A6916A643551C0D (Vector2_tBB32F2736AEC229A7BFBCE18197EC0F6AC7EC2D9  ___point0, float ___radius1, const RuntimeMethod* method)
+{
+	static bool s_Il2CppMethodInitialized;
+	if (!s_Il2CppMethodInitialized)
+	{
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&Physics2D_t1C1ECE6BA2F958C5C1440DDB9E9A5DAAA8F86D92_il2cpp_TypeInfo_var);
+		s_Il2CppMethodInitialized = true;
+	}
+	ContactFilter2D_t82BBB159A7E392A24921803A0E79669F4E34DFCB  V_0;
+	memset((&V_0), 0, sizeof(V_0));
+	Collider2DU5BU5D_t00DF4453C28C5F1D2EE97FAE6CF865E53DE189D1* V_1 = NULL;
+	{
+		ContactFilter2D_t82BBB159A7E392A24921803A0E79669F4E34DFCB  L_0;
+		L_0 = ContactFilter2D_CreateLegacyFilter_mA293F293D35236A5564D57574012590BD6DF385A(((int32_t)-5), (-std::numeric_limits<float>::infinity()), (std::numeric_limits<float>::infinity()), /*hidden argument*/NULL);
+		V_0 = L_0;
+		IL2CPP_RUNTIME_CLASS_INIT(Physics2D_t1C1ECE6BA2F958C5C1440DDB9E9A5DAAA8F86D92_il2cpp_TypeInfo_var);
+		PhysicsScene2D_tB68D090292BC3369F94CBB7496FE96EB00853E48  L_1;
+		L_1 = Physics2D_get_defaultPhysicsScene_m067B3BAED5AD5E0E71C1462480BFC107ED901A83(/*hidden argument*/NULL);
+		Vector2_tBB32F2736AEC229A7BFBCE18197EC0F6AC7EC2D9  L_2 = ___point0;
+		float L_3 = ___radius1;
+		ContactFilter2D_t82BBB159A7E392A24921803A0E79669F4E34DFCB  L_4 = V_0;
+		Collider2DU5BU5D_t00DF4453C28C5F1D2EE97FAE6CF865E53DE189D1* L_5;
+		L_5 = Physics2D_OverlapCircleAll_Internal_m5E0B68FBDC36985268B1A0D0ED3B6EC102C1BA89(L_1, L_2, L_3, L_4, /*hidden argument*/NULL);
+		V_1 = L_5;
+		goto IL_0023;
+	}
+
+IL_0023:
+	{
+		Collider2DU5BU5D_t00DF4453C28C5F1D2EE97FAE6CF865E53DE189D1* L_6 = V_1;
+		return L_6;
+	}
+}
+// UnityEngine.Collider2D[] UnityEngine.Physics2D::OverlapCircleAll_Internal(UnityEngine.PhysicsScene2D,UnityEngine.Vector2,System.Single,UnityEngine.ContactFilter2D)
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR Collider2DU5BU5D_t00DF4453C28C5F1D2EE97FAE6CF865E53DE189D1* Physics2D_OverlapCircleAll_Internal_m5E0B68FBDC36985268B1A0D0ED3B6EC102C1BA89 (PhysicsScene2D_tB68D090292BC3369F94CBB7496FE96EB00853E48  ___physicsScene0, Vector2_tBB32F2736AEC229A7BFBCE18197EC0F6AC7EC2D9  ___point1, float ___radius2, ContactFilter2D_t82BBB159A7E392A24921803A0E79669F4E34DFCB  ___contactFilter3, const RuntimeMethod* method)
+{
+	static bool s_Il2CppMethodInitialized;
+	if (!s_Il2CppMethodInitialized)
+	{
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&Physics2D_t1C1ECE6BA2F958C5C1440DDB9E9A5DAAA8F86D92_il2cpp_TypeInfo_var);
+		s_Il2CppMethodInitialized = true;
+	}
+	{
+		float L_0 = ___radius2;
+		IL2CPP_RUNTIME_CLASS_INIT(Physics2D_t1C1ECE6BA2F958C5C1440DDB9E9A5DAAA8F86D92_il2cpp_TypeInfo_var);
+		Collider2DU5BU5D_t00DF4453C28C5F1D2EE97FAE6CF865E53DE189D1* L_1;
+		L_1 = Physics2D_OverlapCircleAll_Internal_Injected_mA8F3E6FC493512102940D0B04FFA037315CBA224((PhysicsScene2D_tB68D090292BC3369F94CBB7496FE96EB00853E48 *)(&___physicsScene0), (Vector2_tBB32F2736AEC229A7BFBCE18197EC0F6AC7EC2D9 *)(&___point1), L_0, (ContactFilter2D_t82BBB159A7E392A24921803A0E79669F4E34DFCB *)(&___contactFilter3), /*hidden argument*/NULL);
+		return L_1;
+	}
+}
 // System.Void UnityEngine.Physics2D::.cctor()
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void Physics2D__cctor_m2C742CE7156A78480229016DEEF403B45E4DAFEE (const RuntimeMethod* method)
 {
@@ -2554,6 +2673,16 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR RaycastHit2DU5BU5D_tDEABD9FBBA32C695C932A32A1
 	if (!_il2cpp_icall_func)
 	_il2cpp_icall_func = (Physics2D_GetRayIntersectionAll_Internal_Injected_m87038811DE210AFEEAD218D82268AF482BBD24C7_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.Physics2D::GetRayIntersectionAll_Internal_Injected(UnityEngine.PhysicsScene2D&,UnityEngine.Vector3&,UnityEngine.Vector3&,System.Single,System.Int32)");
 	RaycastHit2DU5BU5D_tDEABD9FBBA32C695C932A32A1B8FB9C06A496F09* icallRetVal = _il2cpp_icall_func(___physicsScene0, ___origin1, ___direction2, ___distance3, ___layerMask4);
+	return icallRetVal;
+}
+// UnityEngine.Collider2D[] UnityEngine.Physics2D::OverlapCircleAll_Internal_Injected(UnityEngine.PhysicsScene2D&,UnityEngine.Vector2&,System.Single,UnityEngine.ContactFilter2D&)
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR Collider2DU5BU5D_t00DF4453C28C5F1D2EE97FAE6CF865E53DE189D1* Physics2D_OverlapCircleAll_Internal_Injected_mA8F3E6FC493512102940D0B04FFA037315CBA224 (PhysicsScene2D_tB68D090292BC3369F94CBB7496FE96EB00853E48 * ___physicsScene0, Vector2_tBB32F2736AEC229A7BFBCE18197EC0F6AC7EC2D9 * ___point1, float ___radius2, ContactFilter2D_t82BBB159A7E392A24921803A0E79669F4E34DFCB * ___contactFilter3, const RuntimeMethod* method)
+{
+	typedef Collider2DU5BU5D_t00DF4453C28C5F1D2EE97FAE6CF865E53DE189D1* (*Physics2D_OverlapCircleAll_Internal_Injected_mA8F3E6FC493512102940D0B04FFA037315CBA224_ftn) (PhysicsScene2D_tB68D090292BC3369F94CBB7496FE96EB00853E48 *, Vector2_tBB32F2736AEC229A7BFBCE18197EC0F6AC7EC2D9 *, float, ContactFilter2D_t82BBB159A7E392A24921803A0E79669F4E34DFCB *);
+	static Physics2D_OverlapCircleAll_Internal_Injected_mA8F3E6FC493512102940D0B04FFA037315CBA224_ftn _il2cpp_icall_func;
+	if (!_il2cpp_icall_func)
+	_il2cpp_icall_func = (Physics2D_OverlapCircleAll_Internal_Injected_mA8F3E6FC493512102940D0B04FFA037315CBA224_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.Physics2D::OverlapCircleAll_Internal_Injected(UnityEngine.PhysicsScene2D&,UnityEngine.Vector2&,System.Single,UnityEngine.ContactFilter2D&)");
+	Collider2DU5BU5D_t00DF4453C28C5F1D2EE97FAE6CF865E53DE189D1* icallRetVal = _il2cpp_icall_func(___physicsScene0, ___point1, ___radius2, ___contactFilter3);
 	return icallRetVal;
 }
 #ifdef __clang__
@@ -3147,6 +3276,136 @@ IL2CPP_EXTERN_C  Collider2D_tDDBF081328B83D21D0BA3B5036D77B32528BA722 * RaycastH
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
 #pragma clang diagnostic ignored "-Wunused-variable"
 #endif
+// UnityEngine.Vector2 UnityEngine.Rigidbody2D::get_position()
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR Vector2_tBB32F2736AEC229A7BFBCE18197EC0F6AC7EC2D9  Rigidbody2D_get_position_mEC7D07E3478BEF5A2A0E22C91CA54935376F84C2 (Rigidbody2D_tD23204FEE9CB4A36737043B97FD409DE05D5DCE5 * __this, const RuntimeMethod* method)
+{
+	Vector2_tBB32F2736AEC229A7BFBCE18197EC0F6AC7EC2D9  V_0;
+	memset((&V_0), 0, sizeof(V_0));
+	{
+		Rigidbody2D_get_position_Injected_m1B97DC47EDF69F0506CEC24603C3A330B7E8FAB4(__this, (Vector2_tBB32F2736AEC229A7BFBCE18197EC0F6AC7EC2D9 *)(&V_0), /*hidden argument*/NULL);
+		Vector2_tBB32F2736AEC229A7BFBCE18197EC0F6AC7EC2D9  L_0 = V_0;
+		return L_0;
+	}
+}
+// System.Void UnityEngine.Rigidbody2D::set_position(UnityEngine.Vector2)
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void Rigidbody2D_set_position_m1604084713EB195D44B8B411D4BCAFA5941E3413 (Rigidbody2D_tD23204FEE9CB4A36737043B97FD409DE05D5DCE5 * __this, Vector2_tBB32F2736AEC229A7BFBCE18197EC0F6AC7EC2D9  ___value0, const RuntimeMethod* method)
+{
+	{
+		Rigidbody2D_set_position_Injected_mB05AB62CD1D243D071F60E48C9905587ACB94933(__this, (Vector2_tBB32F2736AEC229A7BFBCE18197EC0F6AC7EC2D9 *)(&___value0), /*hidden argument*/NULL);
+		return;
+	}
+}
+// System.Single UnityEngine.Rigidbody2D::get_rotation()
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR float Rigidbody2D_get_rotation_mD58E62EDB334FCDF7914A94C940F7903E8ADBBFF (Rigidbody2D_tD23204FEE9CB4A36737043B97FD409DE05D5DCE5 * __this, const RuntimeMethod* method)
+{
+	typedef float (*Rigidbody2D_get_rotation_mD58E62EDB334FCDF7914A94C940F7903E8ADBBFF_ftn) (Rigidbody2D_tD23204FEE9CB4A36737043B97FD409DE05D5DCE5 *);
+	static Rigidbody2D_get_rotation_mD58E62EDB334FCDF7914A94C940F7903E8ADBBFF_ftn _il2cpp_icall_func;
+	if (!_il2cpp_icall_func)
+	_il2cpp_icall_func = (Rigidbody2D_get_rotation_mD58E62EDB334FCDF7914A94C940F7903E8ADBBFF_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.Rigidbody2D::get_rotation()");
+	float icallRetVal = _il2cpp_icall_func(__this);
+	return icallRetVal;
+}
+// System.Void UnityEngine.Rigidbody2D::set_rotation(System.Single)
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void Rigidbody2D_set_rotation_m4982A0057C1FEB61323B58C7A791E8A0D0CD8C77 (Rigidbody2D_tD23204FEE9CB4A36737043B97FD409DE05D5DCE5 * __this, float ___value0, const RuntimeMethod* method)
+{
+	typedef void (*Rigidbody2D_set_rotation_m4982A0057C1FEB61323B58C7A791E8A0D0CD8C77_ftn) (Rigidbody2D_tD23204FEE9CB4A36737043B97FD409DE05D5DCE5 *, float);
+	static Rigidbody2D_set_rotation_m4982A0057C1FEB61323B58C7A791E8A0D0CD8C77_ftn _il2cpp_icall_func;
+	if (!_il2cpp_icall_func)
+	_il2cpp_icall_func = (Rigidbody2D_set_rotation_m4982A0057C1FEB61323B58C7A791E8A0D0CD8C77_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.Rigidbody2D::set_rotation(System.Single)");
+	_il2cpp_icall_func(__this, ___value0);
+}
+// System.Void UnityEngine.Rigidbody2D::MoveRotation(System.Single)
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void Rigidbody2D_MoveRotation_mB550025C3B09DB909CB895609BF642EF768C5B22 (Rigidbody2D_tD23204FEE9CB4A36737043B97FD409DE05D5DCE5 * __this, float ___angle0, const RuntimeMethod* method)
+{
+	{
+		float L_0 = ___angle0;
+		Rigidbody2D_MoveRotation_Angle_mE1BD3C755F9FB7782274F50D55496441F8675245(__this, L_0, /*hidden argument*/NULL);
+		return;
+	}
+}
+// System.Void UnityEngine.Rigidbody2D::MoveRotation_Angle(System.Single)
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void Rigidbody2D_MoveRotation_Angle_mE1BD3C755F9FB7782274F50D55496441F8675245 (Rigidbody2D_tD23204FEE9CB4A36737043B97FD409DE05D5DCE5 * __this, float ___angle0, const RuntimeMethod* method)
+{
+	typedef void (*Rigidbody2D_MoveRotation_Angle_mE1BD3C755F9FB7782274F50D55496441F8675245_ftn) (Rigidbody2D_tD23204FEE9CB4A36737043B97FD409DE05D5DCE5 *, float);
+	static Rigidbody2D_MoveRotation_Angle_mE1BD3C755F9FB7782274F50D55496441F8675245_ftn _il2cpp_icall_func;
+	if (!_il2cpp_icall_func)
+	_il2cpp_icall_func = (Rigidbody2D_MoveRotation_Angle_mE1BD3C755F9FB7782274F50D55496441F8675245_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.Rigidbody2D::MoveRotation_Angle(System.Single)");
+	_il2cpp_icall_func(__this, ___angle0);
+}
+// UnityEngine.Vector2 UnityEngine.Rigidbody2D::get_velocity()
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR Vector2_tBB32F2736AEC229A7BFBCE18197EC0F6AC7EC2D9  Rigidbody2D_get_velocity_m138328DCC01EB876FB5EA025BF08728030D93D66 (Rigidbody2D_tD23204FEE9CB4A36737043B97FD409DE05D5DCE5 * __this, const RuntimeMethod* method)
+{
+	Vector2_tBB32F2736AEC229A7BFBCE18197EC0F6AC7EC2D9  V_0;
+	memset((&V_0), 0, sizeof(V_0));
+	{
+		Rigidbody2D_get_velocity_Injected_m2102CD221C46BA3C36127D7413D8C35A402A8903(__this, (Vector2_tBB32F2736AEC229A7BFBCE18197EC0F6AC7EC2D9 *)(&V_0), /*hidden argument*/NULL);
+		Vector2_tBB32F2736AEC229A7BFBCE18197EC0F6AC7EC2D9  L_0 = V_0;
+		return L_0;
+	}
+}
+// System.Void UnityEngine.Rigidbody2D::set_velocity(UnityEngine.Vector2)
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void Rigidbody2D_set_velocity_m56B745344E78C85462843AE623BF0A40764FC2DA (Rigidbody2D_tD23204FEE9CB4A36737043B97FD409DE05D5DCE5 * __this, Vector2_tBB32F2736AEC229A7BFBCE18197EC0F6AC7EC2D9  ___value0, const RuntimeMethod* method)
+{
+	{
+		Rigidbody2D_set_velocity_Injected_m198FAA0E7A328E1B236FC5835C9711987D3C691E(__this, (Vector2_tBB32F2736AEC229A7BFBCE18197EC0F6AC7EC2D9 *)(&___value0), /*hidden argument*/NULL);
+		return;
+	}
+}
+// System.Single UnityEngine.Rigidbody2D::get_angularVelocity()
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR float Rigidbody2D_get_angularVelocity_m5A202B05024DE0C8F9A8C86900F7EF111574D8A3 (Rigidbody2D_tD23204FEE9CB4A36737043B97FD409DE05D5DCE5 * __this, const RuntimeMethod* method)
+{
+	typedef float (*Rigidbody2D_get_angularVelocity_m5A202B05024DE0C8F9A8C86900F7EF111574D8A3_ftn) (Rigidbody2D_tD23204FEE9CB4A36737043B97FD409DE05D5DCE5 *);
+	static Rigidbody2D_get_angularVelocity_m5A202B05024DE0C8F9A8C86900F7EF111574D8A3_ftn _il2cpp_icall_func;
+	if (!_il2cpp_icall_func)
+	_il2cpp_icall_func = (Rigidbody2D_get_angularVelocity_m5A202B05024DE0C8F9A8C86900F7EF111574D8A3_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.Rigidbody2D::get_angularVelocity()");
+	float icallRetVal = _il2cpp_icall_func(__this);
+	return icallRetVal;
+}
+// System.Void UnityEngine.Rigidbody2D::set_angularVelocity(System.Single)
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void Rigidbody2D_set_angularVelocity_m53F03D07251B600A01A05A27F16D2D8C0D3C5A66 (Rigidbody2D_tD23204FEE9CB4A36737043B97FD409DE05D5DCE5 * __this, float ___value0, const RuntimeMethod* method)
+{
+	typedef void (*Rigidbody2D_set_angularVelocity_m53F03D07251B600A01A05A27F16D2D8C0D3C5A66_ftn) (Rigidbody2D_tD23204FEE9CB4A36737043B97FD409DE05D5DCE5 *, float);
+	static Rigidbody2D_set_angularVelocity_m53F03D07251B600A01A05A27F16D2D8C0D3C5A66_ftn _il2cpp_icall_func;
+	if (!_il2cpp_icall_func)
+	_il2cpp_icall_func = (Rigidbody2D_set_angularVelocity_m53F03D07251B600A01A05A27F16D2D8C0D3C5A66_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.Rigidbody2D::set_angularVelocity(System.Single)");
+	_il2cpp_icall_func(__this, ___value0);
+}
+// System.Void UnityEngine.Rigidbody2D::get_position_Injected(UnityEngine.Vector2&)
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void Rigidbody2D_get_position_Injected_m1B97DC47EDF69F0506CEC24603C3A330B7E8FAB4 (Rigidbody2D_tD23204FEE9CB4A36737043B97FD409DE05D5DCE5 * __this, Vector2_tBB32F2736AEC229A7BFBCE18197EC0F6AC7EC2D9 * ___ret0, const RuntimeMethod* method)
+{
+	typedef void (*Rigidbody2D_get_position_Injected_m1B97DC47EDF69F0506CEC24603C3A330B7E8FAB4_ftn) (Rigidbody2D_tD23204FEE9CB4A36737043B97FD409DE05D5DCE5 *, Vector2_tBB32F2736AEC229A7BFBCE18197EC0F6AC7EC2D9 *);
+	static Rigidbody2D_get_position_Injected_m1B97DC47EDF69F0506CEC24603C3A330B7E8FAB4_ftn _il2cpp_icall_func;
+	if (!_il2cpp_icall_func)
+	_il2cpp_icall_func = (Rigidbody2D_get_position_Injected_m1B97DC47EDF69F0506CEC24603C3A330B7E8FAB4_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.Rigidbody2D::get_position_Injected(UnityEngine.Vector2&)");
+	_il2cpp_icall_func(__this, ___ret0);
+}
+// System.Void UnityEngine.Rigidbody2D::set_position_Injected(UnityEngine.Vector2&)
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void Rigidbody2D_set_position_Injected_mB05AB62CD1D243D071F60E48C9905587ACB94933 (Rigidbody2D_tD23204FEE9CB4A36737043B97FD409DE05D5DCE5 * __this, Vector2_tBB32F2736AEC229A7BFBCE18197EC0F6AC7EC2D9 * ___value0, const RuntimeMethod* method)
+{
+	typedef void (*Rigidbody2D_set_position_Injected_mB05AB62CD1D243D071F60E48C9905587ACB94933_ftn) (Rigidbody2D_tD23204FEE9CB4A36737043B97FD409DE05D5DCE5 *, Vector2_tBB32F2736AEC229A7BFBCE18197EC0F6AC7EC2D9 *);
+	static Rigidbody2D_set_position_Injected_mB05AB62CD1D243D071F60E48C9905587ACB94933_ftn _il2cpp_icall_func;
+	if (!_il2cpp_icall_func)
+	_il2cpp_icall_func = (Rigidbody2D_set_position_Injected_mB05AB62CD1D243D071F60E48C9905587ACB94933_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.Rigidbody2D::set_position_Injected(UnityEngine.Vector2&)");
+	_il2cpp_icall_func(__this, ___value0);
+}
+// System.Void UnityEngine.Rigidbody2D::get_velocity_Injected(UnityEngine.Vector2&)
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void Rigidbody2D_get_velocity_Injected_m2102CD221C46BA3C36127D7413D8C35A402A8903 (Rigidbody2D_tD23204FEE9CB4A36737043B97FD409DE05D5DCE5 * __this, Vector2_tBB32F2736AEC229A7BFBCE18197EC0F6AC7EC2D9 * ___ret0, const RuntimeMethod* method)
+{
+	typedef void (*Rigidbody2D_get_velocity_Injected_m2102CD221C46BA3C36127D7413D8C35A402A8903_ftn) (Rigidbody2D_tD23204FEE9CB4A36737043B97FD409DE05D5DCE5 *, Vector2_tBB32F2736AEC229A7BFBCE18197EC0F6AC7EC2D9 *);
+	static Rigidbody2D_get_velocity_Injected_m2102CD221C46BA3C36127D7413D8C35A402A8903_ftn _il2cpp_icall_func;
+	if (!_il2cpp_icall_func)
+	_il2cpp_icall_func = (Rigidbody2D_get_velocity_Injected_m2102CD221C46BA3C36127D7413D8C35A402A8903_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.Rigidbody2D::get_velocity_Injected(UnityEngine.Vector2&)");
+	_il2cpp_icall_func(__this, ___ret0);
+}
+// System.Void UnityEngine.Rigidbody2D::set_velocity_Injected(UnityEngine.Vector2&)
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void Rigidbody2D_set_velocity_Injected_m198FAA0E7A328E1B236FC5835C9711987D3C691E (Rigidbody2D_tD23204FEE9CB4A36737043B97FD409DE05D5DCE5 * __this, Vector2_tBB32F2736AEC229A7BFBCE18197EC0F6AC7EC2D9 * ___value0, const RuntimeMethod* method)
+{
+	typedef void (*Rigidbody2D_set_velocity_Injected_m198FAA0E7A328E1B236FC5835C9711987D3C691E_ftn) (Rigidbody2D_tD23204FEE9CB4A36737043B97FD409DE05D5DCE5 *, Vector2_tBB32F2736AEC229A7BFBCE18197EC0F6AC7EC2D9 *);
+	static Rigidbody2D_set_velocity_Injected_m198FAA0E7A328E1B236FC5835C9711987D3C691E_ftn _il2cpp_icall_func;
+	if (!_il2cpp_icall_func)
+	_il2cpp_icall_func = (Rigidbody2D_set_velocity_Injected_m198FAA0E7A328E1B236FC5835C9711987D3C691E_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.Rigidbody2D::set_velocity_Injected(UnityEngine.Vector2&)");
+	_il2cpp_icall_func(__this, ___value0);
+}
 #ifdef __clang__
 #pragma clang diagnostic pop
 #endif

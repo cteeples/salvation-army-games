@@ -851,7 +851,7 @@ IL2CPP_EXTERN_C_END
 #endif
 
 // <Module>
-struct  U3CModuleU3E_tFDCAFCBB4B3431CFF2DC4D3E03FBFDF54EFF7E9A 
+struct U3CModuleU3E_tFDCAFCBB4B3431CFF2DC4D3E03FBFDF54EFF7E9A 
 {
 public:
 
@@ -863,7 +863,7 @@ public:
 
 
 // TMPro.FastAction`1<UnityEngine.Object>
-struct  FastAction_1_t83A8F378D15744DC0F2F81BEEECE0C0D1DDC6798  : public RuntimeObject
+struct FastAction_1_t83A8F378D15744DC0F2F81BEEECE0C0D1DDC6798  : public RuntimeObject
 {
 public:
 	// System.Collections.Generic.LinkedList`1<System.Action`1<A>> TMPro.FastAction`1::delegates
@@ -893,7 +893,7 @@ public:
 
 
 // UnityEngine.EventSystems.AbstractEventData
-struct  AbstractEventData_tA0B5065DE3430C0031ADE061668E1C7073D718DF  : public RuntimeObject
+struct AbstractEventData_tA0B5065DE3430C0031ADE061668E1C7073D718DF  : public RuntimeObject
 {
 public:
 	// System.Boolean UnityEngine.EventSystems.AbstractEventData::m_Used
@@ -915,7 +915,7 @@ struct Il2CppArrayBounds;
 
 
 // System.Reflection.MemberInfo
-struct  MemberInfo_t  : public RuntimeObject
+struct MemberInfo_t  : public RuntimeObject
 {
 public:
 
@@ -924,7 +924,7 @@ public:
 
 
 // TMPro.ShaderUtilities
-struct  ShaderUtilities_t1F6A93635DB66FAB6A2DE3ABEA7DE635B7E34B14  : public RuntimeObject
+struct ShaderUtilities_t1F6A93635DB66FAB6A2DE3ABEA7DE635B7E34B14  : public RuntimeObject
 {
 public:
 
@@ -1631,7 +1631,7 @@ public:
 
 
 // Sound
-struct  Sound_tF983595F9C621A86B56E05F9778810369E90A0FE  : public RuntimeObject
+struct Sound_tF983595F9C621A86B56E05F9778810369E90A0FE  : public RuntimeObject
 {
 public:
 	// System.String Sound::name
@@ -1702,7 +1702,7 @@ public:
 
 
 // System.String
-struct  String_t  : public RuntimeObject
+struct String_t  : public RuntimeObject
 {
 public:
 	// System.Int32 System.String::m_stringLength
@@ -1747,7 +1747,7 @@ public:
 
 
 // TMPro.TMPro_EventManager
-struct  TMPro_EventManager_t8A07AD64AF1C174D621817FEA8D2CF0DA7065AA1  : public RuntimeObject
+struct TMPro_EventManager_t8A07AD64AF1C174D621817FEA8D2CF0DA7065AA1  : public RuntimeObject
 {
 public:
 
@@ -1894,7 +1894,7 @@ public:
 
 
 // UnityEngine.Events.UnityEventBase
-struct  UnityEventBase_tBB43047292084BA63C5CBB1A379A8BB88611C6FB  : public RuntimeObject
+struct UnityEventBase_tBB43047292084BA63C5CBB1A379A8BB88611C6FB  : public RuntimeObject
 {
 public:
 	// UnityEngine.Events.InvokableCallList UnityEngine.Events.UnityEventBase::m_Calls
@@ -1934,7 +1934,7 @@ public:
 
 
 // System.ValueType
-struct  ValueType_tDBF999C1B75C48C68621878250DBF6CDBCF51E52  : public RuntimeObject
+struct ValueType_tDBF999C1B75C48C68621878250DBF6CDBCF51E52  : public RuntimeObject
 {
 public:
 
@@ -1951,7 +1951,7 @@ struct ValueType_tDBF999C1B75C48C68621878250DBF6CDBCF51E52_marshaled_com
 };
 
 // UnityEngine.YieldInstruction
-struct  YieldInstruction_tB0B4E05316710E51ECCC1E57174C27FE6DEBBEAF  : public RuntimeObject
+struct YieldInstruction_tB0B4E05316710E51ECCC1E57174C27FE6DEBBEAF  : public RuntimeObject
 {
 public:
 
@@ -1968,7 +1968,7 @@ struct YieldInstruction_tB0B4E05316710E51ECCC1E57174C27FE6DEBBEAF_marshaled_com
 };
 
 // AudioMNGR/<>c__DisplayClass4_0
-struct  U3CU3Ec__DisplayClass4_0_tC89A1CCCC8F4B9432885922A6BEC70F6CDF969D2  : public RuntimeObject
+struct U3CU3Ec__DisplayClass4_0_tC89A1CCCC8F4B9432885922A6BEC70F6CDF969D2  : public RuntimeObject
 {
 public:
 	// System.String AudioMNGR/<>c__DisplayClass4_0::name
@@ -1987,7 +1987,7 @@ public:
 
 
 // TMPro.Examples.Benchmark01/<Start>d__10
-struct  U3CStartU3Ed__10_t4C97F7E5F1F2D654FF76C297F92CF423F472A640  : public RuntimeObject
+struct U3CStartU3Ed__10_t4C97F7E5F1F2D654FF76C297F92CF423F472A640  : public RuntimeObject
 {
 public:
 	// System.Int32 TMPro.Examples.Benchmark01/<Start>d__10::<>1__state
@@ -2037,7 +2037,7 @@ public:
 
 
 // TMPro.Examples.Benchmark01_UGUI/<Start>d__10
-struct  U3CStartU3Ed__10_t3D69371599D2A84DED6689D4FA6EA1720611EAD3  : public RuntimeObject
+struct U3CStartU3Ed__10_t3D69371599D2A84DED6689D4FA6EA1720611EAD3  : public RuntimeObject
 {
 public:
 	// System.Int32 TMPro.Examples.Benchmark01_UGUI/<Start>d__10::<>1__state
@@ -2087,7 +2087,7 @@ public:
 
 
 // ClickColor/<FlashAim>d__2
-struct  U3CFlashAimU3Ed__2_tCF1D619592A7CE7EBFDF10CC72ED4D36A9B531E3  : public RuntimeObject
+struct U3CFlashAimU3Ed__2_tCF1D619592A7CE7EBFDF10CC72ED4D36A9B531E3  : public RuntimeObject
 {
 public:
 	// System.Int32 ClickColor/<FlashAim>d__2::<>1__state
@@ -2127,7 +2127,7 @@ public:
 
 
 // EnemySpawner/<Countdown>d__13
-struct  U3CCountdownU3Ed__13_t3BC1179D81EE66E6454EFCCBDEF34E335C93CFAB  : public RuntimeObject
+struct U3CCountdownU3Ed__13_t3BC1179D81EE66E6454EFCCBDEF34E335C93CFAB  : public RuntimeObject
 {
 public:
 	// System.Int32 EnemySpawner/<Countdown>d__13::<>1__state
@@ -2156,7 +2156,7 @@ public:
 
 
 // TMPro.Examples.ShaderPropAnimator/<AnimateProperties>d__6
-struct  U3CAnimatePropertiesU3Ed__6_t6EF9435006F3F335B99084BECD0ABFEFFEF4A32D  : public RuntimeObject
+struct U3CAnimatePropertiesU3Ed__6_t6EF9435006F3F335B99084BECD0ABFEFFEF4A32D  : public RuntimeObject
 {
 public:
 	// System.Int32 TMPro.Examples.ShaderPropAnimator/<AnimateProperties>d__6::<>1__state
@@ -2196,7 +2196,7 @@ public:
 
 
 // TMPro.Examples.SkewTextExample/<WarpText>d__7
-struct  U3CWarpTextU3Ed__7_tD8218C916B979E7CA67B10A730BD2ACF4B97CA2B  : public RuntimeObject
+struct U3CWarpTextU3Ed__7_tD8218C916B979E7CA67B10A730BD2ACF4B97CA2B  : public RuntimeObject
 {
 public:
 	// System.Int32 TMPro.Examples.SkewTextExample/<WarpText>d__7::<>1__state
@@ -2267,7 +2267,7 @@ public:
 
 
 // TMPro.Examples.TeleType/<Start>d__4
-struct  U3CStartU3Ed__4_t70319341791F5D1BC6F878503A507E845E98C44E  : public RuntimeObject
+struct U3CStartU3Ed__4_t70319341791F5D1BC6F878503A507E845E98C44E  : public RuntimeObject
 {
 public:
 	// System.Int32 TMPro.Examples.TeleType/<Start>d__4::<>1__state
@@ -2327,7 +2327,7 @@ public:
 
 
 // TMPro.Examples.TextConsoleSimulator/<RevealCharacters>d__7
-struct  U3CRevealCharactersU3Ed__7_t9DC94DD1629B430917FDD9FD90D4EC000BB1B15E  : public RuntimeObject
+struct U3CRevealCharactersU3Ed__7_t9DC94DD1629B430917FDD9FD90D4EC000BB1B15E  : public RuntimeObject
 {
 public:
 	// System.Int32 TMPro.Examples.TextConsoleSimulator/<RevealCharacters>d__7::<>1__state
@@ -2409,7 +2409,7 @@ public:
 
 
 // TMPro.Examples.TextConsoleSimulator/<RevealWords>d__8
-struct  U3CRevealWordsU3Ed__8_tF7649A9A0F92FFA0D69DB3B69680480E1B50D408  : public RuntimeObject
+struct U3CRevealWordsU3Ed__8_tF7649A9A0F92FFA0D69DB3B69680480E1B50D408  : public RuntimeObject
 {
 public:
 	// System.Int32 TMPro.Examples.TextConsoleSimulator/<RevealWords>d__8::<>1__state
@@ -2489,7 +2489,7 @@ public:
 
 
 // TMPro.Examples.VertexColorCycler/<AnimateVertexColors>d__3
-struct  U3CAnimateVertexColorsU3Ed__3_tB3AD1CDAF88FD5FB6786CD89058781C6BDF67DAF  : public RuntimeObject
+struct U3CAnimateVertexColorsU3Ed__3_tB3AD1CDAF88FD5FB6786CD89058781C6BDF67DAF  : public RuntimeObject
 {
 public:
 	// System.Int32 TMPro.Examples.VertexColorCycler/<AnimateVertexColors>d__3::<>1__state
@@ -2550,7 +2550,7 @@ public:
 
 
 // TMPro.Examples.VertexJitter/<AnimateVertexColors>d__11
-struct  U3CAnimateVertexColorsU3Ed__11_tB50A33D4FE1F8DD23F6652EA6967FFF7F855C741  : public RuntimeObject
+struct U3CAnimateVertexColorsU3Ed__11_tB50A33D4FE1F8DD23F6652EA6967FFF7F855C741  : public RuntimeObject
 {
 public:
 	// System.Int32 TMPro.Examples.VertexJitter/<AnimateVertexColors>d__11::<>1__state
@@ -2633,7 +2633,7 @@ public:
 
 
 // TMPro.Examples.VertexShakeA/<AnimateVertexColors>d__11
-struct  U3CAnimateVertexColorsU3Ed__11_t6453F9CBEC4C77977786367165D55DA585BE7155  : public RuntimeObject
+struct U3CAnimateVertexColorsU3Ed__11_t6453F9CBEC4C77977786367165D55DA585BE7155  : public RuntimeObject
 {
 public:
 	// System.Int32 TMPro.Examples.VertexShakeA/<AnimateVertexColors>d__11::<>1__state
@@ -2695,7 +2695,7 @@ public:
 
 
 // TMPro.Examples.VertexShakeB/<AnimateVertexColors>d__10
-struct  U3CAnimateVertexColorsU3Ed__10_t740D0A5D063674119342F33329012F78E8D3DAC6  : public RuntimeObject
+struct U3CAnimateVertexColorsU3Ed__10_t740D0A5D063674119342F33329012F78E8D3DAC6  : public RuntimeObject
 {
 public:
 	// System.Int32 TMPro.Examples.VertexShakeB/<AnimateVertexColors>d__10::<>1__state
@@ -2757,7 +2757,7 @@ public:
 
 
 // TMPro.Examples.VertexZoom/<AnimateVertexColors>d__10
-struct  U3CAnimateVertexColorsU3Ed__10_t0331DD44C492F52D541A0BC9A3FC88FC3D1C4B40  : public RuntimeObject
+struct U3CAnimateVertexColorsU3Ed__10_t0331DD44C492F52D541A0BC9A3FC88FC3D1C4B40  : public RuntimeObject
 {
 public:
 	// System.Int32 TMPro.Examples.VertexZoom/<AnimateVertexColors>d__10::<>1__state
@@ -2841,7 +2841,7 @@ public:
 
 
 // TMPro.Examples.WarpTextExample/<WarpText>d__8
-struct  U3CWarpTextU3Ed__8_t4846D84CD08AB0A242548B376B06FF86A4830D76  : public RuntimeObject
+struct U3CWarpTextU3Ed__8_t4846D84CD08AB0A242548B376B06FF86A4830D76  : public RuntimeObject
 {
 public:
 	// System.Int32 TMPro.Examples.WarpTextExample/<WarpText>d__8::<>1__state
@@ -2902,7 +2902,7 @@ public:
 
 
 // TMPro.TMP_TextProcessingStack`1<System.Int32>
-struct  TMP_TextProcessingStack_1_tAD0A40D35721F31D8FE2C344F705515FDF0F7DBA 
+struct TMP_TextProcessingStack_1_tAD0A40D35721F31D8FE2C344F705515FDF0F7DBA 
 {
 public:
 	// T[] TMPro.TMP_TextProcessingStack`1::itemStack
@@ -2971,7 +2971,7 @@ public:
 
 
 // TMPro.TMP_TextProcessingStack`1<System.Single>
-struct  TMP_TextProcessingStack_1_t0C5DDA1BDCC56D66F8465350BB1E55E94AAEBE17 
+struct TMP_TextProcessingStack_1_t0C5DDA1BDCC56D66F8465350BB1E55E94AAEBE17 
 {
 public:
 	// T[] TMPro.TMP_TextProcessingStack`1::itemStack
@@ -3040,7 +3040,7 @@ public:
 
 
 // TMPro.TMP_TextProcessingStack`1<TMPro.TMP_ColorGradient>
-struct  TMP_TextProcessingStack_1_t598A1976548F7435C20001605BBCC77262756804 
+struct TMP_TextProcessingStack_1_t598A1976548F7435C20001605BBCC77262756804 
 {
 public:
 	// T[] TMPro.TMP_TextProcessingStack`1::itemStack
@@ -3110,7 +3110,7 @@ public:
 
 
 // UnityEngine.Events.UnityEvent`1<System.String>
-struct  UnityEvent_1_t208A952325F66BFCB1EDEECEFEF5F1C7A16298A0  : public UnityEventBase_tBB43047292084BA63C5CBB1A379A8BB88611C6FB
+struct UnityEvent_1_t208A952325F66BFCB1EDEECEFEF5F1C7A16298A0  : public UnityEventBase_tBB43047292084BA63C5CBB1A379A8BB88611C6FB
 {
 public:
 	// System.Object[] UnityEngine.Events.UnityEvent`1::m_InvokeArray
@@ -3129,7 +3129,7 @@ public:
 
 
 // UnityEngine.Events.UnityEvent`2<System.Char,System.Int32>
-struct  UnityEvent_2_t5304A7BB9DB39BB3BA59CAF408F8EA7341658E2C  : public UnityEventBase_tBB43047292084BA63C5CBB1A379A8BB88611C6FB
+struct UnityEvent_2_t5304A7BB9DB39BB3BA59CAF408F8EA7341658E2C  : public UnityEventBase_tBB43047292084BA63C5CBB1A379A8BB88611C6FB
 {
 public:
 	// System.Object[] UnityEngine.Events.UnityEvent`2::m_InvokeArray
@@ -3148,7 +3148,7 @@ public:
 
 
 // UnityEngine.Events.UnityEvent`3<System.String,System.Int32,System.Int32>
-struct  UnityEvent_3_tB2C1BFEE5A56978DECD9BA6756512E2CC49CB9FE  : public UnityEventBase_tBB43047292084BA63C5CBB1A379A8BB88611C6FB
+struct UnityEvent_3_tB2C1BFEE5A56978DECD9BA6756512E2CC49CB9FE  : public UnityEventBase_tBB43047292084BA63C5CBB1A379A8BB88611C6FB
 {
 public:
 	// System.Object[] UnityEngine.Events.UnityEvent`3::m_InvokeArray
@@ -3167,7 +3167,7 @@ public:
 
 
 // UnityEngine.Events.UnityEvent`3<System.String,System.String,System.Int32>
-struct  UnityEvent_3_t99EBCF5B18C77267336F36583A2B69BE0535E6E9  : public UnityEventBase_tBB43047292084BA63C5CBB1A379A8BB88611C6FB
+struct UnityEvent_3_t99EBCF5B18C77267336F36583A2B69BE0535E6E9  : public UnityEventBase_tBB43047292084BA63C5CBB1A379A8BB88611C6FB
 {
 public:
 	// System.Object[] UnityEngine.Events.UnityEvent`3::m_InvokeArray
@@ -3186,7 +3186,7 @@ public:
 
 
 // UnityEngine.EventSystems.BaseEventData
-struct  BaseEventData_t722C48843CF21B50E06CC0E2E679415E38A7444E  : public AbstractEventData_tA0B5065DE3430C0031ADE061668E1C7073D718DF
+struct BaseEventData_t722C48843CF21B50E06CC0E2E679415E38A7444E  : public AbstractEventData_tA0B5065DE3430C0031ADE061668E1C7073D718DF
 {
 public:
 	// UnityEngine.EventSystems.EventSystem UnityEngine.EventSystems.BaseEventData::m_EventSystem
@@ -3205,7 +3205,7 @@ public:
 
 
 // System.Boolean
-struct  Boolean_t07D1E3F34E4813023D64F584DFF7B34C9D922F37 
+struct Boolean_t07D1E3F34E4813023D64F584DFF7B34C9D922F37 
 {
 public:
 	// System.Boolean System.Boolean::m_value
@@ -3251,7 +3251,7 @@ public:
 
 
 // System.Byte
-struct  Byte_t0111FAB8B8685667EDDAF77683F0D8F86B659056 
+struct Byte_t0111FAB8B8685667EDDAF77683F0D8F86B659056 
 {
 public:
 	// System.Byte System.Byte::m_value
@@ -3269,7 +3269,7 @@ public:
 
 
 // System.Char
-struct  Char_tFF60D8E7E89A20BE2294A003734341BD1DF43E14 
+struct Char_tFF60D8E7E89A20BE2294A003734341BD1DF43E14 
 {
 public:
 	// System.Char System.Char::m_value
@@ -3304,7 +3304,7 @@ public:
 
 
 // UnityEngine.Color
-struct  Color_tF40DAF76C04FFECF3FE6024F85A294741C9CC659 
+struct Color_tF40DAF76C04FFECF3FE6024F85A294741C9CC659 
 {
 public:
 	// System.Single UnityEngine.Color::r
@@ -3352,7 +3352,7 @@ public:
 
 
 // UnityEngine.Color32
-struct  Color32_tDB54A78627878A7D2DE42BB028D64306A18E858D 
+struct Color32_tDB54A78627878A7D2DE42BB028D64306A18E858D 
 {
 public:
 	union
@@ -3464,7 +3464,7 @@ public:
 
 
 // System.DateTime
-struct  DateTime_tEAF2CD16E071DF5441F40822E4CFE880E5245405 
+struct DateTime_tEAF2CD16E071DF5441F40822E4CFE880E5245405 
 {
 public:
 	// System.UInt64 System.DateTime::dateData
@@ -3530,7 +3530,7 @@ public:
 
 
 // UnityEngine.DrivenRectTransformTracker
-struct  DrivenRectTransformTracker_t7DAF937E47C63B899C7BA0E9B0F206AAB4D85AC2 
+struct DrivenRectTransformTracker_t7DAF937E47C63B899C7BA0E9B0F206AAB4D85AC2 
 {
 public:
 	union
@@ -3546,7 +3546,7 @@ public:
 
 
 // System.Enum
-struct  Enum_t23B90B40F60E677A8025267341651C94AE079CDA  : public ValueType_tDBF999C1B75C48C68621878250DBF6CDBCF51E52
+struct Enum_t23B90B40F60E677A8025267341651C94AE079CDA  : public ValueType_tDBF999C1B75C48C68621878250DBF6CDBCF51E52
 {
 public:
 
@@ -3580,7 +3580,7 @@ struct Enum_t23B90B40F60E677A8025267341651C94AE079CDA_marshaled_com
 };
 
 // UnityEngine.TextCore.FaceInfo
-struct  FaceInfo_t3A29F58B4C0435D2D76E3474E2B9D03F8A20C979 
+struct FaceInfo_t3A29F58B4C0435D2D76E3474E2B9D03F8A20C979 
 {
 public:
 	// System.Int32 UnityEngine.TextCore.FaceInfo::m_FaceIndex
@@ -3838,7 +3838,7 @@ struct FaceInfo_t3A29F58B4C0435D2D76E3474E2B9D03F8A20C979_marshaled_com
 };
 
 // TMPro.FontAssetCreationSettings
-struct  FontAssetCreationSettings_t70B67907C3CF96F5289A141EA8D87A2A422802A1 
+struct FontAssetCreationSettings_t70B67907C3CF96F5289A141EA8D87A2A422802A1 
 {
 public:
 	// System.String TMPro.FontAssetCreationSettings::sourceFontFileName
@@ -4051,7 +4051,7 @@ struct FontAssetCreationSettings_t70B67907C3CF96F5289A141EA8D87A2A422802A1_marsh
 };
 
 // System.Int32
-struct  Int32_tFDE5F8CD43D10453F6A2E0C77FE48C6CC7009046 
+struct Int32_tFDE5F8CD43D10453F6A2E0C77FE48C6CC7009046 
 {
 public:
 	// System.Int32 System.Int32::m_value
@@ -4069,7 +4069,7 @@ public:
 
 
 // System.IntPtr
-struct  IntPtr_t 
+struct IntPtr_t 
 {
 public:
 	// System.Void* System.IntPtr::m_value
@@ -4103,7 +4103,7 @@ public:
 
 
 // UnityEngine.Keyframe
-struct  Keyframe_tBEEE79DF5E970E48A8972FFFCE8B25A6068ACE9F 
+struct Keyframe_tBEEE79DF5E970E48A8972FFFCE8B25A6068ACE9F 
 {
 public:
 	// System.Single UnityEngine.Keyframe::m_Time
@@ -4181,7 +4181,7 @@ public:
 
 
 // TMPro.MaterialReference
-struct  MaterialReference_tB00D33F114B6EF4E7D63B25D053A0111D502951B 
+struct MaterialReference_tB00D33F114B6EF4E7D63B25D053A0111D502951B 
 {
 public:
 	// System.Int32 TMPro.MaterialReference::index
@@ -4309,7 +4309,7 @@ struct MaterialReference_tB00D33F114B6EF4E7D63B25D053A0111D502951B_marshaled_com
 };
 
 // UnityEngine.Matrix4x4
-struct  Matrix4x4_tDE7FF4F2E2EA284F6EFE00D627789D0E5B8B4461 
+struct Matrix4x4_tDE7FF4F2E2EA284F6EFE00D627789D0E5B8B4461 
 {
 public:
 	// System.Single UnityEngine.Matrix4x4::m00
@@ -4503,7 +4503,7 @@ public:
 
 
 // UnityEngine.Quaternion
-struct  Quaternion_t6D28618CF65156D4A0AD747370DDFD0C514A31B4 
+struct Quaternion_t6D28618CF65156D4A0AD747370DDFD0C514A31B4 
 {
 public:
 	// System.Single UnityEngine.Quaternion::x
@@ -4567,7 +4567,7 @@ public:
 
 
 // UnityEngine.Rect
-struct  Rect_t7D9187DB6339DBA5741C09B6CCEF2F54F1966878 
+struct Rect_t7D9187DB6339DBA5741C09B6CCEF2F54F1966878 
 {
 public:
 	// System.Single UnityEngine.Rect::m_XMin
@@ -4615,7 +4615,7 @@ public:
 
 
 // UnityEngine.SceneManagement.Scene
-struct  Scene_t5495AD2FDC587DB2E94D9BDE2B85868BFB9A92EE 
+struct Scene_t5495AD2FDC587DB2E94D9BDE2B85868BFB9A92EE 
 {
 public:
 	// System.Int32 UnityEngine.SceneManagement.Scene::m_Handle
@@ -4633,7 +4633,7 @@ public:
 
 
 // System.Single
-struct  Single_tE07797BA3C98D4CA9B5A19413C19A76688AB899E 
+struct Single_tE07797BA3C98D4CA9B5A19413C19A76688AB899E 
 {
 public:
 	// System.Single System.Single::m_value
@@ -4651,7 +4651,7 @@ public:
 
 
 // UnityEngine.UI.SpriteState
-struct  SpriteState_t9024961148433175CE2F3D9E8E9239A8B1CAB15E 
+struct SpriteState_t9024961148433175CE2F3D9E8E9239A8B1CAB15E 
 {
 public:
 	// UnityEngine.Sprite UnityEngine.UI.SpriteState::m_HighlightedSprite
@@ -4719,7 +4719,7 @@ struct SpriteState_t9024961148433175CE2F3D9E8E9239A8B1CAB15E_marshaled_com
 };
 
 // TMPro.TMP_FontStyleStack
-struct  TMP_FontStyleStack_tAD8C041F7E36517A3CF6E8301D6913159EE2D4D9 
+struct TMP_FontStyleStack_tAD8C041F7E36517A3CF6E8301D6913159EE2D4D9 
 {
 public:
 	// System.Byte TMPro.TMP_FontStyleStack::bold
@@ -4827,7 +4827,7 @@ public:
 
 
 // TMPro.TMP_LinkInfo
-struct  TMP_LinkInfo_t1BFC3C15E256E033F84E8C3A48E0AC5F64D206A6 
+struct TMP_LinkInfo_t1BFC3C15E256E033F84E8C3A48E0AC5F64D206A6 
 {
 public:
 	// TMPro.TMP_Text TMPro.TMP_LinkInfo::textComponent
@@ -4929,7 +4929,7 @@ struct TMP_LinkInfo_t1BFC3C15E256E033F84E8C3A48E0AC5F64D206A6_marshaled_com
 };
 
 // TMPro.TMP_Offset
-struct  TMP_Offset_tFD2420EE03933F6A720EB5B66ED6B4FB67AE2117 
+struct TMP_Offset_tFD2420EE03933F6A720EB5B66ED6B4FB67AE2117 
 {
 public:
 	// System.Single TMPro.TMP_Offset::m_Left
@@ -4993,7 +4993,7 @@ public:
 
 
 // TMPro.TMP_WordInfo
-struct  TMP_WordInfo_t168F70FD30F4875E4C84D40F9F30FCB5D2EB895C 
+struct TMP_WordInfo_t168F70FD30F4875E4C84D40F9F30FCB5D2EB895C 
 {
 public:
 	// TMPro.TMP_Text TMPro.TMP_WordInfo::textComponent
@@ -5058,7 +5058,7 @@ struct TMP_WordInfo_t168F70FD30F4875E4C84D40F9F30FCB5D2EB895C_marshaled_com
 };
 
 // UnityEngine.Vector2
-struct  Vector2_tBB32F2736AEC229A7BFBCE18197EC0F6AC7EC2D9 
+struct Vector2_tBB32F2736AEC229A7BFBCE18197EC0F6AC7EC2D9 
 {
 public:
 	// System.Single UnityEngine.Vector2::x
@@ -5172,7 +5172,7 @@ public:
 
 
 // UnityEngine.Vector3
-struct  Vector3_t65B972D6A585A0A5B63153CF1177A90D3C90D65E 
+struct Vector3_t65B972D6A585A0A5B63153CF1177A90D3C90D65E 
 {
 public:
 	// System.Single UnityEngine.Vector3::x
@@ -5316,7 +5316,7 @@ public:
 
 
 // UnityEngine.Vector4
-struct  Vector4_tA56A37FC5661BCC89C3DDC24BE12BA5BCB6A02C7 
+struct Vector4_tA56A37FC5661BCC89C3DDC24BE12BA5BCB6A02C7 
 {
 public:
 	// System.Single UnityEngine.Vector4::x
@@ -5410,7 +5410,7 @@ public:
 
 
 // System.Void
-struct  Void_t700C6383A2A510C2CF4DD86DABD5CA9FF70ADAC5 
+struct Void_t700C6383A2A510C2CF4DD86DABD5CA9FF70ADAC5 
 {
 public:
 	union
@@ -5426,7 +5426,7 @@ public:
 
 
 // UnityEngine.WaitForEndOfFrame
-struct  WaitForEndOfFrame_t082FDFEAAFF92937632C357C39E55C84B8FD06D4  : public YieldInstruction_tB0B4E05316710E51ECCC1E57174C27FE6DEBBEAF
+struct WaitForEndOfFrame_t082FDFEAAFF92937632C357C39E55C84B8FD06D4  : public YieldInstruction_tB0B4E05316710E51ECCC1E57174C27FE6DEBBEAF
 {
 public:
 
@@ -5435,7 +5435,7 @@ public:
 
 
 // UnityEngine.WaitForSeconds
-struct  WaitForSeconds_t8F9189BE6E467C98C99177038881F8982E0E4013  : public YieldInstruction_tB0B4E05316710E51ECCC1E57174C27FE6DEBBEAF
+struct WaitForSeconds_t8F9189BE6E467C98C99177038881F8982E0E4013  : public YieldInstruction_tB0B4E05316710E51ECCC1E57174C27FE6DEBBEAF
 {
 public:
 	// System.Single UnityEngine.WaitForSeconds::m_Seconds
@@ -5463,7 +5463,7 @@ struct WaitForSeconds_t8F9189BE6E467C98C99177038881F8982E0E4013_marshaled_com : 
 };
 
 // TMPro.TMP_Text/SpecialCharacter
-struct  SpecialCharacter_t06A60B3C91ABA764227413C096AE5060D50D844F 
+struct SpecialCharacter_t06A60B3C91ABA764227413C096AE5060D50D844F 
 {
 public:
 	// TMPro.TMP_Character TMPro.TMP_Text/SpecialCharacter::character
@@ -5530,7 +5530,7 @@ struct SpecialCharacter_t06A60B3C91ABA764227413C096AE5060D50D844F_marshaled_com
 };
 
 // TMPro.TMP_Text/TextBackingContainer
-struct  TextBackingContainer_t50AA56C265D2A3DB961E3DD200165FE78270562B 
+struct TextBackingContainer_t50AA56C265D2A3DB961E3DD200165FE78270562B 
 {
 public:
 	// System.UInt32[] TMPro.TMP_Text/TextBackingContainer::m_Array
@@ -5571,7 +5571,7 @@ struct TextBackingContainer_t50AA56C265D2A3DB961E3DD200165FE78270562B_marshaled_
 };
 
 // TMPro.Examples.VertexJitter/VertexAnim
-struct  VertexAnim_t3C1CE8C591FCD7E249D77127BED0B743EAD556F4 
+struct VertexAnim_t3C1CE8C591FCD7E249D77127BED0B743EAD556F4 
 {
 public:
 	// System.Single TMPro.Examples.VertexJitter/VertexAnim::angleRange
@@ -5609,7 +5609,7 @@ public:
 
 
 // TMPro.TMP_TextProcessingStack`1<UnityEngine.Color32>
-struct  TMP_TextProcessingStack_1_tCB10A5934F69ED17BBB7F709D74D60038177414D 
+struct TMP_TextProcessingStack_1_tCB10A5934F69ED17BBB7F709D74D60038177414D 
 {
 public:
 	// T[] TMPro.TMP_TextProcessingStack`1::itemStack
@@ -5678,7 +5678,7 @@ public:
 
 
 // TMPro.TMP_TextProcessingStack`1<TMPro.MaterialReference>
-struct  TMP_TextProcessingStack_1_t7C34F5D4D2FC429E4551885C16EFDF05B8D2A6E3 
+struct TMP_TextProcessingStack_1_t7C34F5D4D2FC429E4551885C16EFDF05B8D2A6E3 
 {
 public:
 	// T[] TMPro.TMP_TextProcessingStack`1::itemStack
@@ -5757,7 +5757,7 @@ public:
 
 
 // UnityEngine.AnimationCurve
-struct  AnimationCurve_t2D452A14820CEDB83BFF2C911682A4E59001AD03  : public RuntimeObject
+struct AnimationCurve_t2D452A14820CEDB83BFF2C911682A4E59001AD03  : public RuntimeObject
 {
 public:
 	// System.IntPtr UnityEngine.AnimationCurve::m_Ptr
@@ -5785,7 +5785,7 @@ struct AnimationCurve_t2D452A14820CEDB83BFF2C911682A4E59001AD03_marshaled_com
 };
 
 // TMPro.AtlasPopulationMode
-struct  AtlasPopulationMode_t23261B68B33F6966CAB75B6F5162648F7F0F8999 
+struct AtlasPopulationMode_t23261B68B33F6966CAB75B6F5162648F7F0F8999 
 {
 public:
 	// System.Int32 TMPro.AtlasPopulationMode::value__
@@ -5803,7 +5803,7 @@ public:
 
 
 // System.Reflection.BindingFlags
-struct  BindingFlags_tAAAB07D9AC588F0D55D844E51D7035E96DF94733 
+struct BindingFlags_tAAAB07D9AC588F0D55D844E51D7035E96DF94733 
 {
 public:
 	// System.Int32 System.Reflection.BindingFlags::value__
@@ -5821,7 +5821,7 @@ public:
 
 
 // UnityEngine.Bounds
-struct  Bounds_t0F1F36D4F7AF49524B3C2A2259594412A3D3AE37 
+struct Bounds_t0F1F36D4F7AF49524B3C2A2259594412A3D3AE37 
 {
 public:
 	// UnityEngine.Vector3 UnityEngine.Bounds::m_Center
@@ -5849,7 +5849,7 @@ public:
 
 
 // UnityEngine.UI.ColorBlock
-struct  ColorBlock_t04DFBB97B4772D2E00FD17ED2E3E6590E6916955 
+struct ColorBlock_t04DFBB97B4772D2E00FD17ED2E3E6590E6916955 
 {
 public:
 	// UnityEngine.Color UnityEngine.UI.ColorBlock::m_NormalColor
@@ -5943,7 +5943,7 @@ public:
 
 
 // TMPro.ColorMode
-struct  ColorMode_t2C99ABBE35C08A863709500BFBBD6784D7114C09 
+struct ColorMode_t2C99ABBE35C08A863709500BFBBD6784D7114C09 
 {
 public:
 	// System.Int32 TMPro.ColorMode::value__
@@ -5961,7 +5961,7 @@ public:
 
 
 // UnityEngine.Coroutine
-struct  Coroutine_t899D5232EF542CB8BA70AF9ECEECA494FAA9CCB7  : public YieldInstruction_tB0B4E05316710E51ECCC1E57174C27FE6DEBBEAF
+struct Coroutine_t899D5232EF542CB8BA70AF9ECEECA494FAA9CCB7  : public YieldInstruction_tB0B4E05316710E51ECCC1E57174C27FE6DEBBEAF
 {
 public:
 	// System.IntPtr UnityEngine.Coroutine::m_Ptr
@@ -5989,7 +5989,7 @@ struct Coroutine_t899D5232EF542CB8BA70AF9ECEECA494FAA9CCB7_marshaled_com : publi
 };
 
 // System.Delegate
-struct  Delegate_t  : public RuntimeObject
+struct Delegate_t  : public RuntimeObject
 {
 public:
 	// System.IntPtr System.Delegate::method_ptr
@@ -6141,7 +6141,7 @@ struct Delegate_t_marshaled_com
 };
 
 // System.Exception
-struct  Exception_t  : public RuntimeObject
+struct Exception_t  : public RuntimeObject
 {
 public:
 	// System.String System.Exception::_className
@@ -6367,7 +6367,7 @@ struct Exception_t_marshaled_com
 };
 
 // TMPro.Extents
-struct  Extents_tD663823B610620A001CCCCFF452C10403AF2A0FA 
+struct Extents_tD663823B610620A001CCCCFF452C10403AF2A0FA 
 {
 public:
 	// UnityEngine.Vector2 TMPro.Extents::min
@@ -6421,7 +6421,7 @@ public:
 
 
 // TMPro.FontStyles
-struct  FontStyles_tAB9AC2C8316219AE73612ED4DD60417C14B5B74C 
+struct FontStyles_tAB9AC2C8316219AE73612ED4DD60417C14B5B74C 
 {
 public:
 	// System.Int32 TMPro.FontStyles::value__
@@ -6439,7 +6439,7 @@ public:
 
 
 // TMPro.FontWeight
-struct  FontWeight_tBF8B23C3A4F63D5602FEC93BE775C93CA4DDDC26 
+struct FontWeight_tBF8B23C3A4F63D5602FEC93BE775C93CA4DDDC26 
 {
 public:
 	// System.Int32 TMPro.FontWeight::value__
@@ -6457,7 +6457,7 @@ public:
 
 
 // UnityEngine.TextCore.LowLevel.GlyphRenderMode
-struct  GlyphRenderMode_t43D8B1ECDEC4836D7689CB73D0D6C1EF346F973C 
+struct GlyphRenderMode_t43D8B1ECDEC4836D7689CB73D0D6C1EF346F973C 
 {
 public:
 	// System.Int32 UnityEngine.TextCore.LowLevel.GlyphRenderMode::value__
@@ -6475,7 +6475,7 @@ public:
 
 
 // TMPro.HighlightState
-struct  HighlightState_t52CE27A1187034A1037ABC13A70BAEE4AC3B5759 
+struct HighlightState_t52CE27A1187034A1037ABC13A70BAEE4AC3B5759 
 {
 public:
 	// UnityEngine.Color32 TMPro.HighlightState::color
@@ -6503,7 +6503,7 @@ public:
 
 
 // TMPro.HorizontalAlignmentOptions
-struct  HorizontalAlignmentOptions_tCBBC74167BDEF6B5B510DDC43B5136F793A05193 
+struct HorizontalAlignmentOptions_tCBBC74167BDEF6B5B510DDC43B5136F793A05193 
 {
 public:
 	// System.Int32 TMPro.HorizontalAlignmentOptions::value__
@@ -6521,7 +6521,7 @@ public:
 
 
 // UnityEngine.KeyCode
-struct  KeyCode_t1D303F7D061BF4429872E9F109ADDBCB431671F4 
+struct KeyCode_t1D303F7D061BF4429872E9F109ADDBCB431671F4 
 {
 public:
 	// System.Int32 UnityEngine.KeyCode::value__
@@ -6539,7 +6539,7 @@ public:
 
 
 // TMPro.MaskingTypes
-struct  MaskingTypes_t0CDA999B819C7FDED898736492CA0E70E4163477 
+struct MaskingTypes_t0CDA999B819C7FDED898736492CA0E70E4163477 
 {
 public:
 	// System.Int32 TMPro.MaskingTypes::value__
@@ -6557,7 +6557,7 @@ public:
 
 
 // UnityEngine.Object
-struct  Object_tF2F3778131EFF286AF62B7B013A170F95A91571A  : public RuntimeObject
+struct Object_tF2F3778131EFF286AF62B7B013A170F95A91571A  : public RuntimeObject
 {
 public:
 	// System.IntPtr UnityEngine.Object::m_CachedPtr
@@ -6601,7 +6601,7 @@ struct Object_tF2F3778131EFF286AF62B7B013A170F95A91571A_marshaled_com
 };
 
 // Unity.Profiling.ProfilerMarker
-struct  ProfilerMarker_tAE86534C80C5D67768DB3B244D8D139A2E6495E1 
+struct ProfilerMarker_tAE86534C80C5D67768DB3B244D8D139A2E6495E1 
 {
 public:
 	// System.IntPtr Unity.Profiling.ProfilerMarker::m_Ptr
@@ -6619,7 +6619,7 @@ public:
 
 
 // UnityEngine.Ray
-struct  Ray_t2E9E67CC8B03EE6ED2BBF3D2C9C96DDF70E1D5E6 
+struct Ray_t2E9E67CC8B03EE6ED2BBF3D2C9C96DDF70E1D5E6 
 {
 public:
 	// UnityEngine.Vector3 UnityEngine.Ray::m_Origin
@@ -6647,7 +6647,7 @@ public:
 
 
 // UnityEngine.RaycastHit
-struct  RaycastHit_t59E5AEC8FE13BFA2ACBB6FFBDB7585FFB7288F89 
+struct RaycastHit_t59E5AEC8FE13BFA2ACBB6FFBDB7585FFB7288F89 
 {
 public:
 	// UnityEngine.Vector3 UnityEngine.RaycastHit::m_Point
@@ -6715,7 +6715,7 @@ public:
 
 
 // UnityEngine.RaycastHit2D
-struct  RaycastHit2D_t210878DAEBC96C1F69DF9883C454758724A106A4 
+struct RaycastHit2D_t210878DAEBC96C1F69DF9883C454758724A106A4 
 {
 public:
 	// UnityEngine.Vector2 UnityEngine.RaycastHit2D::m_Centroid
@@ -6783,7 +6783,7 @@ public:
 
 
 // UnityEngine.EventSystems.RaycastResult
-struct  RaycastResult_t9EFDE24B29650BD6DC8A49D954A3769E17146BCE 
+struct RaycastResult_t9EFDE24B29650BD6DC8A49D954A3769E17146BCE 
 {
 public:
 	// UnityEngine.GameObject UnityEngine.EventSystems.RaycastResult::m_GameObject
@@ -6933,7 +6933,7 @@ struct RaycastResult_t9EFDE24B29650BD6DC8A49D954A3769E17146BCE_marshaled_com
 };
 
 // UnityEngine.RenderMode
-struct  RenderMode_tFF8E9ABC771ACEBD5ACC2D9DFB02264E0EA6CDBF 
+struct RenderMode_tFF8E9ABC771ACEBD5ACC2D9DFB02264E0EA6CDBF 
 {
 public:
 	// System.Int32 UnityEngine.RenderMode::value__
@@ -6951,7 +6951,7 @@ public:
 
 
 // UnityEngine.RuntimePlatform
-struct  RuntimePlatform_tB8798C800FD9810C0FE2B7D2F2A0A3979D239065 
+struct RuntimePlatform_tB8798C800FD9810C0FE2B7D2F2A0A3979D239065 
 {
 public:
 	// System.Int32 UnityEngine.RuntimePlatform::value__
@@ -6969,7 +6969,7 @@ public:
 
 
 // System.RuntimeTypeHandle
-struct  RuntimeTypeHandle_tC33965ADA3E041E0C94AF05E5CB527B56482CEF9 
+struct RuntimeTypeHandle_tC33965ADA3E041E0C94AF05E5CB527B56482CEF9 
 {
 public:
 	// System.IntPtr System.RuntimeTypeHandle::value
@@ -6987,7 +6987,7 @@ public:
 
 
 // UnityEngine.Space
-struct  Space_t568D704D2B0AAC3E5894DDFF13DB2E02E2CD539E 
+struct Space_t568D704D2B0AAC3E5894DDFF13DB2E02E2CD539E 
 {
 public:
 	// System.Int32 UnityEngine.Space::value__
@@ -7005,7 +7005,7 @@ public:
 
 
 // TMPro.TMP_TextElementType
-struct  TMP_TextElementType_t4BDF96DA2071216188B19EB33C35912BD185ECA3 
+struct TMP_TextElementType_t4BDF96DA2071216188B19EB33C35912BD185ECA3 
 {
 public:
 	// System.Int32 TMPro.TMP_TextElementType::value__
@@ -7023,7 +7023,7 @@ public:
 
 
 // TMPro.TMP_TextInfo
-struct  TMP_TextInfo_t33ACB74FB814F588497640C86976E5DB6DD7B547  : public RuntimeObject
+struct TMP_TextInfo_t33ACB74FB814F588497640C86976E5DB6DD7B547  : public RuntimeObject
 {
 public:
 	// TMPro.TMP_Text TMPro.TMP_TextInfo::textComponent
@@ -7225,7 +7225,7 @@ public:
 
 
 // TMPro.TMP_Vertex
-struct  TMP_Vertex_t8008D4AEC9AE4E475F5E02225801EB18A2A1341E 
+struct TMP_Vertex_t8008D4AEC9AE4E475F5E02225801EB18A2A1341E 
 {
 public:
 	// UnityEngine.Vector3 TMPro.TMP_Vertex::position
@@ -7299,7 +7299,7 @@ public:
 
 
 // TMPro.TMP_VertexDataUpdateFlags
-struct  TMP_VertexDataUpdateFlags_tE7C38BDA9FC5B09848F4412694FFA8AEC56C4782 
+struct TMP_VertexDataUpdateFlags_tE7C38BDA9FC5B09848F4412694FFA8AEC56C4782 
 {
 public:
 	// System.Int32 TMPro.TMP_VertexDataUpdateFlags::value__
@@ -7317,7 +7317,7 @@ public:
 
 
 // TMPro.TextAlignmentOptions
-struct  TextAlignmentOptions_t682AC2BC382B468C04A23B008505ACCBF826AD63 
+struct TextAlignmentOptions_t682AC2BC382B468C04A23B008505ACCBF826AD63 
 {
 public:
 	// System.Int32 TMPro.TextAlignmentOptions::value__
@@ -7335,7 +7335,7 @@ public:
 
 
 // UnityEngine.TextAnchor
-struct  TextAnchor_tA4C88E77C2D7312F43412275B01E1341A7CB2232 
+struct TextAnchor_tA4C88E77C2D7312F43412275B01E1341A7CB2232 
 {
 public:
 	// System.Int32 UnityEngine.TextAnchor::value__
@@ -7353,7 +7353,7 @@ public:
 
 
 // TMPro.TextContainerAnchors
-struct  TextContainerAnchors_t25F7579302D0B5735E125B3CDDDF4B1C3E3D43EA 
+struct TextContainerAnchors_t25F7579302D0B5735E125B3CDDDF4B1C3E3D43EA 
 {
 public:
 	// System.Int32 TMPro.TextContainerAnchors::value__
@@ -7371,7 +7371,7 @@ public:
 
 
 // TMPro.TextOverflowModes
-struct  TextOverflowModes_t3E5E40446E0C1088788010EE07323B45DB7549C6 
+struct TextOverflowModes_t3E5E40446E0C1088788010EE07323B45DB7549C6 
 {
 public:
 	// System.Int32 TMPro.TextOverflowModes::value__
@@ -7389,7 +7389,7 @@ public:
 
 
 // TMPro.TextRenderFlags
-struct  TextRenderFlags_tBA599FEF207E56A80860B6266E3C9F57B59CA9F4 
+struct TextRenderFlags_tBA599FEF207E56A80860B6266E3C9F57B59CA9F4 
 {
 public:
 	// System.Int32 TMPro.TextRenderFlags::value__
@@ -7407,7 +7407,7 @@ public:
 
 
 // TMPro.TextureMappingOptions
-struct  TextureMappingOptions_t9FA25F9B2D01E6B7D8DA8761AAED241D285A285A 
+struct TextureMappingOptions_t9FA25F9B2D01E6B7D8DA8761AAED241D285A285A 
 {
 public:
 	// System.Int32 TMPro.TextureMappingOptions::value__
@@ -7425,7 +7425,7 @@ public:
 
 
 // UnityEngine.TouchPhase
-struct  TouchPhase_tB52B8A497547FB9575DE7975D13AC7D64C3A958A 
+struct TouchPhase_tB52B8A497547FB9575DE7975D13AC7D64C3A958A 
 {
 public:
 	// System.Int32 UnityEngine.TouchPhase::value__
@@ -7443,7 +7443,7 @@ public:
 
 
 // UnityEngine.TouchScreenKeyboardType
-struct  TouchScreenKeyboardType_tBD90DFB07923EC19E5EA59FAF26292AC2799A932 
+struct TouchScreenKeyboardType_tBD90DFB07923EC19E5EA59FAF26292AC2799A932 
 {
 public:
 	// System.Int32 UnityEngine.TouchScreenKeyboardType::value__
@@ -7461,7 +7461,7 @@ public:
 
 
 // UnityEngine.TouchType
-struct  TouchType_t2EF726465ABD45681A6686BAC426814AA087C20F 
+struct TouchType_t2EF726465ABD45681A6686BAC426814AA087C20F 
 {
 public:
 	// System.Int32 UnityEngine.TouchType::value__
@@ -7479,7 +7479,7 @@ public:
 
 
 // TMPro.VertexGradient
-struct  VertexGradient_t673FE70EC807F322353FB5B9A790207A57DBFC0D 
+struct VertexGradient_t673FE70EC807F322353FB5B9A790207A57DBFC0D 
 {
 public:
 	// UnityEngine.Color TMPro.VertexGradient::topLeft
@@ -7527,7 +7527,7 @@ public:
 
 
 // TMPro.VertexSortingOrder
-struct  VertexSortingOrder_t8D099B77634C901CB5D2497AEAC94127E9DE013B 
+struct VertexSortingOrder_t8D099B77634C901CB5D2497AEAC94127E9DE013B 
 {
 public:
 	// System.Int32 TMPro.VertexSortingOrder::value__
@@ -7545,7 +7545,7 @@ public:
 
 
 // TMPro.VerticalAlignmentOptions
-struct  VerticalAlignmentOptions_t6F8B6FBA36D97C6CA534AE3956D9060E39C9D326 
+struct VerticalAlignmentOptions_t6F8B6FBA36D97C6CA534AE3956D9060E39C9D326 
 {
 public:
 	// System.Int32 TMPro.VerticalAlignmentOptions::value__
@@ -7563,7 +7563,7 @@ public:
 
 
 // UnityEngine.WrapMode
-struct  WrapMode_t0DF566E32B136795606714DB9A11A3DC170F5468 
+struct WrapMode_t0DF566E32B136795606714DB9A11A3DC170F5468 
 {
 public:
 	// System.Int32 UnityEngine.WrapMode::value__
@@ -7581,7 +7581,7 @@ public:
 
 
 // TMPro.Examples.CameraController/CameraModes
-struct  CameraModes_t86C030D336478B1715780ECE7AB12A629AD0ACE0 
+struct CameraModes_t86C030D336478B1715780ECE7AB12A629AD0ACE0 
 {
 public:
 	// System.Int32 TMPro.Examples.CameraController/CameraModes::value__
@@ -7599,7 +7599,7 @@ public:
 
 
 // EnvMapAnimator/<Start>d__4
-struct  U3CStartU3Ed__4_t85DC3CED72C53244AC5D2467B8CB12EF944D3266  : public RuntimeObject
+struct U3CStartU3Ed__4_t85DC3CED72C53244AC5D2467B8CB12EF944D3266  : public RuntimeObject
 {
 public:
 	// System.Int32 EnvMapAnimator/<Start>d__4::<>1__state
@@ -7649,7 +7649,7 @@ public:
 
 
 // UnityEngine.UI.Image/FillMethod
-struct  FillMethod_tC37E5898D113A8FBF25A6AB6FBA451CC51E211E2 
+struct FillMethod_tC37E5898D113A8FBF25A6AB6FBA451CC51E211E2 
 {
 public:
 	// System.Int32 UnityEngine.UI.Image/FillMethod::value__
@@ -7667,7 +7667,7 @@ public:
 
 
 // UnityEngine.UI.Image/Type
-struct  Type_tDCB08AB7425CAB70C1E46CC341F877423B5A5E12 
+struct Type_tDCB08AB7425CAB70C1E46CC341F877423B5A5E12 
 {
 public:
 	// System.Int32 UnityEngine.UI.Image/Type::value__
@@ -7685,7 +7685,7 @@ public:
 
 
 // UnityEngine.UI.Navigation/Mode
-struct  Mode_t3113FDF05158BBA1DFC78D7F69E4C1D25135CB0F 
+struct Mode_t3113FDF05158BBA1DFC78D7F69E4C1D25135CB0F 
 {
 public:
 	// System.Int32 UnityEngine.UI.Navigation/Mode::value__
@@ -7703,7 +7703,7 @@ public:
 
 
 // TMPro.Examples.ObjectSpin/MotionType
-struct  MotionType_t7C60A9BB5280294C6FBC1DB5E747EFF94A342BF5 
+struct MotionType_t7C60A9BB5280294C6FBC1DB5E747EFF94A342BF5 
 {
 public:
 	// System.Int32 TMPro.Examples.ObjectSpin/MotionType::value__
@@ -7721,7 +7721,7 @@ public:
 
 
 // UnityEngine.EventSystems.PointerEventData/InputButton
-struct  InputButton_tA5409FE587ADC841D2BF80835D04074A89C59A9D 
+struct InputButton_tA5409FE587ADC841D2BF80835D04074A89C59A9D 
 {
 public:
 	// System.Int32 UnityEngine.EventSystems.PointerEventData/InputButton::value__
@@ -7739,7 +7739,7 @@ public:
 
 
 // UnityEngine.UI.Scrollbar/Direction
-struct  Direction_tCE7C4B78403A18007E901268411DB754E7B784B7 
+struct Direction_tCE7C4B78403A18007E901268411DB754E7B784B7 
 {
 public:
 	// System.Int32 UnityEngine.UI.Scrollbar/Direction::value__
@@ -7757,7 +7757,7 @@ public:
 
 
 // UnityEngine.UI.Selectable/Transition
-struct  Transition_t1FC449676815A798E758D32E8BE6DC0A2511DF14 
+struct Transition_t1FC449676815A798E758D32E8BE6DC0A2511DF14 
 {
 public:
 	// System.Int32 UnityEngine.UI.Selectable/Transition::value__
@@ -7775,7 +7775,7 @@ public:
 
 
 // UnityEngine.UI.Slider/Direction
-struct  Direction_tFC329DCFF9844C052301C90100CA0F5FA9C65961 
+struct Direction_tFC329DCFF9844C052301C90100CA0F5FA9C65961 
 {
 public:
 	// System.Int32 UnityEngine.UI.Slider/Direction::value__
@@ -7793,7 +7793,7 @@ public:
 
 
 // TMPro.Examples.TMP_ExampleScript_01/objectType
-struct  objectType_t5159C717EF79DEA9C8F7CF5F830EE5D4C4560036 
+struct objectType_t5159C717EF79DEA9C8F7CF5F830EE5D4C4560036 
 {
 public:
 	// System.Int32 TMPro.Examples.TMP_ExampleScript_01/objectType::value__
@@ -7811,7 +7811,7 @@ public:
 
 
 // TMPro.Examples.TMP_FrameRateCounter/FpsCounterAnchorPositions
-struct  FpsCounterAnchorPositions_tD7297D86C9462F5BC670EC9B05049FA736903F03 
+struct FpsCounterAnchorPositions_tD7297D86C9462F5BC670EC9B05049FA736903F03 
 {
 public:
 	// System.Int32 TMPro.Examples.TMP_FrameRateCounter/FpsCounterAnchorPositions::value__
@@ -7829,7 +7829,7 @@ public:
 
 
 // TMPro.TMP_InputField/CharacterValidation
-struct  CharacterValidation_t08E980563A3EBE46E8507BD2BC8F4E865EE0DDB3 
+struct CharacterValidation_t08E980563A3EBE46E8507BD2BC8F4E865EE0DDB3 
 {
 public:
 	// System.Int32 TMPro.TMP_InputField/CharacterValidation::value__
@@ -7847,7 +7847,7 @@ public:
 
 
 // TMPro.TMP_InputField/ContentType
-struct  ContentType_t3496CF3DD8D3F13E61A7A5D5D6BAC0B339D16C4D 
+struct ContentType_t3496CF3DD8D3F13E61A7A5D5D6BAC0B339D16C4D 
 {
 public:
 	// System.Int32 TMPro.TMP_InputField/ContentType::value__
@@ -7865,7 +7865,7 @@ public:
 
 
 // TMPro.TMP_InputField/InputType
-struct  InputType_tBE7A7257C7830BF7F2CBF8D2F612B497DEB8AC95 
+struct InputType_tBE7A7257C7830BF7F2CBF8D2F612B497DEB8AC95 
 {
 public:
 	// System.Int32 TMPro.TMP_InputField/InputType::value__
@@ -7883,7 +7883,7 @@ public:
 
 
 // TMPro.TMP_InputField/LineType
-struct  LineType_tCC7BCF3286F44F2AEEBF998AEDB21F4B353569FC 
+struct LineType_tCC7BCF3286F44F2AEEBF998AEDB21F4B353569FC 
 {
 public:
 	// System.Int32 TMPro.TMP_InputField/LineType::value__
@@ -7901,7 +7901,7 @@ public:
 
 
 // TMPro.TMP_InputField/SubmitEvent
-struct  SubmitEvent_tCD2882D91E14B30F4FFAF154BFB4D383C0544302  : public UnityEvent_1_t208A952325F66BFCB1EDEECEFEF5F1C7A16298A0
+struct SubmitEvent_tCD2882D91E14B30F4FFAF154BFB4D383C0544302  : public UnityEvent_1_t208A952325F66BFCB1EDEECEFEF5F1C7A16298A0
 {
 public:
 
@@ -7910,7 +7910,7 @@ public:
 
 
 // TMPro.TMP_Text/TextInputSources
-struct  TextInputSources_t8A0451130450FC08C5847209E7551F27F5CAF4D0 
+struct TextInputSources_t8A0451130450FC08C5847209E7551F27F5CAF4D0 
 {
 public:
 	// System.Int32 TMPro.TMP_Text/TextInputSources::value__
@@ -7928,7 +7928,7 @@ public:
 
 
 // TMPro.TMP_TextEventHandler/CharacterSelectionEvent
-struct  CharacterSelectionEvent_t3F24E19931D51E4616A11C4D690BC0B3D738D64F  : public UnityEvent_2_t5304A7BB9DB39BB3BA59CAF408F8EA7341658E2C
+struct CharacterSelectionEvent_t3F24E19931D51E4616A11C4D690BC0B3D738D64F  : public UnityEvent_2_t5304A7BB9DB39BB3BA59CAF408F8EA7341658E2C
 {
 public:
 
@@ -7937,7 +7937,7 @@ public:
 
 
 // TMPro.TMP_TextEventHandler/LineSelectionEvent
-struct  LineSelectionEvent_tBD0FAC01BF9DE63FE60817F0B760E24E951C4712  : public UnityEvent_3_tB2C1BFEE5A56978DECD9BA6756512E2CC49CB9FE
+struct LineSelectionEvent_tBD0FAC01BF9DE63FE60817F0B760E24E951C4712  : public UnityEvent_3_tB2C1BFEE5A56978DECD9BA6756512E2CC49CB9FE
 {
 public:
 
@@ -7946,7 +7946,7 @@ public:
 
 
 // TMPro.TMP_TextEventHandler/LinkSelectionEvent
-struct  LinkSelectionEvent_tDDEFCE74540F682E52A3445C536D3F29A91F98AF  : public UnityEvent_3_t99EBCF5B18C77267336F36583A2B69BE0535E6E9
+struct LinkSelectionEvent_tDDEFCE74540F682E52A3445C536D3F29A91F98AF  : public UnityEvent_3_t99EBCF5B18C77267336F36583A2B69BE0535E6E9
 {
 public:
 
@@ -7955,7 +7955,7 @@ public:
 
 
 // TMPro.TMP_TextEventHandler/SpriteSelectionEvent
-struct  SpriteSelectionEvent_tAF7524A6DF6D4849E206726E3AC085BCB91B4618  : public UnityEvent_2_t5304A7BB9DB39BB3BA59CAF408F8EA7341658E2C
+struct SpriteSelectionEvent_tAF7524A6DF6D4849E206726E3AC085BCB91B4618  : public UnityEvent_2_t5304A7BB9DB39BB3BA59CAF408F8EA7341658E2C
 {
 public:
 
@@ -7964,7 +7964,7 @@ public:
 
 
 // TMPro.TMP_TextEventHandler/WordSelectionEvent
-struct  WordSelectionEvent_t3FE09C7D7E726DC634003A28E2B3CB78B42AE6F8  : public UnityEvent_3_tB2C1BFEE5A56978DECD9BA6756512E2CC49CB9FE
+struct WordSelectionEvent_t3FE09C7D7E726DC634003A28E2B3CB78B42AE6F8  : public UnityEvent_3_tB2C1BFEE5A56978DECD9BA6756512E2CC49CB9FE
 {
 public:
 
@@ -7973,7 +7973,7 @@ public:
 
 
 // TMPro.Examples.TMP_UiFrameRateCounter/FpsCounterAnchorPositions
-struct  FpsCounterAnchorPositions_t1E46DD5A81E44E1D3F7140DD75ABBBCB9B52DDCC 
+struct FpsCounterAnchorPositions_t1E46DD5A81E44E1D3F7140DD75ABBBCB9B52DDCC 
 {
 public:
 	// System.Int32 TMPro.Examples.TMP_UiFrameRateCounter/FpsCounterAnchorPositions::value__
@@ -7991,7 +7991,7 @@ public:
 
 
 // TMPro.Examples.TMPro_InstructionOverlay/FpsCounterAnchorPositions
-struct  FpsCounterAnchorPositions_t8925F6C50F79F9AFA64E5BF6270769F3A3634927 
+struct FpsCounterAnchorPositions_t8925F6C50F79F9AFA64E5BF6270769F3A3634927 
 {
 public:
 	// System.Int32 TMPro.Examples.TMPro_InstructionOverlay/FpsCounterAnchorPositions::value__
@@ -8009,7 +8009,7 @@ public:
 
 
 // TMPro.Examples.TextMeshProFloatingText/<DisplayTextMeshFloatingText>d__13
-struct  U3CDisplayTextMeshFloatingTextU3Ed__13_t4B6A65678514F8D3CD0E6F44F8AB9DDA1228C55C  : public RuntimeObject
+struct U3CDisplayTextMeshFloatingTextU3Ed__13_t4B6A65678514F8D3CD0E6F44F8AB9DDA1228C55C  : public RuntimeObject
 {
 public:
 	// System.Int32 TMPro.Examples.TextMeshProFloatingText/<DisplayTextMeshFloatingText>d__13::<>1__state
@@ -8119,7 +8119,7 @@ public:
 
 
 // TMPro.Examples.TextMeshProFloatingText/<DisplayTextMeshProFloatingText>d__12
-struct  U3CDisplayTextMeshProFloatingTextU3Ed__12_t0F0EBDC5A3A2FF615C3205C8019AB8A81EDEF6FC  : public RuntimeObject
+struct U3CDisplayTextMeshProFloatingTextU3Ed__12_t0F0EBDC5A3A2FF615C3205C8019AB8A81EDEF6FC  : public RuntimeObject
 {
 public:
 	// System.Int32 TMPro.Examples.TextMeshProFloatingText/<DisplayTextMeshProFloatingText>d__12::<>1__state
@@ -8229,7 +8229,7 @@ public:
 
 
 // TMPro.TMP_TextProcessingStack`1<TMPro.FontWeight>
-struct  TMP_TextProcessingStack_1_tC2FDE14AC486023AEB4D20CB306F9198CBE168C7 
+struct TMP_TextProcessingStack_1_tC2FDE14AC486023AEB4D20CB306F9198CBE168C7 
 {
 public:
 	// T[] TMPro.TMP_TextProcessingStack`1::itemStack
@@ -8298,7 +8298,7 @@ public:
 
 
 // TMPro.TMP_TextProcessingStack`1<TMPro.HighlightState>
-struct  TMP_TextProcessingStack_1_t091E8E0507335193E71397075A9E75FFE125381E 
+struct TMP_TextProcessingStack_1_t091E8E0507335193E71397075A9E75FFE125381E 
 {
 public:
 	// T[] TMPro.TMP_TextProcessingStack`1::itemStack
@@ -8367,7 +8367,7 @@ public:
 
 
 // TMPro.TMP_TextProcessingStack`1<TMPro.HorizontalAlignmentOptions>
-struct  TMP_TextProcessingStack_1_t860FCBD32172CBAC38125AB43150338E7CF55B1B 
+struct TMP_TextProcessingStack_1_t860FCBD32172CBAC38125AB43150338E7CF55B1B 
 {
 public:
 	// T[] TMPro.TMP_TextProcessingStack`1::itemStack
@@ -8436,7 +8436,7 @@ public:
 
 
 // UnityEngine.AudioClip
-struct  AudioClip_t16D2E573E7CC1C5118D8EE0F0692D46866A1C0EE  : public Object_tF2F3778131EFF286AF62B7B013A170F95A91571A
+struct AudioClip_t16D2E573E7CC1C5118D8EE0F0692D46866A1C0EE  : public Object_tF2F3778131EFF286AF62B7B013A170F95A91571A
 {
 public:
 	// UnityEngine.AudioClip/PCMReaderCallback UnityEngine.AudioClip::m_PCMReaderCallback
@@ -8466,7 +8466,7 @@ public:
 
 
 // UnityEngine.Component
-struct  Component_t62FBC8D2420DA4BE9037AFE430740F6B3EECA684  : public Object_tF2F3778131EFF286AF62B7B013A170F95A91571A
+struct Component_t62FBC8D2420DA4BE9037AFE430740F6B3EECA684  : public Object_tF2F3778131EFF286AF62B7B013A170F95A91571A
 {
 public:
 
@@ -8475,7 +8475,7 @@ public:
 
 
 // UnityEngine.Font
-struct  Font_tB53D3F362CB1A0B92307B362826F212AE2D2A6A9  : public Object_tF2F3778131EFF286AF62B7B013A170F95A91571A
+struct Font_tB53D3F362CB1A0B92307B362826F212AE2D2A6A9  : public Object_tF2F3778131EFF286AF62B7B013A170F95A91571A
 {
 public:
 	// UnityEngine.Font/FontTextureRebuildCallback UnityEngine.Font::m_FontTextureRebuildCallback
@@ -8511,7 +8511,7 @@ public:
 
 
 // UnityEngine.GameObject
-struct  GameObject_tC000A2E1A7CF1E10FD7BA08863287C072207C319  : public Object_tF2F3778131EFF286AF62B7B013A170F95A91571A
+struct GameObject_tC000A2E1A7CF1E10FD7BA08863287C072207C319  : public Object_tF2F3778131EFF286AF62B7B013A170F95A91571A
 {
 public:
 
@@ -8520,7 +8520,7 @@ public:
 
 
 // UnityEngine.Material
-struct  Material_t8927C00353A72755313F046D0CE85178AE8218EE  : public Object_tF2F3778131EFF286AF62B7B013A170F95A91571A
+struct Material_t8927C00353A72755313F046D0CE85178AE8218EE  : public Object_tF2F3778131EFF286AF62B7B013A170F95A91571A
 {
 public:
 
@@ -8529,7 +8529,7 @@ public:
 
 
 // UnityEngine.Mesh
-struct  Mesh_t2F5992DBA650D5862B43D3823ACD997132A57DA6  : public Object_tF2F3778131EFF286AF62B7B013A170F95A91571A
+struct Mesh_t2F5992DBA650D5862B43D3823ACD997132A57DA6  : public Object_tF2F3778131EFF286AF62B7B013A170F95A91571A
 {
 public:
 
@@ -8538,7 +8538,7 @@ public:
 
 
 // System.MulticastDelegate
-struct  MulticastDelegate_t  : public Delegate_t
+struct MulticastDelegate_t  : public Delegate_t
 {
 public:
 	// System.Delegate[] System.MulticastDelegate::delegates
@@ -8567,7 +8567,7 @@ struct MulticastDelegate_t_marshaled_com : public Delegate_t_marshaled_com
 };
 
 // UnityEngine.UI.Navigation
-struct  Navigation_t1CF0FFB22C0357CD64714FB7A40A275F899D363A 
+struct Navigation_t1CF0FFB22C0357CD64714FB7A40A275F899D363A 
 {
 public:
 	// UnityEngine.UI.Navigation/Mode UnityEngine.UI.Navigation::m_Mode
@@ -8659,7 +8659,7 @@ struct Navigation_t1CF0FFB22C0357CD64714FB7A40A275F899D363A_marshaled_com
 };
 
 // UnityEngine.EventSystems.PointerEventData
-struct  PointerEventData_tC6C1BEE9D4C8755A31DA7FC0C9A1F28A36456954  : public BaseEventData_t722C48843CF21B50E06CC0E2E679415E38A7444E
+struct PointerEventData_tC6C1BEE9D4C8755A31DA7FC0C9A1F28A36456954  : public BaseEventData_t722C48843CF21B50E06CC0E2E679415E38A7444E
 {
 public:
 	// UnityEngine.GameObject UnityEngine.EventSystems.PointerEventData::<pointerEnter>k__BackingField
@@ -8972,7 +8972,7 @@ public:
 
 
 // UnityEngine.ScriptableObject
-struct  ScriptableObject_t4361E08CEBF052C650D3666C7CEC37EB31DE116A  : public Object_tF2F3778131EFF286AF62B7B013A170F95A91571A
+struct ScriptableObject_t4361E08CEBF052C650D3666C7CEC37EB31DE116A  : public Object_tF2F3778131EFF286AF62B7B013A170F95A91571A
 {
 public:
 
@@ -8989,7 +8989,7 @@ struct ScriptableObject_t4361E08CEBF052C650D3666C7CEC37EB31DE116A_marshaled_com 
 };
 
 // System.SystemException
-struct  SystemException_tC551B4D6EE3772B5F32C71EE8C719F4B43ECCC62  : public Exception_t
+struct SystemException_tC551B4D6EE3772B5F32C71EE8C719F4B43ECCC62  : public Exception_t
 {
 public:
 
@@ -8998,7 +8998,7 @@ public:
 
 
 // TMPro.TMP_CharacterInfo
-struct  TMP_CharacterInfo_t6F1B9FE4246803FFE4F527B3CEFED9D60AD7383B 
+struct TMP_CharacterInfo_t6F1B9FE4246803FFE4F527B3CEFED9D60AD7383B 
 {
 public:
 	// System.Char TMPro.TMP_CharacterInfo::character
@@ -9510,7 +9510,7 @@ struct TMP_CharacterInfo_t6F1B9FE4246803FFE4F527B3CEFED9D60AD7383B_marshaled_com
 };
 
 // TMPro.TMP_LineInfo
-struct  TMP_LineInfo_tB86D3A31D61EB73EEFB08F6B1AB5C60DE52981F7 
+struct TMP_LineInfo_tB86D3A31D61EB73EEFB08F6B1AB5C60DE52981F7 
 {
 public:
 	// System.Int32 TMPro.TMP_LineInfo::controlCharacterCount
@@ -9718,7 +9718,7 @@ public:
 
 
 // TMPro.TMP_MeshInfo
-struct  TMP_MeshInfo_t69FCEF4CBC055C00598478835753D43D94A03176 
+struct TMP_MeshInfo_t69FCEF4CBC055C00598478835753D43D94A03176 
 {
 public:
 	// UnityEngine.Mesh TMPro.TMP_MeshInfo::mesh
@@ -9909,7 +9909,7 @@ struct TMP_MeshInfo_t69FCEF4CBC055C00598478835753D43D94A03176_marshaled_com
 };
 
 // UnityEngine.Touch
-struct  Touch_tDEFED247540BCFA4AD452F1D37EEF4E09B4ACD8C 
+struct Touch_tDEFED247540BCFA4AD452F1D37EEF4E09B4ACD8C 
 {
 public:
 	// System.Int32 UnityEngine.Touch::m_FingerId
@@ -10057,7 +10057,7 @@ public:
 
 
 // System.Type
-struct  Type_t  : public MemberInfo_t
+struct Type_t  : public MemberInfo_t
 {
 public:
 	// System.RuntimeTypeHandle System.Type::_impl
@@ -10157,7 +10157,7 @@ public:
 
 
 // System.Action`1<UnityEngine.Object>
-struct  Action_1_t32C9C43E6E3E76A0AAFDD40D6002DB2DD1D769F8  : public MulticastDelegate_t
+struct Action_1_t32C9C43E6E3E76A0AAFDD40D6002DB2DD1D769F8  : public MulticastDelegate_t
 {
 public:
 
@@ -10166,7 +10166,7 @@ public:
 
 
 // System.Predicate`1<Sound>
-struct  Predicate_1_t216E1EED009F5B2581EDB5305C81FC67605D4FA9  : public MulticastDelegate_t
+struct Predicate_1_t216E1EED009F5B2581EDB5305C81FC67605D4FA9  : public MulticastDelegate_t
 {
 public:
 
@@ -10175,7 +10175,7 @@ public:
 
 
 // UnityEngine.Events.UnityAction`1<System.String>
-struct  UnityAction_1_t4A1848C01D99711D0E3D235F1FDBBA96BA48B647  : public MulticastDelegate_t
+struct UnityAction_1_t4A1848C01D99711D0E3D235F1FDBBA96BA48B647  : public MulticastDelegate_t
 {
 public:
 
@@ -10184,7 +10184,7 @@ public:
 
 
 // UnityEngine.Events.UnityAction`2<System.Char,System.Int32>
-struct  UnityAction_2_t2DBD4C29FA19A55A3BDEF2C78EACA1F8300FC52D  : public MulticastDelegate_t
+struct UnityAction_2_t2DBD4C29FA19A55A3BDEF2C78EACA1F8300FC52D  : public MulticastDelegate_t
 {
 public:
 
@@ -10193,7 +10193,7 @@ public:
 
 
 // UnityEngine.Events.UnityAction`3<System.String,System.Int32,System.Int32>
-struct  UnityAction_3_t3E8830446BD8EA06ADED6924C1B6C4A68DC13872  : public MulticastDelegate_t
+struct UnityAction_3_t3E8830446BD8EA06ADED6924C1B6C4A68DC13872  : public MulticastDelegate_t
 {
 public:
 
@@ -10202,7 +10202,7 @@ public:
 
 
 // UnityEngine.Events.UnityAction`3<System.String,System.String,System.Int32>
-struct  UnityAction_3_t89B3043DBE907C652F32DCEB0ACEE1E7DCEBC034  : public MulticastDelegate_t
+struct UnityAction_3_t89B3043DBE907C652F32DCEB0ACEE1E7DCEBC034  : public MulticastDelegate_t
 {
 public:
 
@@ -10211,7 +10211,7 @@ public:
 
 
 // UnityEngine.Behaviour
-struct  Behaviour_t1A3DDDCF73B4627928FBFE02ED52B7251777DBD9  : public Component_t62FBC8D2420DA4BE9037AFE430740F6B3EECA684
+struct Behaviour_t1A3DDDCF73B4627928FBFE02ED52B7251777DBD9  : public Component_t62FBC8D2420DA4BE9037AFE430740F6B3EECA684
 {
 public:
 
@@ -10220,7 +10220,7 @@ public:
 
 
 // System.NotSupportedException
-struct  NotSupportedException_tB9D89F0E9470A2C423D239D7C68EE0CFD77F9339  : public SystemException_tC551B4D6EE3772B5F32C71EE8C719F4B43ECCC62
+struct NotSupportedException_tB9D89F0E9470A2C423D239D7C68EE0CFD77F9339  : public SystemException_tC551B4D6EE3772B5F32C71EE8C719F4B43ECCC62
 {
 public:
 
@@ -10229,7 +10229,7 @@ public:
 
 
 // UnityEngine.Renderer
-struct  Renderer_t58147AB5B00224FE1460FD47542DC0DA7EC9378C  : public Component_t62FBC8D2420DA4BE9037AFE430740F6B3EECA684
+struct Renderer_t58147AB5B00224FE1460FD47542DC0DA7EC9378C  : public Component_t62FBC8D2420DA4BE9037AFE430740F6B3EECA684
 {
 public:
 
@@ -10238,7 +10238,7 @@ public:
 
 
 // TMPro.TMP_Asset
-struct  TMP_Asset_tEE129B2B2FE167D4B860286167207DD3AD45B45E  : public ScriptableObject_t4361E08CEBF052C650D3666C7CEC37EB31DE116A
+struct TMP_Asset_tEE129B2B2FE167D4B860286167207DD3AD45B45E  : public ScriptableObject_t4361E08CEBF052C650D3666C7CEC37EB31DE116A
 {
 public:
 	// System.Int32 TMPro.TMP_Asset::m_InstanceID
@@ -10287,7 +10287,7 @@ public:
 
 
 // TMPro.TMP_InputValidator
-struct  TMP_InputValidator_t5DE1CB404972CB5D787521EF3B382C27D5DB456D  : public ScriptableObject_t4361E08CEBF052C650D3666C7CEC37EB31DE116A
+struct TMP_InputValidator_t5DE1CB404972CB5D787521EF3B382C27D5DB456D  : public ScriptableObject_t4361E08CEBF052C650D3666C7CEC37EB31DE116A
 {
 public:
 
@@ -10296,7 +10296,7 @@ public:
 
 
 // UnityEngine.TextMesh
-struct  TextMesh_t830C2452CE189A0D35CD9ED26B6B74D506B01273  : public Component_t62FBC8D2420DA4BE9037AFE430740F6B3EECA684
+struct TextMesh_t830C2452CE189A0D35CD9ED26B6B74D506B01273  : public Component_t62FBC8D2420DA4BE9037AFE430740F6B3EECA684
 {
 public:
 
@@ -10305,7 +10305,7 @@ public:
 
 
 // UnityEngine.Transform
-struct  Transform_tA8193BB29D4D2C7EC04918F3ED1816345186C3F1  : public Component_t62FBC8D2420DA4BE9037AFE430740F6B3EECA684
+struct Transform_tA8193BB29D4D2C7EC04918F3ED1816345186C3F1  : public Component_t62FBC8D2420DA4BE9037AFE430740F6B3EECA684
 {
 public:
 
@@ -10314,7 +10314,7 @@ public:
 
 
 // TMPro.WordWrapState
-struct  WordWrapState_t15805FC5C080AC77203F872695E3B951F460DE99 
+struct WordWrapState_t15805FC5C080AC77203F872695E3B951F460DE99 
 {
 public:
 	// System.Int32 TMPro.WordWrapState::previous_WordBreak
@@ -11144,7 +11144,7 @@ struct WordWrapState_t15805FC5C080AC77203F872695E3B951F460DE99_marshaled_com
 };
 
 // TMPro.TMP_TextProcessingStack`1<TMPro.WordWrapState>
-struct  TMP_TextProcessingStack_1_t09C36897DBFF463BB173E0ED3612A8D49A8EE2D7 
+struct TMP_TextProcessingStack_1_t09C36897DBFF463BB173E0ED3612A8D49A8EE2D7 
 {
 public:
 	// T[] TMPro.TMP_TextProcessingStack`1::itemStack
@@ -11283,7 +11283,7 @@ public:
 
 
 // UnityEngine.AudioBehaviour
-struct  AudioBehaviour_tB44966D47AD43C50C7294AEE9B57574E55AACA4A  : public Behaviour_t1A3DDDCF73B4627928FBFE02ED52B7251777DBD9
+struct AudioBehaviour_tB44966D47AD43C50C7294AEE9B57574E55AACA4A  : public Behaviour_t1A3DDDCF73B4627928FBFE02ED52B7251777DBD9
 {
 public:
 
@@ -11292,7 +11292,7 @@ public:
 
 
 // UnityEngine.Camera
-struct  Camera_tC44E094BAB53AFC8A014C6F9CFCE11F4FC38006C  : public Behaviour_t1A3DDDCF73B4627928FBFE02ED52B7251777DBD9
+struct Camera_tC44E094BAB53AFC8A014C6F9CFCE11F4FC38006C  : public Behaviour_t1A3DDDCF73B4627928FBFE02ED52B7251777DBD9
 {
 public:
 
@@ -11340,7 +11340,7 @@ public:
 
 
 // UnityEngine.Canvas
-struct  Canvas_t2B7E56B7BDC287962E092755372E214ACB6393EA  : public Behaviour_t1A3DDDCF73B4627928FBFE02ED52B7251777DBD9
+struct Canvas_t2B7E56B7BDC287962E092755372E214ACB6393EA  : public Behaviour_t1A3DDDCF73B4627928FBFE02ED52B7251777DBD9
 {
 public:
 
@@ -11410,7 +11410,7 @@ public:
 
 
 // UnityEngine.Collider2D
-struct  Collider2D_tDDBF081328B83D21D0BA3B5036D77B32528BA722  : public Behaviour_t1A3DDDCF73B4627928FBFE02ED52B7251777DBD9
+struct Collider2D_tDDBF081328B83D21D0BA3B5036D77B32528BA722  : public Behaviour_t1A3DDDCF73B4627928FBFE02ED52B7251777DBD9
 {
 public:
 
@@ -11419,7 +11419,7 @@ public:
 
 
 // UnityEngine.Light
-struct  Light_tA2F349FE839781469A0344CF6039B51512394275  : public Behaviour_t1A3DDDCF73B4627928FBFE02ED52B7251777DBD9
+struct Light_tA2F349FE839781469A0344CF6039B51512394275  : public Behaviour_t1A3DDDCF73B4627928FBFE02ED52B7251777DBD9
 {
 public:
 	// System.Int32 UnityEngine.Light::m_BakedIndex
@@ -11437,7 +11437,7 @@ public:
 
 
 // UnityEngine.MonoBehaviour
-struct  MonoBehaviour_t37A501200D970A8257124B0EAE00A0FF3DDC354A  : public Behaviour_t1A3DDDCF73B4627928FBFE02ED52B7251777DBD9
+struct MonoBehaviour_t37A501200D970A8257124B0EAE00A0FF3DDC354A  : public Behaviour_t1A3DDDCF73B4627928FBFE02ED52B7251777DBD9
 {
 public:
 
@@ -11446,7 +11446,7 @@ public:
 
 
 // UnityEngine.RectTransform
-struct  RectTransform_t8A6A306FB29A6C8C22010CF9040E319753571072  : public Transform_tA8193BB29D4D2C7EC04918F3ED1816345186C3F1
+struct RectTransform_t8A6A306FB29A6C8C22010CF9040E319753571072  : public Transform_tA8193BB29D4D2C7EC04918F3ED1816345186C3F1
 {
 public:
 
@@ -11472,7 +11472,7 @@ public:
 
 
 // UnityEngine.SpriteRenderer
-struct  SpriteRenderer_t3F35AD5498243C170B46F5FFDB582AAEF78615EF  : public Renderer_t58147AB5B00224FE1460FD47542DC0DA7EC9378C
+struct SpriteRenderer_t3F35AD5498243C170B46F5FFDB582AAEF78615EF  : public Renderer_t58147AB5B00224FE1460FD47542DC0DA7EC9378C
 {
 public:
 
@@ -11481,7 +11481,7 @@ public:
 
 
 // TMPro.TMP_DigitValidator
-struct  TMP_DigitValidator_t93649C48020A2E3764BB415BD7E4F742A3D5A878  : public TMP_InputValidator_t5DE1CB404972CB5D787521EF3B382C27D5DB456D
+struct TMP_DigitValidator_t93649C48020A2E3764BB415BD7E4F742A3D5A878  : public TMP_InputValidator_t5DE1CB404972CB5D787521EF3B382C27D5DB456D
 {
 public:
 
@@ -11490,7 +11490,7 @@ public:
 
 
 // TMPro.TMP_FontAsset
-struct  TMP_FontAsset_tDD8F58129CF4A9094C82DD209531E9E71F9837B2  : public TMP_Asset_tEE129B2B2FE167D4B860286167207DD3AD45B45E
+struct TMP_FontAsset_tDD8F58129CF4A9094C82DD209531E9E71F9837B2  : public TMP_Asset_tEE129B2B2FE167D4B860286167207DD3AD45B45E
 {
 public:
 	// System.String TMPro.TMP_FontAsset::m_Version
@@ -12179,7 +12179,7 @@ public:
 
 
 // TMPro.TMP_PhoneNumberValidator
-struct  TMP_PhoneNumberValidator_tF4A8EC8378D1DD16E227BEBC1C5B0AFC8BB018E3  : public TMP_InputValidator_t5DE1CB404972CB5D787521EF3B382C27D5DB456D
+struct TMP_PhoneNumberValidator_tF4A8EC8378D1DD16E227BEBC1C5B0AFC8BB018E3  : public TMP_InputValidator_t5DE1CB404972CB5D787521EF3B382C27D5DB456D
 {
 public:
 
@@ -12188,7 +12188,7 @@ public:
 
 
 // AudioMNGR
-struct  AudioMNGR_tDD1827C0054BEFF4365D2708C93B887E7DD8CDB2  : public MonoBehaviour_t37A501200D970A8257124B0EAE00A0FF3DDC354A
+struct AudioMNGR_tDD1827C0054BEFF4365D2708C93B887E7DD8CDB2  : public MonoBehaviour_t37A501200D970A8257124B0EAE00A0FF3DDC354A
 {
 public:
 	// Sound[] AudioMNGR::sounds
@@ -12218,7 +12218,7 @@ public:
 
 
 // UnityEngine.AudioSource
-struct  AudioSource_tC4BF65AF8CDCAA63724BB3CA59A7A29249269E6B  : public AudioBehaviour_tB44966D47AD43C50C7294AEE9B57574E55AACA4A
+struct AudioSource_tC4BF65AF8CDCAA63724BB3CA59A7A29249269E6B  : public AudioBehaviour_tB44966D47AD43C50C7294AEE9B57574E55AACA4A
 {
 public:
 
@@ -12227,7 +12227,7 @@ public:
 
 
 // TMPro.Examples.Benchmark01
-struct  Benchmark01_tB93AE57128496E02C0B3D8AC80185B077A1B6934  : public MonoBehaviour_t37A501200D970A8257124B0EAE00A0FF3DDC354A
+struct Benchmark01_tB93AE57128496E02C0B3D8AC80185B077A1B6934  : public MonoBehaviour_t37A501200D970A8257124B0EAE00A0FF3DDC354A
 {
 public:
 	// System.Int32 TMPro.Examples.Benchmark01::BenchmarkType
@@ -12322,7 +12322,7 @@ public:
 
 
 // TMPro.Examples.Benchmark01_UGUI
-struct  Benchmark01_UGUI_t45B3D7BFA1AB9A4A60B48F15D684C558FD619D4B  : public MonoBehaviour_t37A501200D970A8257124B0EAE00A0FF3DDC354A
+struct Benchmark01_UGUI_t45B3D7BFA1AB9A4A60B48F15D684C558FD619D4B  : public MonoBehaviour_t37A501200D970A8257124B0EAE00A0FF3DDC354A
 {
 public:
 	// System.Int32 TMPro.Examples.Benchmark01_UGUI::BenchmarkType
@@ -12417,7 +12417,7 @@ public:
 
 
 // TMPro.Examples.Benchmark02
-struct  Benchmark02_tA0FA2BFB7AB5F7A8501D8DDFE0AF341C329663A1  : public MonoBehaviour_t37A501200D970A8257124B0EAE00A0FF3DDC354A
+struct Benchmark02_tA0FA2BFB7AB5F7A8501D8DDFE0AF341C329663A1  : public MonoBehaviour_t37A501200D970A8257124B0EAE00A0FF3DDC354A
 {
 public:
 	// System.Int32 TMPro.Examples.Benchmark02::SpawnType
@@ -12456,7 +12456,7 @@ public:
 
 
 // TMPro.Examples.Benchmark03
-struct  Benchmark03_t8AC945A66AB915DDE86610B70E9FD1E1ED8FF3EA  : public MonoBehaviour_t37A501200D970A8257124B0EAE00A0FF3DDC354A
+struct Benchmark03_t8AC945A66AB915DDE86610B70E9FD1E1ED8FF3EA  : public MonoBehaviour_t37A501200D970A8257124B0EAE00A0FF3DDC354A
 {
 public:
 	// System.Int32 TMPro.Examples.Benchmark03::SpawnType
@@ -12495,7 +12495,7 @@ public:
 
 
 // TMPro.Examples.Benchmark04
-struct  Benchmark04_t62DC44C021DD8E8057039D65F66E816CFE713D68  : public MonoBehaviour_t37A501200D970A8257124B0EAE00A0FF3DDC354A
+struct Benchmark04_t62DC44C021DD8E8057039D65F66E816CFE713D68  : public MonoBehaviour_t37A501200D970A8257124B0EAE00A0FF3DDC354A
 {
 public:
 	// System.Int32 TMPro.Examples.Benchmark04::SpawnType
@@ -12554,7 +12554,7 @@ public:
 
 
 // TMPro.Examples.CameraController
-struct  CameraController_tDF5613EA209FD0D5A5031FA5CBF05AEBEF441F6D  : public MonoBehaviour_t37A501200D970A8257124B0EAE00A0FF3DDC354A
+struct CameraController_tDF5613EA209FD0D5A5031FA5CBF05AEBEF441F6D  : public MonoBehaviour_t37A501200D970A8257124B0EAE00A0FF3DDC354A
 {
 public:
 	// UnityEngine.Transform TMPro.Examples.CameraController::cameraTransform
@@ -12795,7 +12795,7 @@ public:
 
 
 // ChatController
-struct  ChatController_tDC30FEF32E5CAE3B9A7502F307C6281C89F25061  : public MonoBehaviour_t37A501200D970A8257124B0EAE00A0FF3DDC354A
+struct ChatController_tDC30FEF32E5CAE3B9A7502F307C6281C89F25061  : public MonoBehaviour_t37A501200D970A8257124B0EAE00A0FF3DDC354A
 {
 public:
 	// TMPro.TMP_InputField ChatController::TMP_ChatInput
@@ -12836,7 +12836,7 @@ public:
 
 
 // CircleSlider
-struct  CircleSlider_t9EED9CF86D07C8DD62AD77213037D62D2A989795  : public MonoBehaviour_t37A501200D970A8257124B0EAE00A0FF3DDC354A
+struct CircleSlider_t9EED9CF86D07C8DD62AD77213037D62D2A989795  : public MonoBehaviour_t37A501200D970A8257124B0EAE00A0FF3DDC354A
 {
 public:
 	// System.Boolean CircleSlider::b
@@ -12896,7 +12896,7 @@ public:
 
 
 // ClickColor
-struct  ClickColor_t99248DA07414B9F370BBEF0190497EADCB727A4F  : public MonoBehaviour_t37A501200D970A8257124B0EAE00A0FF3DDC354A
+struct ClickColor_t99248DA07414B9F370BBEF0190497EADCB727A4F  : public MonoBehaviour_t37A501200D970A8257124B0EAE00A0FF3DDC354A
 {
 public:
 	// UnityEngine.SpriteRenderer ClickColor::sprite
@@ -12915,7 +12915,7 @@ public:
 
 
 // Clicker
-struct  Clicker_t0C0D3DEFF878E8B3D40A3A7F22E456BB6A18841A  : public MonoBehaviour_t37A501200D970A8257124B0EAE00A0FF3DDC354A
+struct Clicker_t0C0D3DEFF878E8B3D40A3A7F22E456BB6A18841A  : public MonoBehaviour_t37A501200D970A8257124B0EAE00A0FF3DDC354A
 {
 public:
 	// System.String Clicker::LevelElement
@@ -12955,7 +12955,7 @@ public:
 
 
 // DestroyEnemy
-struct  DestroyEnemy_t552B82BCD58718D474A231033EC7EF87D64BE9F0  : public MonoBehaviour_t37A501200D970A8257124B0EAE00A0FF3DDC354A
+struct DestroyEnemy_t552B82BCD58718D474A231033EC7EF87D64BE9F0  : public MonoBehaviour_t37A501200D970A8257124B0EAE00A0FF3DDC354A
 {
 public:
 
@@ -12964,7 +12964,7 @@ public:
 
 
 // EnemyMovement
-struct  EnemyMovement_t1BCFAC1EEDD5C63C392D258F39BCDECE875BB2A0  : public MonoBehaviour_t37A501200D970A8257124B0EAE00A0FF3DDC354A
+struct EnemyMovement_t1BCFAC1EEDD5C63C392D258F39BCDECE875BB2A0  : public MonoBehaviour_t37A501200D970A8257124B0EAE00A0FF3DDC354A
 {
 public:
 	// System.Single EnemyMovement::speed
@@ -13062,7 +13062,7 @@ public:
 
 
 // EnemySpawner
-struct  EnemySpawner_t02731B295570E1C2E63CE6A23D2A64D1E5985C9E  : public MonoBehaviour_t37A501200D970A8257124B0EAE00A0FF3DDC354A
+struct EnemySpawner_t02731B295570E1C2E63CE6A23D2A64D1E5985C9E  : public MonoBehaviour_t37A501200D970A8257124B0EAE00A0FF3DDC354A
 {
 public:
 	// UnityEngine.GameObject[] EnemySpawner::enemies
@@ -13173,7 +13173,7 @@ public:
 
 
 // EnvMapAnimator
-struct  EnvMapAnimator_t7C30A094A3786710A896AD9A6FA46B13EFEB72FD  : public MonoBehaviour_t37A501200D970A8257124B0EAE00A0FF3DDC354A
+struct EnvMapAnimator_t7C30A094A3786710A896AD9A6FA46B13EFEB72FD  : public MonoBehaviour_t37A501200D970A8257124B0EAE00A0FF3DDC354A
 {
 public:
 	// UnityEngine.Vector3 EnvMapAnimator::RotationSpeeds
@@ -13213,7 +13213,7 @@ public:
 
 
 // FollowCursor
-struct  FollowCursor_t3727D7A0625CB87491733E8843B7A803A34E8CF4  : public MonoBehaviour_t37A501200D970A8257124B0EAE00A0FF3DDC354A
+struct FollowCursor_t3727D7A0625CB87491733E8843B7A803A34E8CF4  : public MonoBehaviour_t37A501200D970A8257124B0EAE00A0FF3DDC354A
 {
 public:
 
@@ -13222,7 +13222,7 @@ public:
 
 
 // JustRotate
-struct  JustRotate_t1C28E3AECA31F80CA9CFC3287BC46EBF97D124B7  : public MonoBehaviour_t37A501200D970A8257124B0EAE00A0FF3DDC354A
+struct JustRotate_t1C28E3AECA31F80CA9CFC3287BC46EBF97D124B7  : public MonoBehaviour_t37A501200D970A8257124B0EAE00A0FF3DDC354A
 {
 public:
 	// System.Boolean JustRotate::canRotate
@@ -13250,7 +13250,7 @@ public:
 
 
 // MainMenuScript
-struct  MainMenuScript_t5C8CD3C7AEF7A41C098ADCE017857456B1554F3C  : public MonoBehaviour_t37A501200D970A8257124B0EAE00A0FF3DDC354A
+struct MainMenuScript_t5C8CD3C7AEF7A41C098ADCE017857456B1554F3C  : public MonoBehaviour_t37A501200D970A8257124B0EAE00A0FF3DDC354A
 {
 public:
 
@@ -13259,7 +13259,7 @@ public:
 
 
 // Menu_press_audio
-struct  Menu_press_audio_tAE3F3690A18107E1592C420DE580E935D7182E27  : public MonoBehaviour_t37A501200D970A8257124B0EAE00A0FF3DDC354A
+struct Menu_press_audio_tAE3F3690A18107E1592C420DE580E935D7182E27  : public MonoBehaviour_t37A501200D970A8257124B0EAE00A0FF3DDC354A
 {
 public:
 	// UnityEngine.AudioSource Menu_press_audio::myButton
@@ -13300,7 +13300,7 @@ public:
 
 
 // TMPro.Examples.ObjectSpin
-struct  ObjectSpin_t964A55502D58672749F39DBA3AD193FB11AA0AFA  : public MonoBehaviour_t37A501200D970A8257124B0EAE00A0FF3DDC354A
+struct ObjectSpin_t964A55502D58672749F39DBA3AD193FB11AA0AFA  : public MonoBehaviour_t37A501200D970A8257124B0EAE00A0FF3DDC354A
 {
 public:
 	// System.Single TMPro.Examples.ObjectSpin::SpinSpeed
@@ -13409,7 +13409,7 @@ public:
 
 
 // PressedBtn
-struct  PressedBtn_tD31881CF08706232D9E670F8F1A5A00BA634B439  : public MonoBehaviour_t37A501200D970A8257124B0EAE00A0FF3DDC354A
+struct PressedBtn_tD31881CF08706232D9E670F8F1A5A00BA634B439  : public MonoBehaviour_t37A501200D970A8257124B0EAE00A0FF3DDC354A
 {
 public:
 	// UnityEngine.UI.Button PressedBtn::btn
@@ -13439,7 +13439,7 @@ public:
 
 
 // QuitGame
-struct  QuitGame_t80B704BD0C5444093731B42317E6BD1D82361C53  : public MonoBehaviour_t37A501200D970A8257124B0EAE00A0FF3DDC354A
+struct QuitGame_t80B704BD0C5444093731B42317E6BD1D82361C53  : public MonoBehaviour_t37A501200D970A8257124B0EAE00A0FF3DDC354A
 {
 public:
 
@@ -13448,7 +13448,7 @@ public:
 
 
 // QuitToLevelSelect
-struct  QuitToLevelSelect_tAD8A970919F087166602BB77199227D12ADD07E5  : public MonoBehaviour_t37A501200D970A8257124B0EAE00A0FF3DDC354A
+struct QuitToLevelSelect_tAD8A970919F087166602BB77199227D12ADD07E5  : public MonoBehaviour_t37A501200D970A8257124B0EAE00A0FF3DDC354A
 {
 public:
 
@@ -13457,7 +13457,7 @@ public:
 
 
 // ScoreSceneScript
-struct  ScoreSceneScript_tB16F29881DB56C3A09C209258C7DEB1B62514C37  : public MonoBehaviour_t37A501200D970A8257124B0EAE00A0FF3DDC354A
+struct ScoreSceneScript_tB16F29881DB56C3A09C209258C7DEB1B62514C37  : public MonoBehaviour_t37A501200D970A8257124B0EAE00A0FF3DDC354A
 {
 public:
 	// UnityEngine.UI.Text ScoreSceneScript::PlayerScoreText
@@ -13476,7 +13476,7 @@ public:
 
 
 // TMPro.Examples.ShaderPropAnimator
-struct  ShaderPropAnimator_t44FB2882ECA0D2C780444EB96B9550F5D245CFB8  : public MonoBehaviour_t37A501200D970A8257124B0EAE00A0FF3DDC354A
+struct ShaderPropAnimator_t44FB2882ECA0D2C780444EB96B9550F5D245CFB8  : public MonoBehaviour_t37A501200D970A8257124B0EAE00A0FF3DDC354A
 {
 public:
 	// UnityEngine.Renderer TMPro.Examples.ShaderPropAnimator::m_Renderer
@@ -13527,7 +13527,7 @@ public:
 
 
 // TMPro.Examples.SimpleScript
-struct  SimpleScript_t961D2D3FD565D738420646A1EF42244EDD972121  : public MonoBehaviour_t37A501200D970A8257124B0EAE00A0FF3DDC354A
+struct SimpleScript_t961D2D3FD565D738420646A1EF42244EDD972121  : public MonoBehaviour_t37A501200D970A8257124B0EAE00A0FF3DDC354A
 {
 public:
 	// TMPro.TextMeshPro TMPro.Examples.SimpleScript::m_textMeshPro
@@ -13556,7 +13556,7 @@ public:
 
 
 // TMPro.Examples.SkewTextExample
-struct  SkewTextExample_tA9F165D1BE969ED73FB86CA6C641386C22F1EE07  : public MonoBehaviour_t37A501200D970A8257124B0EAE00A0FF3DDC354A
+struct SkewTextExample_tA9F165D1BE969ED73FB86CA6C641386C22F1EE07  : public MonoBehaviour_t37A501200D970A8257124B0EAE00A0FF3DDC354A
 {
 public:
 	// TMPro.TMP_Text TMPro.Examples.SkewTextExample::m_TextComponent
@@ -13606,7 +13606,7 @@ public:
 
 
 // SliderRunTo1
-struct  SliderRunTo1_tCACE263E277E7A8A2CAF7883E58F0BCD429A6CEC  : public MonoBehaviour_t37A501200D970A8257124B0EAE00A0FF3DDC354A
+struct SliderRunTo1_tCACE263E277E7A8A2CAF7883E58F0BCD429A6CEC  : public MonoBehaviour_t37A501200D970A8257124B0EAE00A0FF3DDC354A
 {
 public:
 	// System.Boolean SliderRunTo1::b
@@ -13655,7 +13655,7 @@ public:
 
 
 // SliderValuePass
-struct  SliderValuePass_t80A39DFDB2267E3F22305171613883F042DC30F9  : public MonoBehaviour_t37A501200D970A8257124B0EAE00A0FF3DDC354A
+struct SliderValuePass_t80A39DFDB2267E3F22305171613883F042DC30F9  : public MonoBehaviour_t37A501200D970A8257124B0EAE00A0FF3DDC354A
 {
 public:
 	// UnityEngine.UI.Text SliderValuePass::progress
@@ -13674,7 +13674,7 @@ public:
 
 
 // TMPro.Examples.TMP_ExampleScript_01
-struct  TMP_ExampleScript_01_t17145EFFB693D3CE0896E7B0777A7BCD07EF4F41  : public MonoBehaviour_t37A501200D970A8257124B0EAE00A0FF3DDC354A
+struct TMP_ExampleScript_01_t17145EFFB693D3CE0896E7B0777A7BCD07EF4F41  : public MonoBehaviour_t37A501200D970A8257124B0EAE00A0FF3DDC354A
 {
 public:
 	// TMPro.Examples.TMP_ExampleScript_01/objectType TMPro.Examples.TMP_ExampleScript_01::ObjectType
@@ -13723,7 +13723,7 @@ public:
 
 
 // TMPro.Examples.TMP_FrameRateCounter
-struct  TMP_FrameRateCounter_t925B27BFB86BA834FD1FD76E0F274B216E976E0F  : public MonoBehaviour_t37A501200D970A8257124B0EAE00A0FF3DDC354A
+struct TMP_FrameRateCounter_t925B27BFB86BA834FD1FD76E0F274B216E976E0F  : public MonoBehaviour_t37A501200D970A8257124B0EAE00A0FF3DDC354A
 {
 public:
 	// System.Single TMPro.Examples.TMP_FrameRateCounter::UpdateInterval
@@ -13825,7 +13825,7 @@ public:
 
 
 // TMPro.Examples.TMP_TextEventCheck
-struct  TMP_TextEventCheck_t0DC1E9006D6A9A20B2BDA99A8D3C6821647061C7  : public MonoBehaviour_t37A501200D970A8257124B0EAE00A0FF3DDC354A
+struct TMP_TextEventCheck_t0DC1E9006D6A9A20B2BDA99A8D3C6821647061C7  : public MonoBehaviour_t37A501200D970A8257124B0EAE00A0FF3DDC354A
 {
 public:
 	// TMPro.TMP_TextEventHandler TMPro.Examples.TMP_TextEventCheck::TextEventHandler
@@ -13844,7 +13844,7 @@ public:
 
 
 // TMPro.TMP_TextEventHandler
-struct  TMP_TextEventHandler_t46E96E25C3C3ABB2F300593BAECE9FB9E3B10553  : public MonoBehaviour_t37A501200D970A8257124B0EAE00A0FF3DDC354A
+struct TMP_TextEventHandler_t46E96E25C3C3ABB2F300593BAECE9FB9E3B10553  : public MonoBehaviour_t37A501200D970A8257124B0EAE00A0FF3DDC354A
 {
 public:
 	// TMPro.TMP_TextEventHandler/CharacterSelectionEvent TMPro.TMP_TextEventHandler::m_OnCharacterSelection
@@ -13980,7 +13980,7 @@ public:
 
 
 // TMPro.Examples.TMP_TextInfoDebugTool
-struct  TMP_TextInfoDebugTool_t9EE985ADF1BE5017A4827EDA15767080A2820E2F  : public MonoBehaviour_t37A501200D970A8257124B0EAE00A0FF3DDC354A
+struct TMP_TextInfoDebugTool_t9EE985ADF1BE5017A4827EDA15767080A2820E2F  : public MonoBehaviour_t37A501200D970A8257124B0EAE00A0FF3DDC354A
 {
 public:
 
@@ -13989,7 +13989,7 @@ public:
 
 
 // TMPro.Examples.TMP_TextSelector_A
-struct  TMP_TextSelector_A_t29DB4724707E8DC222ACD5D3134F801191B96B25  : public MonoBehaviour_t37A501200D970A8257124B0EAE00A0FF3DDC354A
+struct TMP_TextSelector_A_t29DB4724707E8DC222ACD5D3134F801191B96B25  : public MonoBehaviour_t37A501200D970A8257124B0EAE00A0FF3DDC354A
 {
 public:
 	// TMPro.TextMeshPro TMPro.Examples.TMP_TextSelector_A::m_TextMeshPro
@@ -14059,7 +14059,7 @@ public:
 
 
 // TMPro.Examples.TMP_TextSelector_B
-struct  TMP_TextSelector_B_tFB29BADBB39B22B5B6F381F4BAB6CC3B7A1AA7EF  : public MonoBehaviour_t37A501200D970A8257124B0EAE00A0FF3DDC354A
+struct TMP_TextSelector_B_tFB29BADBB39B22B5B6F381F4BAB6CC3B7A1AA7EF  : public MonoBehaviour_t37A501200D970A8257124B0EAE00A0FF3DDC354A
 {
 public:
 	// UnityEngine.RectTransform TMPro.Examples.TMP_TextSelector_B::TextPopup_Prefab_01
@@ -14194,7 +14194,7 @@ public:
 
 
 // TMPro.Examples.TMP_UiFrameRateCounter
-struct  TMP_UiFrameRateCounter_tCC4ADB6034B0FDF19DCA0129D36ACE86CB159B08  : public MonoBehaviour_t37A501200D970A8257124B0EAE00A0FF3DDC354A
+struct TMP_UiFrameRateCounter_tCC4ADB6034B0FDF19DCA0129D36ACE86CB159B08  : public MonoBehaviour_t37A501200D970A8257124B0EAE00A0FF3DDC354A
 {
 public:
 	// System.Single TMPro.Examples.TMP_UiFrameRateCounter::UpdateInterval
@@ -14285,7 +14285,7 @@ public:
 
 
 // TMPro.Examples.TMPro_InstructionOverlay
-struct  TMPro_InstructionOverlay_t3D749999E580901C7F6C778105AEBC290AC141CB  : public MonoBehaviour_t37A501200D970A8257124B0EAE00A0FF3DDC354A
+struct TMPro_InstructionOverlay_t3D749999E580901C7F6C778105AEBC290AC141CB  : public MonoBehaviour_t37A501200D970A8257124B0EAE00A0FF3DDC354A
 {
 public:
 	// TMPro.Examples.TMPro_InstructionOverlay/FpsCounterAnchorPositions TMPro.Examples.TMPro_InstructionOverlay::AnchorPosition
@@ -14347,7 +14347,7 @@ public:
 
 
 // TMPro.Examples.TeleType
-struct  TeleType_t92B5ED4FE818F912A562F085CE035F6B42834934  : public MonoBehaviour_t37A501200D970A8257124B0EAE00A0FF3DDC354A
+struct TeleType_t92B5ED4FE818F912A562F085CE035F6B42834934  : public MonoBehaviour_t37A501200D970A8257124B0EAE00A0FF3DDC354A
 {
 public:
 	// System.String TMPro.Examples.TeleType::label01
@@ -14388,7 +14388,7 @@ public:
 
 
 // TMPro.Examples.TextConsoleSimulator
-struct  TextConsoleSimulator_t82904A7668D46B20E576B30E4CE367C0B66C5289  : public MonoBehaviour_t37A501200D970A8257124B0EAE00A0FF3DDC354A
+struct TextConsoleSimulator_t82904A7668D46B20E576B30E4CE367C0B66C5289  : public MonoBehaviour_t37A501200D970A8257124B0EAE00A0FF3DDC354A
 {
 public:
 	// TMPro.TMP_Text TMPro.Examples.TextConsoleSimulator::m_TextComponent
@@ -14417,7 +14417,7 @@ public:
 
 
 // TMPro.Examples.TextMeshProFloatingText
-struct  TextMeshProFloatingText_t55B28EA1D0CCDF61ABE6CF421C752EBED7B37200  : public MonoBehaviour_t37A501200D970A8257124B0EAE00A0FF3DDC354A
+struct TextMeshProFloatingText_t55B28EA1D0CCDF61ABE6CF421C752EBED7B37200  : public MonoBehaviour_t37A501200D970A8257124B0EAE00A0FF3DDC354A
 {
 public:
 	// UnityEngine.Font TMPro.Examples.TextMeshProFloatingText::TheFont
@@ -14532,7 +14532,7 @@ public:
 
 
 // TMPro.Examples.TextMeshSpawner
-struct  TextMeshSpawner_t44E5536D2A0C022FA8037C71741171A999A86364  : public MonoBehaviour_t37A501200D970A8257124B0EAE00A0FF3DDC354A
+struct TextMeshSpawner_t44E5536D2A0C022FA8037C71741171A999A86364  : public MonoBehaviour_t37A501200D970A8257124B0EAE00A0FF3DDC354A
 {
 public:
 	// System.Int32 TMPro.Examples.TextMeshSpawner::SpawnType
@@ -14582,7 +14582,7 @@ public:
 
 
 // UnityEngine.EventSystems.UIBehaviour
-struct  UIBehaviour_tD1C6E2D542222546D68510ECE74036EFBC3C3B0E  : public MonoBehaviour_t37A501200D970A8257124B0EAE00A0FF3DDC354A
+struct UIBehaviour_tD1C6E2D542222546D68510ECE74036EFBC3C3B0E  : public MonoBehaviour_t37A501200D970A8257124B0EAE00A0FF3DDC354A
 {
 public:
 
@@ -14591,7 +14591,7 @@ public:
 
 
 // UI_MGMT
-struct  UI_MGMT_tB463D6FC2F35967829E268ABEA3A7081E491C224  : public MonoBehaviour_t37A501200D970A8257124B0EAE00A0FF3DDC354A
+struct UI_MGMT_tB463D6FC2F35967829E268ABEA3A7081E491C224  : public MonoBehaviour_t37A501200D970A8257124B0EAE00A0FF3DDC354A
 {
 public:
 
@@ -14600,7 +14600,7 @@ public:
 
 
 // TMPro.Examples.VertexColorCycler
-struct  VertexColorCycler_t37E80E87D8EAD0D7757CDA45BD5D3AA82FD28374  : public MonoBehaviour_t37A501200D970A8257124B0EAE00A0FF3DDC354A
+struct VertexColorCycler_t37E80E87D8EAD0D7757CDA45BD5D3AA82FD28374  : public MonoBehaviour_t37A501200D970A8257124B0EAE00A0FF3DDC354A
 {
 public:
 	// TMPro.TMP_Text TMPro.Examples.VertexColorCycler::m_TextComponent
@@ -14619,7 +14619,7 @@ public:
 
 
 // TMPro.Examples.VertexJitter
-struct  VertexJitter_t4BF9FCCB84221E69D9E3727E32E49710F3B4342A  : public MonoBehaviour_t37A501200D970A8257124B0EAE00A0FF3DDC354A
+struct VertexJitter_t4BF9FCCB84221E69D9E3727E32E49710F3B4342A  : public MonoBehaviour_t37A501200D970A8257124B0EAE00A0FF3DDC354A
 {
 public:
 	// System.Single TMPro.Examples.VertexJitter::AngleMultiplier
@@ -14678,7 +14678,7 @@ public:
 
 
 // TMPro.Examples.VertexShakeA
-struct  VertexShakeA_t9DED8926E2D8F5E9D457C678C85062CB3B7A923A  : public MonoBehaviour_t37A501200D970A8257124B0EAE00A0FF3DDC354A
+struct VertexShakeA_t9DED8926E2D8F5E9D457C678C85062CB3B7A923A  : public MonoBehaviour_t37A501200D970A8257124B0EAE00A0FF3DDC354A
 {
 public:
 	// System.Single TMPro.Examples.VertexShakeA::AngleMultiplier
@@ -14747,7 +14747,7 @@ public:
 
 
 // TMPro.Examples.VertexShakeB
-struct  VertexShakeB_t348FF1466CEF3BFED37C140B7AEFA2EA90D703C9  : public MonoBehaviour_t37A501200D970A8257124B0EAE00A0FF3DDC354A
+struct VertexShakeB_t348FF1466CEF3BFED37C140B7AEFA2EA90D703C9  : public MonoBehaviour_t37A501200D970A8257124B0EAE00A0FF3DDC354A
 {
 public:
 	// System.Single TMPro.Examples.VertexShakeB::AngleMultiplier
@@ -14806,7 +14806,7 @@ public:
 
 
 // TMPro.Examples.VertexZoom
-struct  VertexZoom_t02E8994D3A9EB41AEEF1544EF8C93009F6153163  : public MonoBehaviour_t37A501200D970A8257124B0EAE00A0FF3DDC354A
+struct VertexZoom_t02E8994D3A9EB41AEEF1544EF8C93009F6153163  : public MonoBehaviour_t37A501200D970A8257124B0EAE00A0FF3DDC354A
 {
 public:
 	// System.Single TMPro.Examples.VertexZoom::AngleMultiplier
@@ -14865,7 +14865,7 @@ public:
 
 
 // TMPro.Examples.WarpTextExample
-struct  WarpTextExample_t9CE7000EFB1B8696E32CC86E87E3D0EDEA3D5A96  : public MonoBehaviour_t37A501200D970A8257124B0EAE00A0FF3DDC354A
+struct WarpTextExample_t9CE7000EFB1B8696E32CC86E87E3D0EDEA3D5A96  : public MonoBehaviour_t37A501200D970A8257124B0EAE00A0FF3DDC354A
 {
 public:
 	// TMPro.TMP_Text TMPro.Examples.WarpTextExample::m_TextComponent
@@ -14925,7 +14925,7 @@ public:
 
 
 // UnityEngine.UI.Graphic
-struct  Graphic_tF07D777035055CF93BA5F46F77ED5EDFEFF9AE24  : public UIBehaviour_tD1C6E2D542222546D68510ECE74036EFBC3C3B0E
+struct Graphic_tF07D777035055CF93BA5F46F77ED5EDFEFF9AE24  : public UIBehaviour_tD1C6E2D542222546D68510ECE74036EFBC3C3B0E
 {
 public:
 	// UnityEngine.Material UnityEngine.UI.Graphic::m_Material
@@ -15173,7 +15173,7 @@ public:
 
 
 // UnityEngine.UI.Selectable
-struct  Selectable_t34088A3677CC9D344F81B0D91999D8C5963D7DBD  : public UIBehaviour_tD1C6E2D542222546D68510ECE74036EFBC3C3B0E
+struct Selectable_t34088A3677CC9D344F81B0D91999D8C5963D7DBD  : public UIBehaviour_tD1C6E2D542222546D68510ECE74036EFBC3C3B0E
 {
 public:
 	// System.Boolean UnityEngine.UI.Selectable::m_EnableCalled
@@ -15371,7 +15371,7 @@ public:
 
 
 // TMPro.TextContainer
-struct  TextContainer_t397B1340CD69150F936048DB53D857135408D2A1  : public UIBehaviour_tD1C6E2D542222546D68510ECE74036EFBC3C3B0E
+struct TextContainer_t397B1340CD69150F936048DB53D857135408D2A1  : public UIBehaviour_tD1C6E2D542222546D68510ECE74036EFBC3C3B0E
 {
 public:
 	// System.Boolean TMPro.TextContainer::m_hasChanged
@@ -15519,7 +15519,7 @@ public:
 
 
 // UnityEngine.UI.Button
-struct  Button_tA893FC15AB26E1439AC25BDCA7079530587BB65D  : public Selectable_t34088A3677CC9D344F81B0D91999D8C5963D7DBD
+struct Button_tA893FC15AB26E1439AC25BDCA7079530587BB65D  : public Selectable_t34088A3677CC9D344F81B0D91999D8C5963D7DBD
 {
 public:
 	// UnityEngine.UI.Button/ButtonClickedEvent UnityEngine.UI.Button::m_OnClick
@@ -15538,7 +15538,7 @@ public:
 
 
 // UnityEngine.UI.MaskableGraphic
-struct  MaskableGraphic_t0DB59E37E3C8AD2F5A4FB7FB091630CB21370CCE  : public Graphic_tF07D777035055CF93BA5F46F77ED5EDFEFF9AE24
+struct MaskableGraphic_t0DB59E37E3C8AD2F5A4FB7FB091630CB21370CCE  : public Graphic_tF07D777035055CF93BA5F46F77ED5EDFEFF9AE24
 {
 public:
 	// System.Boolean UnityEngine.UI.MaskableGraphic::m_ShouldRecalculateStencil
@@ -15650,7 +15650,7 @@ public:
 
 
 // UnityEngine.UI.Scrollbar
-struct  Scrollbar_tECAC7FD315210FC856A3EC60AE1847A66AAF6C28  : public Selectable_t34088A3677CC9D344F81B0D91999D8C5963D7DBD
+struct Scrollbar_tECAC7FD315210FC856A3EC60AE1847A66AAF6C28  : public Selectable_t34088A3677CC9D344F81B0D91999D8C5963D7DBD
 {
 public:
 	// UnityEngine.RectTransform UnityEngine.UI.Scrollbar::m_HandleRect
@@ -15782,7 +15782,7 @@ public:
 
 
 // UnityEngine.UI.Slider
-struct  Slider_tBF39A11CC24CBD3F8BD728982ACAEAE43989B51A  : public Selectable_t34088A3677CC9D344F81B0D91999D8C5963D7DBD
+struct Slider_tBF39A11CC24CBD3F8BD728982ACAEAE43989B51A  : public Selectable_t34088A3677CC9D344F81B0D91999D8C5963D7DBD
 {
 public:
 	// UnityEngine.RectTransform UnityEngine.UI.Slider::m_FillRect
@@ -15958,7 +15958,7 @@ public:
 
 
 // TMPro.TMP_InputField
-struct  TMP_InputField_tD50B4F3E6822EAC2720FAED56B86E98183F61D59  : public Selectable_t34088A3677CC9D344F81B0D91999D8C5963D7DBD
+struct TMP_InputField_tD50B4F3E6822EAC2720FAED56B86E98183F61D59  : public Selectable_t34088A3677CC9D344F81B0D91999D8C5963D7DBD
 {
 public:
 	// UnityEngine.TouchScreenKeyboard TMPro.TMP_InputField::m_SoftKeyboard
@@ -16928,7 +16928,7 @@ public:
 
 
 // UnityEngine.UI.Image
-struct  Image_t4021FF27176E44BFEDDCBE43C7FE6B713EC70D3C  : public MaskableGraphic_t0DB59E37E3C8AD2F5A4FB7FB091630CB21370CCE
+struct Image_t4021FF27176E44BFEDDCBE43C7FE6B713EC70D3C  : public MaskableGraphic_t0DB59E37E3C8AD2F5A4FB7FB091630CB21370CCE
 {
 public:
 	// UnityEngine.Sprite UnityEngine.UI.Image::m_Sprite
@@ -17160,7 +17160,7 @@ public:
 
 
 // TMPro.TMP_Text
-struct  TMP_Text_t86179C97C713E1A6B3751B48DC7A16C874A7B262  : public MaskableGraphic_t0DB59E37E3C8AD2F5A4FB7FB091630CB21370CCE
+struct TMP_Text_t86179C97C713E1A6B3751B48DC7A16C874A7B262  : public MaskableGraphic_t0DB59E37E3C8AD2F5A4FB7FB091630CB21370CCE
 {
 public:
 	// System.String TMPro.TMP_Text::m_text
@@ -19968,7 +19968,7 @@ public:
 
 
 // UnityEngine.UI.Text
-struct  Text_t6A2339DA6C05AE2646FC1A6C8FCC127391BE7FA1  : public MaskableGraphic_t0DB59E37E3C8AD2F5A4FB7FB091630CB21370CCE
+struct Text_t6A2339DA6C05AE2646FC1A6C8FCC127391BE7FA1  : public MaskableGraphic_t0DB59E37E3C8AD2F5A4FB7FB091630CB21370CCE
 {
 public:
 	// UnityEngine.UI.FontData UnityEngine.UI.Text::m_FontData
@@ -20058,7 +20058,7 @@ public:
 
 
 // TMPro.TextMeshPro
-struct  TextMeshPro_t4C8C961C0939CD311CCC4F5F306C27C5301BD8E4  : public TMP_Text_t86179C97C713E1A6B3751B48DC7A16C874A7B262
+struct TextMeshPro_t4C8C961C0939CD311CCC4F5F306C27C5301BD8E4  : public TMP_Text_t86179C97C713E1A6B3751B48DC7A16C874A7B262
 {
 public:
 	// System.Int32 TMPro.TextMeshPro::_SortingLayer
@@ -20447,7 +20447,7 @@ public:
 
 
 // TMPro.TextMeshProUGUI
-struct  TextMeshProUGUI_tCC5BE8A76E6E9AF92521A462E8D81ACFBA7C85F1  : public TMP_Text_t86179C97C713E1A6B3751B48DC7A16C874A7B262
+struct TextMeshProUGUI_tCC5BE8A76E6E9AF92521A462E8D81ACFBA7C85F1  : public TMP_Text_t86179C97C713E1A6B3751B48DC7A16C874A7B262
 {
 public:
 	// System.Boolean TMPro.TextMeshProUGUI::m_isRebuildingLayout

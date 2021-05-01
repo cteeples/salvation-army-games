@@ -47,7 +47,7 @@ IL2CPP_EXTERN_C_END
 #endif
 
 // <Module>
-struct  U3CModuleU3E_t48EDC7BC6664810A516BA165C1DF8F3DE2ECA8E0 
+struct U3CModuleU3E_t48EDC7BC6664810A516BA165C1DF8F3DE2ECA8E0 
 {
 public:
 
@@ -63,7 +63,7 @@ struct Il2CppArrayBounds;
 
 
 // System.String
-struct  String_t  : public RuntimeObject
+struct String_t  : public RuntimeObject
 {
 public:
 	// System.Int32 System.String::m_stringLength
@@ -108,7 +108,7 @@ public:
 
 
 // System.ValueType
-struct  ValueType_tDBF999C1B75C48C68621878250DBF6CDBCF51E52  : public RuntimeObject
+struct ValueType_tDBF999C1B75C48C68621878250DBF6CDBCF51E52  : public RuntimeObject
 {
 public:
 
@@ -125,7 +125,7 @@ struct ValueType_tDBF999C1B75C48C68621878250DBF6CDBCF51E52_marshaled_com
 };
 
 // UnityEngine.XR.XRDevice
-struct  XRDevice_t2C2B952750A66CA935A8A94FD6B022F629D0B9CA  : public RuntimeObject
+struct XRDevice_t2C2B952750A66CA935A8A94FD6B022F629D0B9CA  : public RuntimeObject
 {
 public:
 
@@ -151,7 +151,7 @@ public:
 
 
 // UnityEngine.XR.XRSettings
-struct  XRSettings_tD290B0A8EE92908DFAA8B103B157FEAF60AE0350  : public RuntimeObject
+struct XRSettings_tD290B0A8EE92908DFAA8B103B157FEAF60AE0350  : public RuntimeObject
 {
 public:
 
@@ -160,7 +160,7 @@ public:
 
 
 // System.Boolean
-struct  Boolean_t07D1E3F34E4813023D64F584DFF7B34C9D922F37 
+struct Boolean_t07D1E3F34E4813023D64F584DFF7B34C9D922F37 
 {
 public:
 	// System.Boolean System.Boolean::m_value
@@ -206,7 +206,7 @@ public:
 
 
 // System.Enum
-struct  Enum_t23B90B40F60E677A8025267341651C94AE079CDA  : public ValueType_tDBF999C1B75C48C68621878250DBF6CDBCF51E52
+struct Enum_t23B90B40F60E677A8025267341651C94AE079CDA  : public ValueType_tDBF999C1B75C48C68621878250DBF6CDBCF51E52
 {
 public:
 
@@ -240,7 +240,7 @@ struct Enum_t23B90B40F60E677A8025267341651C94AE079CDA_marshaled_com
 };
 
 // System.Int32
-struct  Int32_tFDE5F8CD43D10453F6A2E0C77FE48C6CC7009046 
+struct Int32_tFDE5F8CD43D10453F6A2E0C77FE48C6CC7009046 
 {
 public:
 	// System.Int32 System.Int32::m_value
@@ -258,7 +258,7 @@ public:
 
 
 // System.IntPtr
-struct  IntPtr_t 
+struct IntPtr_t 
 {
 public:
 	// System.Void* System.IntPtr::m_value
@@ -292,7 +292,7 @@ public:
 
 
 // System.Single
-struct  Single_tE07797BA3C98D4CA9B5A19413C19A76688AB899E 
+struct Single_tE07797BA3C98D4CA9B5A19413C19A76688AB899E 
 {
 public:
 	// System.Single System.Single::m_value
@@ -310,7 +310,7 @@ public:
 
 
 // System.Void
-struct  Void_t700C6383A2A510C2CF4DD86DABD5CA9FF70ADAC5 
+struct Void_t700C6383A2A510C2CF4DD86DABD5CA9FF70ADAC5 
 {
 public:
 	union
@@ -326,7 +326,7 @@ public:
 
 
 // System.Delegate
-struct  Delegate_t  : public RuntimeObject
+struct Delegate_t  : public RuntimeObject
 {
 public:
 	// System.IntPtr System.Delegate::method_ptr
@@ -478,7 +478,7 @@ struct Delegate_t_marshaled_com
 };
 
 // UnityEngine.Experimental.Rendering.GraphicsFormat
-struct  GraphicsFormat_t07A3C024BC77B843C53A369D6FC02ABD27D2AB1D 
+struct GraphicsFormat_t07A3C024BC77B843C53A369D6FC02ABD27D2AB1D 
 {
 public:
 	// System.Int32 UnityEngine.Experimental.Rendering.GraphicsFormat::value__
@@ -496,7 +496,7 @@ public:
 
 
 // UnityEngine.RenderTextureCreationFlags
-struct  RenderTextureCreationFlags_t24A9C99A84202C1F13828D9F5693BE46CFBD61F3 
+struct RenderTextureCreationFlags_t24A9C99A84202C1F13828D9F5693BE46CFBD61F3 
 {
 public:
 	// System.Int32 UnityEngine.RenderTextureCreationFlags::value__
@@ -514,7 +514,7 @@ public:
 
 
 // UnityEngine.RenderTextureMemoryless
-struct  RenderTextureMemoryless_t37547D68C2186D2650440F719302CDA4A3BB7F67 
+struct RenderTextureMemoryless_t37547D68C2186D2650440F719302CDA4A3BB7F67 
 {
 public:
 	// System.Int32 UnityEngine.RenderTextureMemoryless::value__
@@ -532,7 +532,7 @@ public:
 
 
 // UnityEngine.Rendering.ShadowSamplingMode
-struct  ShadowSamplingMode_t864AB52A05C1F54A738E06F76F47CDF4C26CF7F9 
+struct ShadowSamplingMode_t864AB52A05C1F54A738E06F76F47CDF4C26CF7F9 
 {
 public:
 	// System.Int32 UnityEngine.Rendering.ShadowSamplingMode::value__
@@ -550,7 +550,7 @@ public:
 
 
 // UnityEngine.Rendering.TextureDimension
-struct  TextureDimension_tADCCB7C1D30E4D1182651BA9094B4DE61B63EACC 
+struct TextureDimension_tADCCB7C1D30E4D1182651BA9094B4DE61B63EACC 
 {
 public:
 	// System.Int32 UnityEngine.Rendering.TextureDimension::value__
@@ -568,7 +568,7 @@ public:
 
 
 // UnityEngine.VRTextureUsage
-struct  VRTextureUsage_t3C09DF3DD90B5620BC0AB6F8078DFEF4E607F645 
+struct VRTextureUsage_t3C09DF3DD90B5620BC0AB6F8078DFEF4E607F645 
 {
 public:
 	// System.Int32 UnityEngine.VRTextureUsage::value__
@@ -585,8 +585,26 @@ public:
 };
 
 
+// UnityEngine.XR.XRSettings/StereoRenderingMode
+struct StereoRenderingMode_tB4D4B097FB7FAA6FC56A4A957C86E8F5D2ECBA8B 
+{
+public:
+	// System.Int32 UnityEngine.XR.XRSettings/StereoRenderingMode::value__
+	int32_t ___value___2;
+
+public:
+	inline static int32_t get_offset_of_value___2() { return static_cast<int32_t>(offsetof(StereoRenderingMode_tB4D4B097FB7FAA6FC56A4A957C86E8F5D2ECBA8B, ___value___2)); }
+	inline int32_t get_value___2() const { return ___value___2; }
+	inline int32_t* get_address_of_value___2() { return &___value___2; }
+	inline void set_value___2(int32_t value)
+	{
+		___value___2 = value;
+	}
+};
+
+
 // System.MulticastDelegate
-struct  MulticastDelegate_t  : public Delegate_t
+struct MulticastDelegate_t  : public Delegate_t
 {
 public:
 	// System.Delegate[] System.MulticastDelegate::delegates
@@ -615,7 +633,7 @@ struct MulticastDelegate_t_marshaled_com : public Delegate_t_marshaled_com
 };
 
 // UnityEngine.RenderTextureDescriptor
-struct  RenderTextureDescriptor_t67FF189E1F35AEB5D6C43A2D7103F3A8A8CA0B47 
+struct RenderTextureDescriptor_t67FF189E1F35AEB5D6C43A2D7103F3A8A8CA0B47 
 {
 public:
 	// System.Int32 UnityEngine.RenderTextureDescriptor::<width>k__BackingField
@@ -770,7 +788,7 @@ public:
 
 
 // System.Action`1<System.String>
-struct  Action_1_tC0D73E03177C82525D78670CDC2165F7CBF0A9C3  : public MulticastDelegate_t
+struct Action_1_tC0D73E03177C82525D78670CDC2165F7CBF0A9C3  : public MulticastDelegate_t
 {
 public:
 
@@ -930,6 +948,16 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR float XRSettings_get_renderViewportScaleInter
 	float icallRetVal = _il2cpp_icall_func();
 	return icallRetVal;
 }
+// UnityEngine.XR.XRSettings/StereoRenderingMode UnityEngine.XR.XRSettings::get_stereoRenderingMode()
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR int32_t XRSettings_get_stereoRenderingMode_m2E44AF3D772559836F2357AEC1E175C68E6D94B9 (const RuntimeMethod* method)
+{
+	typedef int32_t (*XRSettings_get_stereoRenderingMode_m2E44AF3D772559836F2357AEC1E175C68E6D94B9_ftn) ();
+	static XRSettings_get_stereoRenderingMode_m2E44AF3D772559836F2357AEC1E175C68E6D94B9_ftn _il2cpp_icall_func;
+	if (!_il2cpp_icall_func)
+	_il2cpp_icall_func = (XRSettings_get_stereoRenderingMode_m2E44AF3D772559836F2357AEC1E175C68E6D94B9_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.XR.XRSettings::get_stereoRenderingMode()");
+	int32_t icallRetVal = _il2cpp_icall_func();
+	return icallRetVal;
+}
 // System.Void UnityEngine.XR.XRSettings::get_eyeTextureDesc_Injected(UnityEngine.RenderTextureDescriptor&)
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void XRSettings_get_eyeTextureDesc_Injected_m639509084F5EC222779474C77EF7586989C4F856 (RenderTextureDescriptor_t67FF189E1F35AEB5D6C43A2D7103F3A8A8CA0B47 * ___ret0, const RuntimeMethod* method)
 {
@@ -939,6 +967,14 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void XRSettings_get_eyeTextureDesc_Injected_m
 	_il2cpp_icall_func = (XRSettings_get_eyeTextureDesc_Injected_m639509084F5EC222779474C77EF7586989C4F856_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.XR.XRSettings::get_eyeTextureDesc_Injected(UnityEngine.RenderTextureDescriptor&)");
 	_il2cpp_icall_func(___ret0);
 }
+#ifdef __clang__
+#pragma clang diagnostic pop
+#endif
+#ifdef __clang__
+#pragma clang diagnostic push
+#pragma clang diagnostic ignored "-Winvalid-offsetof"
+#pragma clang diagnostic ignored "-Wunused-variable"
+#endif
 #ifdef __clang__
 #pragma clang diagnostic pop
 #endif
