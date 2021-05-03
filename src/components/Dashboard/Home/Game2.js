@@ -22,5 +22,5 @@ const unityContext = new UnityContext({
     codeUrl: "/buildEC/EC.wasm",
     frameworkUrl: "/buildEC/EC.framework.js",
     dataUrl: "/buildEC/EC.data",
-    loaderUrl: "/buildEC/EC.loader.js"
+    loaderUrl: "/buildEC/EC.loader.js",
 });
